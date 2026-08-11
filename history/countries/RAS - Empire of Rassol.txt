@@ -537,3 +537,4 @@ create_faction_from_template = faction_template_rassol_str
 add_to_faction = RAS
 add_to_faction = TAB
 add_to_faction = KSS
+
