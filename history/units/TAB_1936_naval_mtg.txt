@@ -1,0 +1,88 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Empire of Taburetki Fleet"			
+		naval_base = 5338
+		task_force = {
+			name = "Empire of Taburetki Fleet"
+			location = 5338
+			
+						ship = { name = "Svezava" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Mesecno Class" } }	}
+			ship = { name = "Hodaro" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Mesecno Class" } }	}
+			ship = { name = "Velo" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Voda" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Leka" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Vina" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Izvo" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Vrlik" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Dobava" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Caslastica" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Mesecno" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Otar" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Granstore" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Tram" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Izvo 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Muzik" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Nada" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Vodnik" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Plost" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Plost 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Lekar" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Slik" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Lekar 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Vrlik 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Mesnik" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Mesecno 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Nada 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Granstore 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Kralja" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Masinja" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Kovo" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Glat" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Leka 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Kori" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Granstore 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Kucana" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Kucak" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Glat 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Glat 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Caslastica 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Lekar 3" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Plost 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Mesecno 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Izvo 3" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Slik 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Glat 4" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Otar 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Lekt" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Smrt" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Nada 3" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Kucana 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Voda 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Peskar" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+			ship = { name = "Kori 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Plost 4" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = TAB version_name = "Dobava Class" } }	}
+			ship = { name = "Otar 3" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Vrlik 3" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Izvo 4" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Dusac" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Reka" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = TAB version_name = "Grmljst Class" } }	}
+			ship = { name = "Kucak 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = TAB version_name = "Plost Class" } }	}
+			ship = { name = "Lekar 4" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = TAB version_name = "Lekar Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

@@ -1,0 +1,49 @@
+air_wings = {
+		261 = { 								
+		small_plane_airframe_0 = { owner = "RYK" amount = 50 version_name = "Maishimbanaj Mk 0" }
+
+	}
+	475 = { 								
+		small_plane_cas_airframe_0 = { owner = "RYK" amount = 50 version_name = "Damli Mk 1" }
+
+	}
+	377 = { 								
+		small_plane_airframe_0 = { owner = "RYK" amount = 50 version_name = "Maishimbanaj Mk 0" }
+
+	}
+	342 = { 								
+		small_plane_airframe_0 = { owner = "RYK" amount = 50 version_name = "Maishimbanaj Mk 0" }
+
+	}
+	1 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "RYK" amount = 50 version_name = "Shimu Mk 1" }
+medium_plane_airframe_0 = { owner = "RYK" amount = 50 version_name = "Mlindi Mk 0" }
+
+	}
+	251 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "RYK" amount = 50 version_name = "Shimu Mk 1" }
+
+	}
+	636 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "RYK" amount = 50 version_name = "Shimu Mk 1" }
+
+	}
+	42 = { 								
+		small_plane_cas_airframe_0 = { owner = "RYK" amount = 50 version_name = "Damli Mk 1" }
+
+	}
+	172 = { 								
+		medium_plane_airframe_0 = { owner = "RYK" amount = 50 version_name = "Mlindi Mk 0" }
+
+	}
+	298 = { 								
+		medium_plane_airframe_0 = { owner = "RYK" amount = 50 version_name = "Mlindi Mk 0" }
+
+	}
+	229 = { 								
+		small_plane_cas_airframe_0 = { owner = "RYK" amount = 50 version_name = "Damli Mk 1" }
+
+	}
+
+
+}

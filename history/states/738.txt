@@ -1,0 +1,43 @@
+
+state={
+	id=738
+	name="STATE_738"
+	manpower = 2656353
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4921 5}
+		victory_points = { 4923 1}
+		victory_points = { 4925 1}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 0
+			
+			4921 = {
+				naval_base = 2
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		4920 4921 4922 4923 4924 4925 4926 
+	}
+	local_supplies=0.0 
+}

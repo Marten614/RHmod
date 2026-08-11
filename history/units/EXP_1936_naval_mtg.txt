@@ -1,0 +1,66 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Coalition Expeditionary Force Fleet"			
+		naval_base = 3964
+		task_force = {
+			name = "Coalition Expeditionary Force Fleet"
+			location = 3964
+			
+						ship = { name = "Adan" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Damahla" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Damahla 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Kerbubula" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Tereman" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Bintu" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Teta" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Damahla 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Terah" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Bula" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Seni" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Gempacaka" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Batahabat" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Gempacaka 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Batahabat 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Hatukebintu" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Seni 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Teta 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Bahata" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Pulampin" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Hukuangitter" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Berbat" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Terah 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Nafasan" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Bumai" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Rajarian" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Senahabahaya" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Kotahasa" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Nafasjidun" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Seni 3" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Hatukebintu 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Gempacaka 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Nafasjidun 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Pasjidunungi" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Bintu 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Rimpi" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Legenja" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Terah 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = EXP version_name = "Guruhan Class" } }	}
+			ship = { name = "Halata" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+			ship = { name = "Pulampin 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = EXP version_name = "Halata Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

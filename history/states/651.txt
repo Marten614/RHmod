@@ -1,0 +1,38 @@
+
+state={
+	id=651
+	name="STATE_651"
+	manpower = 2040818
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4415 2}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		4414 4415 4416 4417 4418 4419 4420 4421 4422 4423 4424 4425 4426 4427 4428 4429 4430 
+	}
+	local_supplies=0.0 
+}

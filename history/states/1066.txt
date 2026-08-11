@@ -1,0 +1,38 @@
+
+state={
+	id=1066
+	name="STATE_1066"
+	manpower = 383400
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6642 1}
+		
+		owner = FAN
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = FAN
+	}
+
+	provinces={
+		6642 
+	}
+	local_supplies=0.0 
+}

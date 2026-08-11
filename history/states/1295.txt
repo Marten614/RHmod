@@ -1,0 +1,39 @@
+
+state={
+	id=1295
+	name="STATE_1295"
+	manpower = 2434617
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=1
+	}
+
+	history={
+		victory_points = { 7698 6}
+		victory_points = { 7700 1}
+		
+		owner = RAS
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = RAS
+	}
+
+	provinces={
+		7697 7698 7699 7700 7701 7702 7703 7704 7705 7706 
+	}
+	local_supplies=0.0 
+}

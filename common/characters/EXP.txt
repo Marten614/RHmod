@@ -1,0 +1,1083 @@
+characters = {
+	EXP_Fajari_Gerang={
+		name="Fajari Gerang"
+
+		
+		country_leader={
+			ideology=despotism
+			traits = { veteran_anti_bolshevik  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	EXP_Arjuna_Alamahayarem={
+		name="Arjuna Alamahayarem"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Arjuna_Alamahayarem
+			traits = {	socialite_connections 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_2_small
+			}
+		}
+
+
+	}
+	EXP_Bamban_Guruhan={
+		name="Bamban Guruhan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Bamban_Guruhan
+			traits = {	humble 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_2_small
+			}
+		}
+
+
+	}
+	EXP_Ramban_Senyahgun={
+		name="Ramban Senyahgun"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Ramban_Senyahgun
+			traits = {	headstrong 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Andi_Hukuangitter={
+		name="Andi Hukuangitter"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Andi_Hukuangitter
+			traits = {	agricultural_nationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Mario_Ilmurumbata={
+		name="Mario Ilmurumbata"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Mario_Ilmurumbata
+			traits = {	national_determinist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Africa_Generic_1_small
+			}
+		}
+
+
+	}
+	EXP_Wayang_Nafasan={
+		name="Wayang Nafasan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Wayang_Nafasan
+			traits = {	agricultural_capitalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Dewa_Adan={
+		name="Dewa Adan"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Dewa_Adan
+			traits = {	army_chief_organizational_1 	}
+		}
+
+
+	}
+	EXP_Sakti_Ritu={
+		name="Sakti Ritu"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Sakti_Ritu
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	EXP_Bamban_Upalaja={
+		name="Bamban Upalaja"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Bamban_Upalaja
+			traits = {	army_chief_entrenchment_1 	}
+		}
+
+
+	}
+	EXP_Putfi_Peti={
+		name="Putfi Peti"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Putfi_Peti
+			traits = {	army_chief_planning_2 	}
+		}
+
+
+	}
+	EXP_Rizal_Tulawa={
+		name="Rizal Tulawa"
+
+		advisor={
+			slot = navy_chief
+			idea_token = EXP_Rizal_Tulawa
+			traits = {	navy_chief_maneuver_1 	}
+		}
+
+
+	}
+	EXP_Arjuna_Damahla={
+		name="Arjuna Damahla"
+
+		advisor={
+			slot = navy_chief
+			idea_token = EXP_Arjuna_Damahla
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	EXP_Fajari_Perja={
+		name="Fajari Perja"
+
+		advisor={
+			slot = air_chief
+			idea_token = EXP_Fajari_Perja
+			traits = {	air_chief_night_operations_1 	}
+		}
+
+
+	}
+	EXP_Lutra_Anakitteraha={
+		name="Lutra Anakitteraha"
+
+		advisor={
+			slot = air_chief
+			idea_token = EXP_Lutra_Anakitteraha
+			traits = {	air_chief_safety_1 	}
+		}
+
+
+	}
+	EXP_Sakti_Tuarah={
+		name="Sakti Tuarah"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Sakti_Tuarah
+			traits = {	army_logistics_2 	}
+		}
+
+
+	}
+	EXP_Agus_Lagainta={
+		name="Agus Lagainta"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Agus_Lagainta
+			traits = {	navy_capital_ship_2 	}
+		}
+
+
+	}
+	EXP_Budi_Naga={
+		name="Budi Naga"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Budi_Naga
+			traits = {	navy_submarine_2 	}
+		}
+
+
+	}
+	EXP_Ketutfi_Gerang={
+		name="Ketutfi Gerang"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Ketutfi_Gerang
+			traits = {	navy_amphibious_assault_1 	}
+		}
+
+
+	}
+	EXP_Rambang_Tulawa={
+		name="Rambang Tulawa"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Rambang_Tulawa
+			traits = {	army_CombinedArms_2 	}
+		}
+
+
+	}
+	EXP_Waya_Ceran={
+		name="Waya Ceran"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Waya_Ceran
+			traits = {	army_cavalry_1 	}
+		}
+
+
+	}
+	EXP_Andi_Kulit={
+		name="Andi Kulit"
+
+		
+		country_leader={
+			ideology=falangism
+			traits = { celebrity_junta_leader  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	EXP_Lutra_Ritu={
+		name="Lutra Ritu"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Lutra_Ritu
+			traits = {	vapsid_economist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Africa_Generic_1_small
+			}
+		}
+
+
+	}
+	EXP_Mario_Tepisuci={
+		name="Mario Tepisuci"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Mario_Tepisuci
+			traits = {	spirit_of_genghis 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_2_small
+			}
+		}
+
+
+	}
+	EXP_Putra_Kambukut={
+		name="Putra Kambukut"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Putra_Kambukut
+			traits = {	autocratic_imperialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Rama_Pintukekut={
+		name="Rama Pintukekut"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Rama_Pintukekut
+			traits = {	autokrator 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Rama_Upalaja={
+		name="Rama Upalaja"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Rama_Upalaja
+			traits = {	autokrator 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_2_small
+			}
+		}
+
+
+	}
+	EXP_Fajari_Peti={
+		name="Fajari Peti"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Fajari_Peti
+			traits = {	collaborator_king 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Ketut_Peta={
+		name="Ketut Peta"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Ketut_Peta
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	EXP_Putfi_Hatukebintu={
+		name="Putfi Hatukebintu"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Putfi_Hatukebintu
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	EXP_Mari_Bunun={
+		name="Mari Bunun"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Mari_Bunun
+			traits = {	army_chief_maneuver_2 	}
+		}
+
+
+	}
+	EXP_Sakti_Rohon={
+		name="Sakti Rohon"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Sakti_Rohon
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	EXP_Rambang_Tereman={
+		name="Rambang Tereman"
+
+		advisor={
+			slot = navy_chief
+			idea_token = EXP_Rambang_Tereman
+			traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+
+	}
+	EXP_Andi_Rohon={
+		name="Andi Rohon"
+
+		advisor={
+			slot = navy_chief
+			idea_token = EXP_Andi_Rohon
+			traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+
+	}
+	EXP_Hari_Bahata={
+		name="Hari Bahata"
+
+		advisor={
+			slot = air_chief
+			idea_token = EXP_Hari_Bahata
+			traits = {	air_chief_all_weather_1 	}
+		}
+
+
+	}
+	EXP_Ketutfi_Gemu={
+		name="Ketutfi Gemu"
+
+		advisor={
+			slot = air_chief
+			idea_token = EXP_Ketutfi_Gemu
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	EXP_Joko_Tepisuci={
+		name="Joko Tepisuci"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Joko_Tepisuci
+			traits = {	navy_carrier_1 	}
+		}
+
+
+	}
+	EXP_Arjuna_Kerbubula={
+		name="Arjuna Kerbubula"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Arjuna_Kerbubula
+			traits = {	army_artillery_1 	}
+		}
+
+
+	}
+	EXP_Lutra_Pangit={
+		name="Lutra Pangit"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Lutra_Pangit
+			traits = {	army_armored_1 	}
+		}
+
+
+	}
+	EXP_Fajari_Halaua={
+		name="Fajari Halaua"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Fajari_Halaua
+			traits = {	army_cavalry_2 	}
+		}
+
+
+	}
+	EXP_Bamban_Damahla={
+		name="Bamban Damahla"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Bamban_Damahla
+			traits = {	navy_fleet_logistics_2 	}
+		}
+
+
+	}
+	EXP_Rizal_Dana={
+		name="Rizal Dana"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Rizal_Dana
+			traits = {	air_bomber_interception_2 	}
+		}
+
+
+	}
+	EXP_Rama_Bulaut={
+		name="Rama Bulaut"
+
+		
+		country_leader={
+			ideology=leninism
+			traits = { anti_bolshevik_leftist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	EXP_Wayang_Anakitteraha={
+		name="Wayang Anakitteraha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Wayang_Anakitteraha
+			traits = {	revolutionary_poet 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_2_small
+			}
+		}
+
+
+	}
+	EXP_Rama_Naga={
+		name="Rama Naga"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Rama_Naga
+			traits = {	devoted_marxist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Fajari_Bunun={
+		name="Fajari Bunun"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Fajari_Bunun
+			traits = {	patriotic_socialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Joko_Guruhan={
+		name="Joko Guruhan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Joko_Guruhan
+			traits = {	political_dancer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Bamban_Kotahasa={
+		name="Bamban Kotahasa"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Bamban_Kotahasa
+			traits = {	socialist_justice 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Rizal_Batahabat={
+		name="Rizal Batahabat"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Rizal_Batahabat
+			traits = {	mastermind_code_cracker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Africa_Generic_1_small
+			}
+		}
+
+
+	}
+	EXP_Lutra_Hatukebintu={
+		name="Lutra Hatukebintu"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Lutra_Hatukebintu
+			traits = {	army_chief_drill_2 	}
+		}
+
+
+	}
+	EXP_Dewa_Halaua={
+		name="Dewa Halaua"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Dewa_Halaua
+			traits = {	army_chief_offensive_2 	}
+		}
+
+
+	}
+	EXP_Fajario_Tepualuan={
+		name="Fajario Tepualuan"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Fajario_Tepualuan
+			traits = {	army_chief_organizational_1 	}
+		}
+
+
+	}
+	EXP_Sakti_Kulit={
+		name="Sakti Kulit"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Sakti_Kulit
+			traits = {	army_chief_planning_2 	}
+		}
+
+
+	}
+	EXP_Lutfi_Adan={
+		name="Lutfi Adan"
+
+		advisor={
+			slot = navy_chief
+			idea_token = EXP_Lutfi_Adan
+			traits = {	navy_chief_maneuver_1 	}
+		}
+
+
+	}
+	EXP_Arjuna_Bumai={
+		name="Arjuna Bumai"
+
+		advisor={
+			slot = navy_chief
+			idea_token = EXP_Arjuna_Bumai
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	EXP_Ketutra_Kulit={
+		name="Ketutra Kulit"
+
+		advisor={
+			slot = air_chief
+			idea_token = EXP_Ketutra_Kulit
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	EXP_Hario_Hukuangitter={
+		name="Hario Hukuangitter"
+
+		advisor={
+			slot = air_chief
+			idea_token = EXP_Hario_Hukuangitter
+			traits = {	air_chief_reform_2 	}
+		}
+
+
+	}
+	EXP_Ketutfi_Halaua={
+		name="Ketutfi Halaua"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Ketutfi_Halaua
+			traits = {	navy_capital_ship_2 	}
+		}
+
+
+	}
+	EXP_Sakti_Awang={
+		name="Sakti Awang"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Sakti_Awang
+			traits = {	navy_fleet_logistics_1 	}
+		}
+
+
+	}
+	EXP_Lutra_Guruhan={
+		name="Lutra Guruhan"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Lutra_Guruhan
+			traits = {	navy_capital_ship_1 	}
+		}
+
+
+	}
+	EXP_Surya_Bunun={
+		name="Surya Bunun"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Surya_Bunun
+			traits = {	navy_fleet_logistics_1 	}
+		}
+
+
+	}
+	EXP_Fajari_Kambukut={
+		name="Fajari Kambukut"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Fajari_Kambukut
+			traits = {	army_cavalry_1 	}
+		}
+
+
+	}
+	EXP_Lutra_Teta={
+		name="Lutra Teta"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Lutra_Teta
+			traits = {	air_naval_strike_2 	}
+		}
+
+
+	}
+	EXP_Ketut_Alamahayarem={
+		name="Ketut Alamahayarem"
+
+		
+		country_leader={
+			ideology=conservatism
+			traits = { first_lady  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	EXP_Mari_Tuarah={
+		name="Mari Tuarah"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Mari_Tuarah
+			traits = {	veteran_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Mari_Huka={
+		name="Mari Huka"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Mari_Huka
+			traits = {	the_banker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Africa_Generic_1_small
+			}
+		}
+
+
+	}
+	EXP_Mari_Dana={
+		name="Mari Dana"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Mari_Dana
+			traits = {	rearmer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
+
+
+	}
+	EXP_Lutra_Desa={
+		name="Lutra Desa"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Lutra_Desa
+			traits = {	the_banker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_2_small
+			}
+		}
+
+
+	}
+	EXP_Ramban_Ramanga={
+		name="Ramban Ramanga"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Ramban_Ramanga
+			traits = {	staunch_constitutionalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Africa_Generic_1_small
+			}
+		}
+
+
+	}
+	EXP_Bamban_Arwan={
+		name="Bamban Arwan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = EXP_Bamban_Arwan
+			traits = {	veteran_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Africa_Generic_1_small
+			}
+		}
+
+
+	}
+	EXP_Waya_Pulampin={
+		name="Waya Pulampin"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Waya_Pulampin
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	EXP_Fajario_Pangit={
+		name="Fajario Pangit"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Fajario_Pangit
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	EXP_Lutra_Ramanga={
+		name="Lutra Ramanga"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Lutra_Ramanga
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	EXP_Putra_Bintu={
+		name="Putra Bintu"
+
+		advisor={
+			slot = army_chief
+			idea_token = EXP_Putra_Bintu
+			traits = {	army_chief_defensive_1 	}
+		}
+
+
+	}
+	EXP_Mari_Hukuangitter={
+		name="Mari Hukuangitter"
+
+		advisor={
+			slot = navy_chief
+			idea_token = EXP_Mari_Hukuangitter
+			traits = {	navy_chief_reform_2 	}
+		}
+
+
+	}
+	EXP_Fajar_Utukerisa={
+		name="Fajar Utukerisa"
+
+		advisor={
+			slot = navy_chief
+			idea_token = EXP_Fajar_Utukerisa
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	EXP_Budi_Dana={
+		name="Budi Dana"
+
+		advisor={
+			slot = air_chief
+			idea_token = EXP_Budi_Dana
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	EXP_Sakti_Dana={
+		name="Sakti Dana"
+
+		advisor={
+			slot = air_chief
+			idea_token = EXP_Sakti_Dana
+			traits = {	air_chief_safety_1 	}
+		}
+
+
+	}
+	EXP_Hario_Tulawa={
+		name="Hario Tulawa"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Hario_Tulawa
+			traits = {	air_close_air_support_1 	}
+		}
+
+
+	}
+	EXP_Sakti_Ramanga={
+		name="Sakti Ramanga"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Sakti_Ramanga
+			traits = {	navy_amphibious_assault_1 	}
+		}
+
+
+	}
+	EXP_Dewa_Nagu={
+		name="Dewa Nagu"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Dewa_Nagu
+			traits = {	navy_submarine_1 	}
+		}
+
+
+	}
+	EXP_Lutfi_Suci={
+		name="Lutfi Suci"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Lutfi_Suci
+			traits = {	army_infantry_2 	}
+		}
+
+
+	}
+	EXP_Wayang_Seni={
+		name="Wayang Seni"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Wayang_Seni
+			traits = {	army_armored_2 	}
+		}
+
+
+	}
+	EXP_Sakti_Nafasan={
+		name="Sakti Nafasan"
+
+		advisor={
+			slot = high_command
+			idea_token = EXP_Sakti_Nafasan
+			traits = {	army_regrouping_2 	}
+		}
+
+
+	}
+	EXP_Ketut_Pangit={
+		name="Ketut Pangit"
+
+		advisor={
+			slot = theorist
+			idea_token = EXP_Ketut_Pangit
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	EXP_Fajar_Teti={
+		name="Fajar Teti"
+
+		advisor={
+			slot = theorist
+			idea_token = EXP_Fajar_Teti
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	EXP_Sakti_Alamahayarem={
+		name="Sakti Alamahayarem"
+
+		advisor={
+			slot = theorist
+			idea_token = EXP_Sakti_Alamahayarem
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

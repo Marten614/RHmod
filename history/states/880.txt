@@ -1,0 +1,38 @@
+
+state={
+	id=880
+	name="STATE_880"
+	manpower = 203738
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=2
+		chromium=2
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=2
+		coal=5
+	}
+
+	history={
+		victory_points = { 5686 1}
+		
+		owner = RAS
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = RAS
+	}
+
+	provinces={
+		5686 
+	}
+	local_supplies=0.0 
+}

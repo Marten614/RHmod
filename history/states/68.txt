@@ -1,0 +1,42 @@
+
+state={
+	id=68
+	name="STATE_68"
+	manpower = 3561790
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 567 1}
+		victory_points = { 569 2}
+		victory_points = { 571 1}
+		victory_points = { 574 1}
+		victory_points = { 575 6}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		566 567 568 569 570 571 572 573 574 575 
+	}
+	local_supplies=0.0 
+}

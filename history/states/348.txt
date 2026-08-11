@@ -1,0 +1,39 @@
+
+state={
+	id=348
+	name="STATE_348"
+	manpower = 2209322
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=6
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2542 3}
+		victory_points = { 2548 3}
+		
+		owner = RYK
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = RYK
+	}
+
+	provinces={
+		2541 2542 2543 2544 2545 2546 2547 2548 2549 
+	}
+	local_supplies=0.0 
+}

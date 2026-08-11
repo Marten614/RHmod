@@ -1,0 +1,41 @@
+
+state={
+	id=1514
+	name="STATE_1514"
+	manpower = 244867
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=2
+		chromium=3
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=2
+		coal=6
+	}
+
+	history={
+		victory_points = { 8768 1}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			8768 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		8768 
+	}
+	local_supplies=0.0 
+}

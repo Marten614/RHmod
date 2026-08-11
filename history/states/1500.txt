@@ -1,0 +1,43 @@
+
+state={
+	id=1500
+	name="STATE_1500"
+	manpower = 1390383
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=12
+		chromium=12
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=12
+		coal=30
+	}
+
+	history={
+		victory_points = { 8732 1}
+		victory_points = { 8733 1}
+		victory_points = { 8734 1}
+		
+		owner = JEW
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			8733 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = JEW
+	}
+
+	provinces={
+		8732 8733 8734 
+	}
+	local_supplies=0.0 
+}

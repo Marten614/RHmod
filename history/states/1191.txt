@@ -1,0 +1,39 @@
+
+state={
+	id=1191
+	name="STATE_1191"
+	manpower = 4179110
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=4
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7222 5}
+		victory_points = { 7226 9}
+		
+		owner = STL
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 2
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = STL
+	}
+
+	provinces={
+		7221 7222 7223 7224 7225 7226 7227 7228 7229 7230 7231 7232 7233 
+	}
+	local_supplies=0.0 
+}

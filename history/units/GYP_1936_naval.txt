@@ -1,0 +1,101 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Gypsystan Fleet"			
+		naval_base = 1584
+		task_force = {
+			name = "Gypsystan Fleet"
+			location = 1584
+			
+						ship = { name = "Glus" definition = carrier equipment = { carrier_2 = { amount = 1 owner = GYP version_name = "Trolasta Class" } }	}
+			ship = { name = "Deanocht" definition = carrier equipment = { carrier_2 = { amount = 1 owner = GYP version_name = "Trolasta Class" } }	}
+			ship = { name = "Piriento" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = GYP version_name = "Teimamhrest Class" } }	}
+			ship = { name = "Piontoradizi" definition = battleship equipment = { battleship_1 = { amount = 1 owner = GYP version_name = "Dasa Class" } }	}
+			ship = { name = "Dasa" definition = battleship equipment = { battleship_1 = { amount = 1 owner = GYP version_name = "Dasa Class" } }	}
+			ship = { name = "Tarma" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Eagotti" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Ehsaggio" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Eagotti 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Armanturang" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Eroch" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Caente" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Spah" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Shanig" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Aonstes" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Shanig 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Laidentura" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Turas" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Plum" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Eiromus" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Luch" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Neve" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Turana" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Deanocht 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Guaill" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Aonstes 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Brustashekar" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Shanig 3" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Baillediz" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Tempold" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Plum 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Mora" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Aonstes 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Cibunarvaz" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Troise" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Plum 3" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Eagotti 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Eroch 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Armanturang 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Teimamhrest" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Fluth" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Armanturang 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Libum" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Vichne" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Deanocht 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Tena" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Saht" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Neve 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Bainua" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Deanocht 4" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Troise 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Mora 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Krito" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Piriento 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Tarma 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Saht 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Laidentura 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Luch 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Tempold 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GYP version_name = "Krito Class" } }	}
+			ship = { name = "Plum 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Eagotti 4" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Hung" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Plum 5" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Ehsaggio 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Fluth 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Tarma 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Taman" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Cibunarvaz 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Libum 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Cibunarvaz 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Aniger" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = GYP version_name = "Fluth Class" } }	}
+			ship = { name = "Dunuber" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+			ship = { name = "Saht 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Trolasta" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = GYP version_name = "Eagotti Class" } }	}
+			ship = { name = "Canwa" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GYP version_name = "Libum Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

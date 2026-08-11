@@ -1,0 +1,41 @@
+
+state={
+	id=697
+	name="STATE_697"
+	manpower = 459428
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4690 1}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			4690 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		4690 
+	}
+	local_supplies=0.0 
+}

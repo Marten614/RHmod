@@ -1,0 +1,1083 @@
+characters = {
+	KSS_Kanek_Bakan={
+		name="Kanek Bakan"
+
+		
+		country_leader={
+			ideology=moderatism
+			traits = { socialite_connections  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KSS_Nacom_Uxunil={
+		name="Nacom Uxunil"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Nacom_Uxunil
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	KSS_Chak_Tikalampak={
+		name="Chak Tikalampak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Chak_Tikalampak
+			traits = {	noble_beurocrat 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	KSS_Popo_Lampak={
+		name="Popo Lampak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Popo_Lampak
+			traits = {	agricultural_nationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	KSS_Chil_Beca={
+		name="Chil Beca"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Chil_Beca
+			traits = {	humble 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	KSS_Nacab_Canik={
+		name="Nacab Canik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Nacab_Canik
+			traits = {	right_industrialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	KSS_Itzam_Tzolkan={
+		name="Itzam Tzolkan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Itzam_Tzolkan
+			traits = {	celebrity_junta_leader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	KSS_Moctez_Tohok={
+		name="Moctez Tohok"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Moctez_Tohok
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	KSS_Ekchua_Tojil={
+		name="Ekchua Tojil"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Ekchua_Tojil
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	KSS_Pakanek_Bakcholkab={
+		name="Pakanek Bakcholkab"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Pakanek_Bakcholkab
+			traits = {	army_chief_planning_2 	}
+		}
+
+
+	}
+	KSS_Moctez_Saktun={
+		name="Moctez Saktun"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Moctez_Saktun
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	KSS_Kukulkanek_Lampak={
+		name="Kukulkanek Lampak"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KSS_Kukulkanek_Lampak
+			traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+
+	}
+	KSS_Chakan_Uxmal={
+		name="Chakan Uxmal"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KSS_Chakan_Uxmal
+			traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+
+	}
+	KSS_Chua_Bakan={
+		name="Chua Bakan"
+
+		advisor={
+			slot = air_chief
+			idea_token = KSS_Chua_Bakan
+			traits = {	air_chief_night_operations_2 	}
+		}
+
+
+	}
+	KSS_Ekchakalam_Kawakalen={
+		name="Ekchakalam Kawakalen"
+
+		advisor={
+			slot = air_chief
+			idea_token = KSS_Ekchakalam_Kawakalen
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	KSS_Popo_Bakbah={
+		name="Popo Bakbah"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Popo_Bakbah
+			traits = {	army_infantry_2 	}
+		}
+
+
+	}
+	KSS_Chakal_Sotzam={
+		name="Chakal Sotzam"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Chakal_Sotzam
+			traits = {	air_tactical_bombing_1 	}
+		}
+
+
+	}
+	KSS_Bacom_Tzolkancue={
+		name="Bacom Tzolkancue"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Bacom_Tzolkancue
+			traits = {	navy_screen_2 	}
+		}
+
+
+	}
+	KSS_Ekchil_Bakan={
+		name="Ekchil Bakan"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Ekchil_Bakan
+			traits = {	army_infantry_1 	}
+		}
+
+
+	}
+	KSS_Kanek_Akba={
+		name="Kanek Akba"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Kanek_Akba
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	KSS_Chakanek_Kana={
+		name="Chakanek Kana"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Chakanek_Kana
+			traits = {	navy_submarine_1 	}
+		}
+
+
+	}
+	KSS_Bacatl_Tzib={
+		name="Bacatl Tzib"
+
+		
+		country_leader={
+			ideology=falangism
+			traits = { celebrity_junta_leader  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KSS_Ekchak_Cancue={
+		name="Ekchak Cancue"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Ekchak_Cancue
+			traits = {	spirit_of_genghis 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	KSS_Kukulkan_Hunikin={
+		name="Kukulkan Hunikin"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Kukulkan_Hunikin
+			traits = {	basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	KSS_Chakan_Bakalah={
+		name="Chakan Bakalah"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Chakan_Bakalah
+			traits = {	vapsid_economist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	KSS_Pakanek_Cancue={
+		name="Pakanek Cancue"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Pakanek_Cancue
+			traits = {	spirit_of_genghis 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	KSS_Bacom_Mana={
+		name="Bacom Mana"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Bacom_Mana
+			traits = {	archon_basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	KSS_Oxib_Bakalah={
+		name="Oxib Bakalah"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Oxib_Bakalah
+			traits = {	inexperienced_imperialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	KSS_Moctez_Palah={
+		name="Moctez Palah"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Moctez_Palah
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	KSS_Kukulkanek_Tzolkin={
+		name="Kukulkanek Tzolkin"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Kukulkanek_Tzolkin
+			traits = {	army_chief_drill_2 	}
+		}
+
+
+	}
+	KSS_Acab_Saktun={
+		name="Acab Saktun"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Acab_Saktun
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	KSS_Chak_Witzib={
+		name="Chak Witzib"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Chak_Witzib
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	KSS_Kukulkanek_Bona={
+		name="Kukulkanek Bona"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KSS_Kukulkanek_Bona
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	KSS_Tohil_Bakhak={
+		name="Tohil Bakhak"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KSS_Tohil_Bakhak
+			traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+
+	}
+	KSS_Ekchakalam_Yaxch={
+		name="Ekchakalam Yaxch"
+
+		advisor={
+			slot = air_chief
+			idea_token = KSS_Ekchakalam_Yaxch
+			traits = {	air_chief_night_operations_1 	}
+		}
+
+
+	}
+	KSS_Chakalam_Uxul={
+		name="Chakalam Uxul"
+
+		advisor={
+			slot = air_chief
+			idea_token = KSS_Chakalam_Uxul
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	KSS_Kanek_Tzolkan={
+		name="Kanek Tzolkan"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Kanek_Tzolkan
+			traits = {	navy_carrier_2 	}
+		}
+
+
+	}
+	KSS_Yaxkin_Naraca={
+		name="Yaxkin Naraca"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Yaxkin_Naraca
+			traits = {	air_bomber_interception_2 	}
+		}
+
+
+	}
+	KSS_Chakal_Bahuatun={
+		name="Chakal Bahuatun"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Chakal_Bahuatun
+			traits = {	army_infantry_1 	}
+		}
+
+
+	}
+	KSS_Ekchil_Kate={
+		name="Ekchil Kate"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Ekchil_Kate
+			traits = {	army_artillery_1 	}
+		}
+
+
+	}
+	KSS_Chichen_Kaba={
+		name="Chichen Kaba"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Chichen_Kaba
+			traits = {	navy_carrier_2 	}
+		}
+
+
+	}
+	KSS_Chichen_Naraca={
+		name="Chichen Naraca"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Chichen_Naraca
+			traits = {	navy_submarine_1 	}
+		}
+
+
+	}
+	KSS_Chua_Akba={
+		name="Chua Akba"
+
+		
+		country_leader={
+			ideology=anti_revisionism
+			traits = { leftist_independent  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KSS_Nacom_Kawakha={
+		name="Nacom Kawakha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Nacom_Kawakha
+			traits = {	marxist_fundamentalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	KSS_Kanek_Tzol={
+		name="Kanek Tzol"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Kanek_Tzol
+			traits = {	anti_bolshevik_leftist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	KSS_Tecun_Tikal={
+		name="Tecun Tikal"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Tecun_Tikal
+			traits = {	political_dancer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	KSS_Itzam_Yaxun={
+		name="Itzam Yaxun"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Itzam_Yaxun
+			traits = {	leftist_intellectual 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	KSS_Pakanek_Tzib={
+		name="Pakanek Tzib"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Pakanek_Tzib
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	KSS_Bacatl_Sotzam={
+		name="Bacatl Sotzam"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Bacatl_Sotzam
+			traits = {	revolutionary_poet 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	KSS_Ekchichen_Bakbe={
+		name="Ekchichen Bakbe"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Ekchichen_Bakbe
+			traits = {	army_chief_maneuver_2 	}
+		}
+
+
+	}
+	KSS_Acatl_Halom={
+		name="Acatl Halom"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Acatl_Halom
+			traits = {	army_chief_defensive_1 	}
+		}
+
+
+	}
+	KSS_Ekchakalam_Naranjo={
+		name="Ekchakalam Naranjo"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Ekchakalam_Naranjo
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	KSS_Ahkin_Uxmal={
+		name="Ahkin Uxmal"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Ahkin_Uxmal
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	KSS_Nacab_Bakmul={
+		name="Nacab Bakmul"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KSS_Nacab_Bakmul
+			traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+
+	}
+	KSS_Acab_Tzamnai={
+		name="Acab Tzamnai"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KSS_Acab_Tzamnai
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	KSS_Tohichen_Tzolkan={
+		name="Tohichen Tzolkan"
+
+		advisor={
+			slot = air_chief
+			idea_token = KSS_Tohichen_Tzolkan
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	KSS_Kanek_Uxmanilha={
+		name="Kanek Uxmanilha"
+
+		advisor={
+			slot = air_chief
+			idea_token = KSS_Kanek_Uxmanilha
+			traits = {	air_chief_ground_support_2 	}
+		}
+
+
+	}
+	KSS_Chua_Kaba={
+		name="Chua Kaba"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Chua_Kaba
+			traits = {	air_air_superiority_2 	}
+		}
+
+
+	}
+	KSS_Kukulkalam_Bona={
+		name="Kukulkalam Bona"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Kukulkalam_Bona
+			traits = {	army_radio_intelligence_2 	}
+		}
+
+
+	}
+	KSS_Ekchil_Bakcholkab={
+		name="Ekchil Bakcholkab"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Ekchil_Bakcholkab
+			traits = {	army_infantry_1 	}
+		}
+
+
+	}
+	KSS_Tohichen_Bahuwen={
+		name="Tohichen Bahuwen"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Tohichen_Bahuwen
+			traits = {	navy_capital_ship_1 	}
+		}
+
+
+	}
+	KSS_Ekchichen_Cobal={
+		name="Ekchichen Cobal"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Ekchichen_Cobal
+			traits = {	air_air_combat_training_2 	}
+		}
+
+
+	}
+	KSS_Nacom_Uxmal={
+		name="Nacom Uxmal"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Nacom_Uxmal
+			traits = {	navy_naval_air_defense_1 	}
+		}
+
+
+	}
+	KSS_Kukulkan_Ajtzib={
+		name="Kukulkan Ajtzib"
+
+		
+		country_leader={
+			ideology=conservatism
+			traits = { staunch_constitutionalist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	KSS_Chakanek_Bakan={
+		name="Chakanek Bakan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Chakanek_Bakan
+			traits = {	rearmer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	KSS_Bacom_Kanil={
+		name="Bacom Kanil"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Bacom_Kanil
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	KSS_Oxib_Bahuwen={
+		name="Oxib Bahuwen"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Oxib_Bahuwen
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	KSS_Ekchua_Uxul={
+		name="Ekchua Uxul"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Ekchua_Uxul
+			traits = {	leftist_legionary 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	KSS_Kukulkalam_Ajawakan={
+		name="Kukulkalam Ajawakan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Kukulkalam_Ajawakan
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	KSS_Chakan_Kana={
+		name="Chakan Kana"
+
+		advisor={
+			slot = political_advisor
+			idea_token = KSS_Chakan_Kana
+			traits = {	veteran_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	KSS_Chakan_Imox={
+		name="Chakan Imox"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Chakan_Imox
+			traits = {	army_chief_entrenchment_1 	}
+		}
+
+
+	}
+	KSS_Oxib_Uxun={
+		name="Oxib Uxun"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Oxib_Uxun
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	KSS_Ekchak_Bakcholkab={
+		name="Ekchak Bakcholkab"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Ekchak_Bakcholkab
+			traits = {	army_chief_reform_2 	}
+		}
+
+
+	}
+	KSS_Chakanek_Kaaj={
+		name="Chakanek Kaaj"
+
+		advisor={
+			slot = army_chief
+			idea_token = KSS_Chakanek_Kaaj
+			traits = {	army_chief_entrenchment_1 	}
+		}
+
+
+	}
+	KSS_Chakanek_Yaxun={
+		name="Chakanek Yaxun"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KSS_Chakanek_Yaxun
+			traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+
+	}
+	KSS_Ahkin_Yaxunil={
+		name="Ahkin Yaxunil"
+
+		advisor={
+			slot = navy_chief
+			idea_token = KSS_Ahkin_Yaxunil
+			traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+
+	}
+	KSS_Tohichen_Tzol={
+		name="Tohichen Tzol"
+
+		advisor={
+			slot = air_chief
+			idea_token = KSS_Tohichen_Tzol
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	KSS_Oxib_Cozumel={
+		name="Oxib Cozumel"
+
+		advisor={
+			slot = air_chief
+			idea_token = KSS_Oxib_Cozumel
+			traits = {	air_chief_reform_1 	}
+		}
+
+
+	}
+	KSS_Kukulkan_Yaxch={
+		name="Kukulkan Yaxch"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Kukulkan_Yaxch
+			traits = {	air_air_combat_training_1 	}
+		}
+
+
+	}
+	KSS_Balam_Etzikin={
+		name="Balam Etzikin"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Balam_Etzikin
+			traits = {	air_pilot_training_2 	}
+		}
+
+
+	}
+	KSS_Chakalam_Bona={
+		name="Chakalam Bona"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Chakalam_Bona
+			traits = {	army_infantry_1 	}
+		}
+
+
+	}
+	KSS_Kanek_Chun={
+		name="Kanek Chun"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Kanek_Chun
+			traits = {	navy_capital_ship_2 	}
+		}
+
+
+	}
+	KSS_Oxib_Ajtz={
+		name="Oxib Ajtz"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Oxib_Ajtz
+			traits = {	army_CombinedArms_1 	}
+		}
+
+
+	}
+	KSS_Acab_Uxunil={
+		name="Acab Uxunil"
+
+		advisor={
+			slot = high_command
+			idea_token = KSS_Acab_Uxunil
+			traits = {	army_infantry_1 	}
+		}
+
+
+	}
+	KSS_Kanek_Bahuwen={
+		name="Kanek Bahuwen"
+
+		advisor={
+			slot = theorist
+			idea_token = KSS_Kanek_Bahuwen
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	KSS_Chakalam_Cobal={
+		name="Chakalam Cobal"
+
+		advisor={
+			slot = theorist
+			idea_token = KSS_Chakalam_Cobal
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	KSS_Pakalam_Witznahpu={
+		name="Pakalam Witznahpu"
+
+		advisor={
+			slot = theorist
+			idea_token = KSS_Pakalam_Witznahpu
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

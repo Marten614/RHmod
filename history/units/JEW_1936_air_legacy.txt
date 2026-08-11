@@ -1,0 +1,18 @@
+air_wings = {
+		1521 = { 								
+		tac_bomber_equipment_0 = { owner = "JEW" amount = 9 version_name = "Upiqpurjuk Mk 2" }
+
+	}
+	1499 = { 								
+		CAS_equipment_0 = { owner = "JEW" amount = 6 version_name = "Tummasaunirn Mk 0" }
+
+	}
+	1520 = { 								
+		fighter_equipment_0 = { owner = "JEW" amount = 7 version_name = "Upiqpurjuk Mk 1" }
+nav_bomber_equipment_0 = { owner = "JEW" amount = 5 version_name = "Pipiq Mk 0" }
+strat_bomber_equipment_0 = { owner = "JEW" amount = 8 version_name = "Qilawik Mk 0" }
+
+	}
+
+
+}

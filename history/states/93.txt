@@ -1,0 +1,42 @@
+
+state={
+	id=93
+	name="STATE_93"
+	manpower = 1985968
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 771 2}
+		victory_points = { 772 4}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			772 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		768 769 770 771 772 
+	}
+	local_supplies=0.0 
+}

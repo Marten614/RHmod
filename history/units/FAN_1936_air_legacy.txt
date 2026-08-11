@@ -1,0 +1,48 @@
+air_wings = {
+		1197 = { 								
+		fighter_equipment_0 = { owner = "FAN" amount = 50 version_name = "Dusac Mk 2" }
+
+	}
+	1126 = { 								
+		CAS_equipment_0 = { owner = "FAN" amount = 50 version_name = "Alast Mk 1" }
+
+	}
+	1259 = { 								
+		nav_bomber_equipment_0 = { owner = "FAN" amount = 50 version_name = "Nacina Mk 2" }
+
+	}
+	909 = { 								
+		tac_bomber_equipment_0 = { owner = "FAN" amount = 50 version_name = "Glast Mk 2" }
+
+	}
+	1066 = { 								
+		CAS_equipment_0 = { owner = "FAN" amount = 50 version_name = "Alast Mk 1" }
+fighter_equipment_0 = { owner = "FAN" amount = 50 version_name = "Zven Mk 0" }
+CAS_equipment_0 = { owner = "FAN" amount = 50 version_name = "Svetlovo Mk 2" }
+tac_bomber_equipment_0 = { owner = "FAN" amount = 50 version_name = "Glast Mk 2" }
+
+	}
+	1010 = { 								
+		CAS_equipment_0 = { owner = "FAN" amount = 50 version_name = "Svetlovo Mk 2" }
+
+	}
+	833 = { 								
+		fighter_equipment_0 = { owner = "FAN" amount = 50 version_name = "Zven Mk 0" }
+nav_bomber_equipment_0 = { owner = "FAN" amount = 50 version_name = "Nacina Mk 2" }
+
+	}
+	1357 = { 								
+		nav_bomber_equipment_0 = { owner = "FAN" amount = 50 version_name = "Slovorija Mk 1" }
+
+	}
+	1269 = { 								
+		fighter_equipment_0 = { owner = "FAN" amount = 50 version_name = "Dusac Mk 2" }
+
+	}
+	1272 = { 								
+		nav_bomber_equipment_0 = { owner = "FAN" amount = 50 version_name = "Slovorija Mk 1" }
+
+	}
+
+
+}

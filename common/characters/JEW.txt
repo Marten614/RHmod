@@ -1,0 +1,1083 @@
+characters = {
+	JEW_Kana_Qilawik={
+		name="Kana Qilawik"
+
+		
+		country_leader={
+			ideology=despotism
+			traits = { famous_aviator  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	JEW_Nutarak_Avak={
+		name="Nutarak Avak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Nutarak_Avak
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	JEW_Kavik_Iluaq={
+		name="Kavik Iluaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Kavik_Iluaq
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	JEW_Kaviku_Atuk={
+		name="Kaviku Atuk"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Kaviku_Atuk
+			traits = {	staunch_constitutionalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	JEW_Kunik_Napaguta={
+		name="Kunik Napaguta"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Kunik_Napaguta
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	JEW_Mana_Kuviak={
+		name="Mana Kuviak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Mana_Kuviak
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	JEW_Kanaq_Iglutuuq={
+		name="Kanaq Iglutuuq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Kanaq_Iglutuuq
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	JEW_Sikigaq_Qajuk={
+		name="Sikigaq Qajuk"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Sikigaq_Qajuk
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	JEW_Olikigaq_Amaqadlakuk={
+		name="Olikigaq Amaqadlakuk"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Olikigaq_Amaqadlakuk
+			traits = {	army_chief_offensive_2 	}
+		}
+
+
+	}
+	JEW_Iluk_Qajuk={
+		name="Iluk Qajuk"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Iluk_Qajuk
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	JEW_Atka_Nangik={
+		name="Atka Nangik"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Atka_Nangik
+			traits = {	army_chief_planning_1 	}
+		}
+
+
+	}
+	JEW_Kaviku_Iluqpaktu={
+		name="Kaviku Iluqpaktu"
+
+		advisor={
+			slot = navy_chief
+			idea_token = JEW_Kaviku_Iluqpaktu
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	JEW_Taluk_Nunak={
+		name="Taluk Nunak"
+
+		advisor={
+			slot = navy_chief
+			idea_token = JEW_Taluk_Nunak
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	JEW_Nana_Nuvibuk={
+		name="Nana Nuvibuk"
+
+		advisor={
+			slot = air_chief
+			idea_token = JEW_Nana_Nuvibuk
+			traits = {	air_chief_safety_1 	}
+		}
+
+
+	}
+	JEW_Taluk_Tunapagaan={
+		name="Taluk Tunapagaan"
+
+		advisor={
+			slot = air_chief
+			idea_token = JEW_Taluk_Tunapagaan
+			traits = {	air_chief_reform_2 	}
+		}
+
+
+	}
+	JEW_Kaviku_Atuggaaqpak={
+		name="Kaviku Atuggaaqpak"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Kaviku_Atuggaaqpak
+			traits = {	army_commando_2 	}
+		}
+
+
+	}
+	JEW_Ukpikigaq_Iluaq={
+		name="Ukpikigaq Iluaq"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Ukpikigaq_Iluaq
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	JEW_Kaviku_Anik={
+		name="Kaviku Anik"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Kaviku_Anik
+			traits = {	navy_naval_air_defense_1 	}
+		}
+
+
+	}
+	JEW_Kavik_Kigaapagutuk={
+		name="Kavik Kigaapagutuk"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Kavik_Kigaapagutuk
+			traits = {	navy_anti_submarine_2 	}
+		}
+
+
+	}
+	JEW_Panuq_Pipiq={
+		name="Panuq Pipiq"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Panuq_Pipiq
+			traits = {	army_commando_2 	}
+		}
+
+
+	}
+	JEW_Sila_Nuvak={
+		name="Sila Nuvak"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Sila_Nuvak
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	JEW_Naluk_Nangik={
+		name="Naluk Nangik"
+
+		
+		country_leader={
+			ideology=rexism
+			traits = { subservient_ultranationalist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	JEW_Taluk_Sanaviku={
+		name="Taluk Sanaviku"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Taluk_Sanaviku
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	JEW_Olikigaq_Aniqpalaq={
+		name="Olikigaq Aniqpalaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Olikigaq_Aniqpalaq
+			traits = {	autocratic_imperialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	JEW_Ukpikigaq_Kuvimiatkalu={
+		name="Ukpikigaq Kuvimiatkalu"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Ukpikigaq_Kuvimiatkalu
+			traits = {	autokrator 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	JEW_Panaq_Anik={
+		name="Panaq Anik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Panaq_Anik
+			traits = {	generallissimo 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	JEW_Olikigaq_Tunapagaan={
+		name="Olikigaq Tunapagaan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Olikigaq_Tunapagaan
+			traits = {	warmonger 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	JEW_Nanaq_Nalaqtuvikiq={
+		name="Nanaq Nalaqtuvikiq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Nanaq_Nalaqtuvikiq
+			traits = {	subservient_ultranationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	JEW_Kaniku_Nunirniq={
+		name="Kaniku Nunirniq"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Kaniku_Nunirniq
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	JEW_Olikigaq_Aliggak={
+		name="Olikigaq Aliggak"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Olikigaq_Aliggak
+			traits = {	army_chief_planning_2 	}
+		}
+
+
+	}
+	JEW_Mana_Arnavuka={
+		name="Mana Arnavuka"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Mana_Arnavuka
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	JEW_Taluk_Sikuiliak={
+		name="Taluk Sikuiliak"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Taluk_Sikuiliak
+			traits = {	army_chief_reform_2 	}
+		}
+
+
+	}
+	JEW_Iluk_Kuvimiatkalu={
+		name="Iluk Kuvimiatkalu"
+
+		advisor={
+			slot = navy_chief
+			idea_token = JEW_Iluk_Kuvimiatkalu
+			traits = {	navy_chief_maneuver_2 	}
+		}
+
+
+	}
+	JEW_Atka_Aniqpalaq={
+		name="Atka Aniqpalaq"
+
+		advisor={
+			slot = navy_chief
+			idea_token = JEW_Atka_Aniqpalaq
+			traits = {	navy_chief_reform_2 	}
+		}
+
+
+	}
+	JEW_Nuvuk_Amaqadlakuk={
+		name="Nuvuk Amaqadlakuk"
+
+		advisor={
+			slot = air_chief
+			idea_token = JEW_Nuvuk_Amaqadlakuk
+			traits = {	air_chief_reform_2 	}
+		}
+
+
+	}
+	JEW_Olik_Ituvuttak={
+		name="Olik Ituvuttak"
+
+		advisor={
+			slot = air_chief
+			idea_token = JEW_Olik_Ituvuttak
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	JEW_Nuvuk_Nalaqtuvikiq={
+		name="Nuvuk Nalaqtuvikiq"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Nuvuk_Nalaqtuvikiq
+			traits = {	army_logistics_2 	}
+		}
+
+
+	}
+	JEW_Nanaq_Nangik={
+		name="Nanaq Nangik"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Nanaq_Nangik
+			traits = {	navy_amphibious_assault_1 	}
+		}
+
+
+	}
+	JEW_Sikigaq_Nulawim={
+		name="Sikigaq Nulawim"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Sikigaq_Nulawim
+			traits = {	navy_capital_ship_2 	}
+		}
+
+
+	}
+	JEW_Panuq_Upiqpurjuk={
+		name="Panuq Upiqpurjuk"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Panuq_Upiqpurjuk
+			traits = {	army_CombinedArms_1 	}
+		}
+
+
+	}
+	JEW_Ukpikigaq_Anik={
+		name="Ukpikigaq Anik"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Ukpikigaq_Anik
+			traits = {	army_logistics_2 	}
+		}
+
+
+	}
+	JEW_Manuq_Imaq={
+		name="Manuq Imaq"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Manuq_Imaq
+			traits = {	army_radio_intelligence_1 	}
+		}
+
+
+	}
+	JEW_Qajaq_Atuk={
+		name="Qajaq Atuk"
+
+		
+		country_leader={
+			ideology=stalinism
+			traits = { devoted_marxist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	JEW_Kanaq_Kanford={
+		name="Kanaq Kanford"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Kanaq_Kanford
+			traits = {	devoted_marxist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	JEW_Qajaq_Avak={
+		name="Qajaq Avak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Qajaq_Avak
+			traits = {	marxist_fundamentalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	JEW_Pana_Qill={
+		name="Pana Qill"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Pana_Qill
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	JEW_Panuq_Ford={
+		name="Panuq Ford"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Panuq_Ford
+			traits = {	mastermind_code_cracker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	JEW_Iluk_Tingiq={
+		name="Iluk Tingiq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Iluk_Tingiq
+			traits = {	anti_bolshevik_leftist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	JEW_Nutarak_Iluaq={
+		name="Nutarak Iluaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Nutarak_Iluaq
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	JEW_Ukpikigaq_Nunik={
+		name="Ukpikigaq Nunik"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Ukpikigaq_Nunik
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	JEW_Sila_Nulikuaq={
+		name="Sila Nulikuaq"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Sila_Nulikuaq
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	JEW_Olikigaq_Upik={
+		name="Olikigaq Upik"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Olikigaq_Upik
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	JEW_Ukpiku_Qiliqpaluk={
+		name="Ukpiku Qiliqpaluk"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Ukpiku_Qiliqpaluk
+			traits = {	army_chief_drill_2 	}
+		}
+
+
+	}
+	JEW_Atka_Nutuk={
+		name="Atka Nutuk"
+
+		advisor={
+			slot = navy_chief
+			idea_token = JEW_Atka_Nutuk
+			traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+
+	}
+	JEW_Nana_Nuniqpaapik={
+		name="Nana Nuniqpaapik"
+
+		advisor={
+			slot = navy_chief
+			idea_token = JEW_Nana_Nuniqpaapik
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	JEW_Sikigaq_Iluaq={
+		name="Sikigaq Iluaq"
+
+		advisor={
+			slot = air_chief
+			idea_token = JEW_Sikigaq_Iluaq
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	JEW_Mana_Qangiq={
+		name="Mana Qangiq"
+
+		advisor={
+			slot = air_chief
+			idea_token = JEW_Mana_Qangiq
+			traits = {	air_chief_ground_support_2 	}
+		}
+
+
+	}
+	JEW_Manuq_Qilawik={
+		name="Manuq Qilawik"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Manuq_Qilawik
+			traits = {	air_air_superiority_2 	}
+		}
+
+
+	}
+	JEW_Iluk_Nalawim={
+		name="Iluk Nalawim"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Iluk_Nalawim
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	JEW_Kunikigaq_Inuk={
+		name="Kunikigaq Inuk"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Kunikigaq_Inuk
+			traits = {	army_commando_2 	}
+		}
+
+
+	}
+	JEW_Kaviku_Nalupaq={
+		name="Kaviku Nalupaq"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Kaviku_Nalupaq
+			traits = {	air_air_superiority_1 	}
+		}
+
+
+	}
+	JEW_Kaviku_Tamak={
+		name="Kaviku Tamak"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Kaviku_Tamak
+			traits = {	air_close_air_support_2 	}
+		}
+
+
+	}
+	JEW_Pana_Aliggak={
+		name="Pana Aliggak"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Pana_Aliggak
+			traits = {	air_air_superiority_1 	}
+		}
+
+
+	}
+	JEW_Olik_Aquluq={
+		name="Olik Aquluq"
+
+		
+		country_leader={
+			ideology=liberalism
+			traits = { veteran_minister  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	JEW_Kavik_Ilupak={
+		name="Kavik Ilupak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Kavik_Ilupak
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	JEW_Ukpiku_Sangelagaaq={
+		name="Ukpiku Sangelagaaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Ukpiku_Sangelagaaq
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	JEW_Ukpik_Naliaq={
+		name="Ukpik Naliaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Ukpik_Naliaq
+			traits = {	rearmer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	JEW_Taluk_Nulawim={
+		name="Taluk Nulawim"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Taluk_Nulawim
+			traits = {	first_lady 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	JEW_Kana_Angiqpaktiq={
+		name="Kana Angiqpaktiq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Kana_Angiqpaktiq
+			traits = {	leftist_legionary 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	JEW_Nana_Nakuaq={
+		name="Nana Nakuaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = JEW_Nana_Nakuaq
+			traits = {	rearmer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	JEW_Kaviku_Kuviak={
+		name="Kaviku Kuviak"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Kaviku_Kuviak
+			traits = {	army_chief_drill_2 	}
+		}
+
+
+	}
+	JEW_Manuq_Qangiq={
+		name="Manuq Qangiq"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Manuq_Qangiq
+			traits = {	army_chief_maneuver_2 	}
+		}
+
+
+	}
+	JEW_Kavik_Avak={
+		name="Kavik Avak"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Kavik_Avak
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	JEW_Nanaq_Pipiq={
+		name="Nanaq Pipiq"
+
+		advisor={
+			slot = army_chief
+			idea_token = JEW_Nanaq_Pipiq
+			traits = {	army_chief_entrenchment_1 	}
+		}
+
+
+	}
+	JEW_Pana_Sikuiliak={
+		name="Pana Sikuiliak"
+
+		advisor={
+			slot = navy_chief
+			idea_token = JEW_Pana_Sikuiliak
+			traits = {	navy_chief_maneuver_1 	}
+		}
+
+
+	}
+	JEW_Kavik_Tikuq={
+		name="Kavik Tikuq"
+
+		advisor={
+			slot = navy_chief
+			idea_token = JEW_Kavik_Tikuq
+			traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+
+	}
+	JEW_Tulok_Upiqpurjuk={
+		name="Tulok Upiqpurjuk"
+
+		advisor={
+			slot = air_chief
+			idea_token = JEW_Tulok_Upiqpurjuk
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	JEW_Ukpikigaq_Upiqpurjuk={
+		name="Ukpikigaq Upiqpurjuk"
+
+		advisor={
+			slot = air_chief
+			idea_token = JEW_Ukpikigaq_Upiqpurjuk
+			traits = {	air_chief_reform_2 	}
+		}
+
+
+	}
+	JEW_Panaq_Upiqpurjuk={
+		name="Panaq Upiqpurjuk"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Panaq_Upiqpurjuk
+			traits = {	navy_naval_air_defense_1 	}
+		}
+
+
+	}
+	JEW_Kunikigaq_Upik={
+		name="Kunikigaq Upik"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Kunikigaq_Upik
+			traits = {	air_air_superiority_1 	}
+		}
+
+
+	}
+	JEW_Taluk_Atuk={
+		name="Taluk Atuk"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Taluk_Atuk
+			traits = {	army_armored_1 	}
+		}
+
+
+	}
+	JEW_Ukpik_Kugak={
+		name="Ukpik Kugak"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Ukpik_Kugak
+			traits = {	air_strategic_bombing_1 	}
+		}
+
+
+	}
+	JEW_Amaq_Tineq={
+		name="Amaq Tineq"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Amaq_Tineq
+			traits = {	air_air_combat_training_2 	}
+		}
+
+
+	}
+	JEW_Taluk_Nulikuaq={
+		name="Taluk Nulikuaq"
+
+		advisor={
+			slot = high_command
+			idea_token = JEW_Taluk_Nulikuaq
+			traits = {	navy_submarine_2 	}
+		}
+
+
+	}
+	JEW_Olikigaq_Qiliqpaluk={
+		name="Olikigaq Qiliqpaluk"
+
+		advisor={
+			slot = theorist
+			idea_token = JEW_Olikigaq_Qiliqpaluk
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	JEW_Miku_Upik={
+		name="Miku Upik"
+
+		advisor={
+			slot = theorist
+			idea_token = JEW_Miku_Upik
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	JEW_Manuq_Avak={
+		name="Manuq Avak"
+
+		advisor={
+			slot = theorist
+			idea_token = JEW_Manuq_Avak
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

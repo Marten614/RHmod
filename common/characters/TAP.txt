@@ -1,0 +1,1083 @@
+characters = {
+	TAP_Iskariq_Masranzaghib={
+		name="Iskariq Masranzaghib"
+
+		
+		country_leader={
+			ideology=moderatism
+			traits = { veteran_anti_bolshevik  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	TAP_Alidi_Namar={
+		name="Alidi Namar"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Alidi_Namar
+			traits = {	humble 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	TAP_Mahim_Imzia={
+		name="Mahim Imzia"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Mahim_Imzia
+			traits = {	right_industrialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	TAP_Lyes_Shurak={
+		name="Lyes Shurak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Lyes_Shurak
+			traits = {	celebrity_junta_leader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Rami_Azra={
+		name="Rami Azra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Rami_Azra
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Mimoud_Namar={
+		name="Mimoud Namar"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Mimoud_Namar
+			traits = {	right_industrialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	TAP_Jamza_Barab={
+		name="Jamza Barab"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Jamza_Barab
+			traits = {	agricultural_capitalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	TAP_Nabilahimoun_Mast={
+		name="Nabilahimoun Mast"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Nabilahimoun_Mast
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	TAP_Faissinisa_Shurakwin={
+		name="Faissinisa Shurakwin"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Faissinisa_Shurakwin
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	TAP_Imran_Daryalb={
+		name="Imran Daryalb"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Imran_Daryalb
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	TAP_Sami_Tazrar={
+		name="Sami Tazrar"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Sami_Tazrar
+			traits = {	army_chief_morale_1 	}
+		}
+
+
+	}
+	TAP_Meziane_Tizir={
+		name="Meziane Tizir"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TAP_Meziane_Tizir
+			traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+
+	}
+	TAP_Faissinisa_Azra={
+		name="Faissinisa Azra"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TAP_Faissinisa_Azra
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	TAP_Rammed_Tamdar={
+		name="Rammed Tamdar"
+
+		advisor={
+			slot = air_chief
+			idea_token = TAP_Rammed_Tamdar
+			traits = {	air_chief_safety_1 	}
+		}
+
+
+	}
+	TAP_Massan_Masranzaghib={
+		name="Massan Masranzaghib"
+
+		advisor={
+			slot = air_chief
+			idea_token = TAP_Massan_Masranzaghib
+			traits = {	air_chief_all_weather_1 	}
+		}
+
+
+	}
+	TAP_Tahmad_Afsour={
+		name="Tahmad Afsour"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Tahmad_Afsour
+			traits = {	air_air_superiority_2 	}
+		}
+
+
+	}
+	TAP_Amokrahmoun_Ayur={
+		name="Amokrahmoun Ayur"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Amokrahmoun_Ayur
+			traits = {	air_close_air_support_1 	}
+		}
+
+
+	}
+	TAP_Faidi_Asirt={
+		name="Faidi Asirt"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Faidi_Asirt
+			traits = {	army_artillery_2 	}
+		}
+
+
+	}
+	TAP_Imrane_Haja={
+		name="Imrane Haja"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Imrane_Haja
+			traits = {	army_regrouping_2 	}
+		}
+
+
+	}
+	TAP_Nabil_Qaladrawenza={
+		name="Nabil Qaladrawenza"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Nabil_Qaladrawenza
+			traits = {	air_tactical_bombing_1 	}
+		}
+
+
+	}
+	TAP_Massal_Shurakwin={
+		name="Massal Shurakwin"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Massal_Shurakwin
+			traits = {	army_infantry_2 	}
+		}
+
+
+	}
+	TAP_Majidi_Hajar={
+		name="Majidi Hajar"
+
+		
+		country_leader={
+			ideology=rexism
+			traits = { falangist_militarist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	TAP_Tahmad_Makilt={
+		name="Tahmad Makilt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Tahmad_Makilt
+			traits = {	autocratic_imperialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	TAP_Imrane_Majrawizirar={
+		name="Imrane Majrawizirar"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Imrane_Majrawizirar
+			traits = {	subservient_ultranationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Tariq_Tighrah={
+		name="Tariq Tighrah"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Tariq_Tighrah
+			traits = {	inexperienced_imperialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Hami_Amimsit={
+		name="Hami Amimsit"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Hami_Amimsit
+			traits = {	autokrator 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	TAP_Tafsut_Rawt={
+		name="Tafsut Rawt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Tafsut_Rawt
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Hassa_Tama={
+		name="Hassa Tama"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Hassa_Tama
+			traits = {	warmonger 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Massan_Tamsadirt={
+		name="Massan Tamsadirt"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Massan_Tamsadirt
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	TAP_Jamza_Makilt={
+		name="Jamza Makilt"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Jamza_Makilt
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	TAP_Saad_Diwa={
+		name="Saad Diwa"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Saad_Diwa
+			traits = {	army_chief_reform_2 	}
+		}
+
+
+	}
+	TAP_Omariq_Namsa={
+		name="Omariq Namsa"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Omariq_Namsa
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	TAP_Samiridi_Tazra={
+		name="Samiridi Tazra"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TAP_Samiridi_Tazra
+			traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+
+	}
+	TAP_Mimoud_Asiria={
+		name="Mimoud Asiria"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TAP_Mimoud_Asiria
+			traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+
+	}
+	TAP_Adnane_Sharga={
+		name="Adnane Sharga"
+
+		advisor={
+			slot = air_chief
+			idea_token = TAP_Adnane_Sharga
+			traits = {	air_chief_night_operations_1 	}
+		}
+
+
+	}
+	TAP_Said_Sharga={
+		name="Said Sharga"
+
+		advisor={
+			slot = air_chief
+			idea_token = TAP_Said_Sharga
+			traits = {	air_chief_night_operations_2 	}
+		}
+
+
+	}
+	TAP_Majidi_Aghra={
+		name="Majidi Aghra"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Majidi_Aghra
+			traits = {	army_logistics_1 	}
+		}
+
+
+	}
+	TAP_Faisali_Azemekna={
+		name="Faisali Azemekna"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Faisali_Azemekna
+			traits = {	army_regrouping_2 	}
+		}
+
+
+	}
+	TAP_Tarim_Azra={
+		name="Tarim Azra"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Tarim_Azra
+			traits = {	air_strategic_bombing_2 	}
+		}
+
+
+	}
+	TAP_Khal_Tasa={
+		name="Khal Tasa"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Khal_Tasa
+			traits = {	air_air_combat_training_2 	}
+		}
+
+
+	}
+	TAP_Samal_Tizir={
+		name="Samal Tizir"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Samal_Tizir
+			traits = {	army_concealment_2 	}
+		}
+
+
+	}
+	TAP_Amoud_Rawa={
+		name="Amoud Rawa"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Amoud_Rawa
+			traits = {	navy_fleet_logistics_2 	}
+		}
+
+
+	}
+	TAP_Yusuf_Imzia={
+		name="Yusuf Imzia"
+
+		
+		country_leader={
+			ideology=marxism
+			traits = { patriotic_socialist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	TAP_Zaidi_Azra={
+		name="Zaidi Azra"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Zaidi_Azra
+			traits = {	patriotic_socialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	TAP_Nabilahimoun_Shurak={
+		name="Nabilahimoun Shurak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Nabilahimoun_Shurak
+			traits = {	political_dancer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	TAP_Nabilahimoun_Tafraskab={
+		name="Nabilahimoun Tafraskab"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Nabilahimoun_Tafraskab
+			traits = {	indomitable_perseverance 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	TAP_Yahim_Awardayt={
+		name="Yahim Awardayt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Yahim_Awardayt
+			traits = {	revolutionary_poet 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Hassal_Thamsadi={
+		name="Hassal Thamsadi"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Hassal_Thamsadi
+			traits = {	anti_bolshevik_leftist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Mahim_Qaladrawenza={
+		name="Mahim Qaladrawenza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Mahim_Qaladrawenza
+			traits = {	mastermind_code_cracker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	TAP_Amokrahmoun_Tislim={
+		name="Amokrahmoun Tislim"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Amokrahmoun_Tislim
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	TAP_Meziane_Ghamt={
+		name="Meziane Ghamt"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Meziane_Ghamt
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	TAP_Saidi_Asataadda={
+		name="Saidi Asataadda"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Saidi_Asataadda
+			traits = {	army_chief_reform_2 	}
+		}
+
+
+	}
+	TAP_Samiridi_Namsa={
+		name="Samiridi Namsa"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Samiridi_Namsa
+			traits = {	army_chief_organizational_1 	}
+		}
+
+
+	}
+	TAP_Aselmad_Qala={
+		name="Aselmad Qala"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TAP_Aselmad_Qala
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	TAP_Nabil_Shurak={
+		name="Nabil Shurak"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TAP_Nabil_Shurak
+			traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+
+	}
+	TAP_Faidi_Tazra={
+		name="Faidi Tazra"
+
+		advisor={
+			slot = air_chief
+			idea_token = TAP_Faidi_Tazra
+			traits = {	air_chief_reform_1 	}
+		}
+
+
+	}
+	TAP_Adnan_Makilt={
+		name="Adnan Makilt"
+
+		advisor={
+			slot = air_chief
+			idea_token = TAP_Adnan_Makilt
+			traits = {	air_chief_ground_support_2 	}
+		}
+
+
+	}
+	TAP_Sami_Azemeqrawrin={
+		name="Sami Azemeqrawrin"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Sami_Azemeqrawrin
+			traits = {	air_naval_strike_2 	}
+		}
+
+
+	}
+	TAP_Massan_Asirt={
+		name="Massan Asirt"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Massan_Asirt
+			traits = {	air_close_air_support_2 	}
+		}
+
+
+	}
+	TAP_Ibran_Ghamt={
+		name="Ibran Ghamt"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Ibran_Ghamt
+			traits = {	navy_amphibious_assault_2 	}
+		}
+
+
+	}
+	TAP_Sami_Tiwizi={
+		name="Sami Tiwizi"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Sami_Tiwizi
+			traits = {	navy_amphibious_assault_2 	}
+		}
+
+
+	}
+	TAP_Samiridi_Rihladda={
+		name="Samiridi Rihladda"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Samiridi_Rihladda
+			traits = {	navy_carrier_1 	}
+		}
+
+
+	}
+	TAP_Samiridi_Taghremella={
+		name="Samiridi Taghremella"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Samiridi_Taghremella
+			traits = {	navy_screen_1 	}
+		}
+
+
+	}
+	TAP_Hassinis_Wadi={
+		name="Hassinis Wadi"
+
+		
+		country_leader={
+			ideology=liberalism
+			traits = { leftist_independent  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	TAP_Omad_Azrah={
+		name="Omad Azrah"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Omad_Azrah
+			traits = {	veteran_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	TAP_Mimoud_Amanub={
+		name="Mimoud Amanub"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Mimoud_Amanub
+			traits = {	democratic_crusader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	TAP_Azian_Qaladrawenza={
+		name="Azian Qaladrawenza"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Azian_Qaladrawenza
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	TAP_Taren_Asirt={
+		name="Taren Asirt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Taren_Asirt
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	TAP_Sifax_Mana={
+		name="Sifax Mana"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Sifax_Mana
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Moharen_Tanub={
+		name="Moharen Tanub"
+
+		advisor={
+			slot = political_advisor
+			idea_token = TAP_Moharen_Tanub
+			traits = {	veteran_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	TAP_Alidi_Ayur={
+		name="Alidi Ayur"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Alidi_Ayur
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	TAP_Tafsut_Tama={
+		name="Tafsut Tama"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Tafsut_Tama
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	TAP_Meziz_Awardayt={
+		name="Meziz Awardayt"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Meziz_Awardayt
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	TAP_Taren_Azem={
+		name="Taren Azem"
+
+		advisor={
+			slot = army_chief
+			idea_token = TAP_Taren_Azem
+			traits = {	army_chief_organizational_1 	}
+		}
+
+
+	}
+	TAP_Saad_Makilt={
+		name="Saad Makilt"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TAP_Saad_Makilt
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	TAP_Alidi_Tafhab={
+		name="Alidi Tafhab"
+
+		advisor={
+			slot = navy_chief
+			idea_token = TAP_Alidi_Tafhab
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	TAP_Faisali_Afsour={
+		name="Faisali Afsour"
+
+		advisor={
+			slot = air_chief
+			idea_token = TAP_Faisali_Afsour
+			traits = {	air_chief_night_operations_2 	}
+		}
+
+
+	}
+	TAP_Iskar_Rawa={
+		name="Iskar Rawa"
+
+		advisor={
+			slot = air_chief
+			idea_token = TAP_Iskar_Rawa
+			traits = {	air_chief_night_operations_1 	}
+		}
+
+
+	}
+	TAP_Khariq_Tart={
+		name="Khariq Tart"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Khariq_Tart
+			traits = {	navy_screen_2 	}
+		}
+
+
+	}
+	TAP_Amoun_Majrawizirar={
+		name="Amoun Majrawizirar"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Amoun_Majrawizirar
+			traits = {	navy_capital_ship_2 	}
+		}
+
+
+	}
+	TAP_Yahya_Amimsit={
+		name="Yahya Amimsit"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Yahya_Amimsit
+			traits = {	navy_screen_1 	}
+		}
+
+
+	}
+	TAP_Meziane_Tast={
+		name="Meziane Tast"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Meziane_Tast
+			traits = {	army_concealment_2 	}
+		}
+
+
+	}
+	TAP_Yusuf_Tamsadirt={
+		name="Yusuf Tamsadirt"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Yusuf_Tamsadirt
+			traits = {	air_air_combat_training_1 	}
+		}
+
+
+	}
+	TAP_Abdullah_Daryalb={
+		name="Abdullah Daryalb"
+
+		advisor={
+			slot = high_command
+			idea_token = TAP_Abdullah_Daryalb
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	TAP_Massal_Sanirt={
+		name="Massal Sanirt"
+
+		advisor={
+			slot = theorist
+			idea_token = TAP_Massal_Sanirt
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	TAP_Iderfax_Aghra={
+		name="Iderfax Aghra"
+
+		advisor={
+			slot = theorist
+			idea_token = TAP_Iderfax_Aghra
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	TAP_Majidi_Haja={
+		name="Majidi Haja"
+
+		advisor={
+			slot = theorist
+			idea_token = TAP_Majidi_Haja
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=397
+	name="STATE_397"
+	manpower = 1594791
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2890 4}
+		
+		owner = TAP
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = TAP
+	}
+
+	provinces={
+		2889 2890 2891 2892 
+	}
+	local_supplies=0.0 
+}

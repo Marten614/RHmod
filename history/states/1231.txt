@@ -1,0 +1,38 @@
+
+state={
+	id=1231
+	name="STATE_1231"
+	manpower = 526597
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=3
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7421 1}
+		
+		owner = MIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = MIN
+	}
+
+	provinces={
+		7421 
+	}
+	local_supplies=0.0 
+}

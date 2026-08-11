@@ -1,0 +1,50 @@
+air_wings = {
+		1394 = { 								
+		small_plane_airframe_0 = { owner = "BOG" amount = 50 version_name = "Haba Mk 1" }
+
+	}
+	1547 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "BOG" amount = 50 version_name = "Nahra Mk 0" }
+
+	}
+	1410 = { 								
+		small_plane_cas_airframe_0 = { owner = "BOG" amount = 50 version_name = "Nourub Mk 1" }
+
+	}
+	1414 = { 								
+		small_plane_airframe_0 = { owner = "BOG" amount = 50 version_name = "Haba Mk 1" }
+
+	}
+	1422 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "BOG" amount = 50 version_name = "Nahra Mk 0" }
+
+	}
+	1546 = { 								
+		medium_plane_airframe_0 = { owner = "BOG" amount = 50 version_name = "Bahr Mk 2" }
+
+	}
+	1384 = { 								
+		small_plane_cas_airframe_0 = { owner = "BOG" amount = 50 version_name = "Nourub Mk 1" }
+small_plane_airframe_0 = { owner = "BOG" amount = 50 version_name = "Haba Mk 1" }
+
+	}
+	1538 = { 								
+		small_plane_airframe_0 = { owner = "BOG" amount = 50 version_name = "Haba Mk 1" }
+medium_plane_airframe_0 = { owner = "BOG" amount = 50 version_name = "Bahr Mk 2" }
+
+	}
+	1401 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "BOG" amount = 50 version_name = "Nahra Mk 0" }
+
+	}
+	1387 = { 								
+		small_plane_cas_airframe_0 = { owner = "BOG" amount = 50 version_name = "Nourub Mk 1" }
+
+	}
+	1391 = { 								
+		medium_plane_airframe_0 = { owner = "BOG" amount = 50 version_name = "Bahr Mk 2" }
+
+	}
+
+
+}

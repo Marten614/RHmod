@@ -1,0 +1,38 @@
+
+state={
+	id=64
+	name="STATE_64"
+	manpower = 1657517
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 534 4}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		534 535 536 537 538 539 540 541 
+	}
+	local_supplies=0.0 
+}

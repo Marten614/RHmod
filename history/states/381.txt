@@ -1,0 +1,37 @@
+
+state={
+	id=381
+	name="STATE_381"
+	manpower = 632499
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		2789 2790 
+	}
+	local_supplies=0.0 
+}

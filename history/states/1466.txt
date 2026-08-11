@@ -1,0 +1,42 @@
+
+state={
+	id=1466
+	name="STATE_1466"
+	manpower = 1718018
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8583 2}
+		victory_points = { 8584 2}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			8584 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		8583 8584 8585 
+	}
+	local_supplies=0.0 
+}

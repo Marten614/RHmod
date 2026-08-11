@@ -1,0 +1,41 @@
+
+state={
+	id=984
+	name="STATE_984"
+	manpower = 3220695
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6224 3}
+		victory_points = { 6225 5}
+		victory_points = { 6226 2}
+		victory_points = { 6229 1}
+		
+		owner = FAN
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = FAN
+	}
+
+	provinces={
+		6222 6223 6224 6225 6226 6227 6228 6229 6230 
+	}
+	local_supplies=0.0 
+}

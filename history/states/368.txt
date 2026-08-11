@@ -1,0 +1,41 @@
+
+state={
+	id=368
+	name="STATE_368"
+	manpower = 5844150
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2702 4}
+		victory_points = { 2711 3}
+		victory_points = { 2718 6}
+		victory_points = { 2722 4}
+		
+		owner = RYK
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = RYK
+	}
+
+	provinces={
+		2698 2699 2700 2701 2702 2703 2704 2705 2706 2707 2708 2709 2710 2711 2712 2713 2714 2715 2716 2717 2718 2719 2720 2721 2722 2723 2724 2725 
+	}
+	local_supplies=0.0 
+}

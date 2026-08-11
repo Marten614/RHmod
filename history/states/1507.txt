@@ -1,0 +1,44 @@
+
+state={
+	id=1507
+	name="STATE_1507"
+	manpower = 2142003
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8748 2}
+		victory_points = { 8749 1}
+		victory_points = { 8750 1}
+		victory_points = { 8751 1}
+		
+		owner = ETL
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			8748 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ETL
+	}
+
+	provinces={
+		8747 8748 8749 8750 8751 8752 
+	}
+	local_supplies=0.0 
+}

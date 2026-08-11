@@ -1,0 +1,38 @@
+
+state={
+	id=921
+	name="STATE_921"
+	manpower = 1994964
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=1
+		coal=2
+	}
+
+	history={
+		victory_points = { 5903 7}
+		
+		owner = ETL
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ETL
+	}
+
+	provinces={
+		5902 5903 5904 5905 5906 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,49 @@
+air_wings = {
+		261 = { 								
+		fighter_equipment_0 = { owner = "RYK" amount = 50 version_name = "Maishimbanaj Mk 0" }
+
+	}
+	475 = { 								
+		CAS_equipment_0 = { owner = "RYK" amount = 50 version_name = "Damli Mk 1" }
+
+	}
+	377 = { 								
+		fighter_equipment_0 = { owner = "RYK" amount = 50 version_name = "Maishimbanaj Mk 0" }
+
+	}
+	342 = { 								
+		fighter_equipment_0 = { owner = "RYK" amount = 50 version_name = "Maishimbanaj Mk 0" }
+
+	}
+	1 = { 								
+		nav_bomber_equipment_0 = { owner = "RYK" amount = 50 version_name = "Shimu Mk 1" }
+tac_bomber_equipment_0 = { owner = "RYK" amount = 50 version_name = "Mlindi Mk 0" }
+
+	}
+	251 = { 								
+		nav_bomber_equipment_0 = { owner = "RYK" amount = 50 version_name = "Shimu Mk 1" }
+
+	}
+	636 = { 								
+		nav_bomber_equipment_0 = { owner = "RYK" amount = 50 version_name = "Shimu Mk 1" }
+
+	}
+	42 = { 								
+		CAS_equipment_0 = { owner = "RYK" amount = 50 version_name = "Damli Mk 1" }
+
+	}
+	172 = { 								
+		tac_bomber_equipment_0 = { owner = "RYK" amount = 50 version_name = "Mlindi Mk 0" }
+
+	}
+	298 = { 								
+		tac_bomber_equipment_0 = { owner = "RYK" amount = 50 version_name = "Mlindi Mk 0" }
+
+	}
+	229 = { 								
+		CAS_equipment_0 = { owner = "RYK" amount = 50 version_name = "Damli Mk 1" }
+
+	}
+
+
+}

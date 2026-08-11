@@ -1,0 +1,38 @@
+
+state={
+	id=1220
+	name="STATE_1220"
+	manpower = 4612996
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=4
+		rubber=4
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7373 15}
+		
+		owner = ETL
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = ETL
+	}
+
+	provinces={
+		7364 7365 7366 7367 7368 7369 7370 7371 7372 7373 7374 7375 7376 
+	}
+	local_supplies=0.0 
+}

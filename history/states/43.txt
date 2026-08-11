@@ -1,0 +1,41 @@
+
+state={
+	id=43
+	name="STATE_43"
+	manpower = 3995692
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=10
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 347 4}
+		victory_points = { 354 3}
+		victory_points = { 357 3}
+		victory_points = { 362 3}
+		
+		owner = RYK
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = RYK
+	}
+
+	provinces={
+		347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,80 @@
+air_wings = {
+		1336 = { 								
+		nav_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Tang Mk 2" }
+
+	}
+	1232 = { 								
+		strat_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Suara Mk 0" }
+
+	}
+	1024 = { 								
+		fighter_equipment_0 = { owner = "ETL" amount = 50 version_name = "Tanrohonkepu Mk 1" }
+
+	}
+	1172 = { 								
+		strat_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Geragempi Mk 0" }
+tac_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Hutriasjidun Mk 0" }
+
+	}
+	758 = { 								
+		tac_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Hutriasjidun Mk 0" }
+
+	}
+	1322 = { 								
+		strat_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Suara Mk 0" }
+
+	}
+	1194 = { 								
+		CAS_equipment_0 = { owner = "ETL" amount = 50 version_name = "Legensilagai Mk 1" }
+
+	}
+	1247 = { 								
+		tac_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Hutriasjidun Mk 0" }
+
+	}
+	874 = { 								
+		fighter_equipment_0 = { owner = "ETL" amount = 50 version_name = "Tanrohonkepu Mk 1" }
+
+	}
+	1320 = { 								
+		tac_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Wakumata Mk 0" }
+
+	}
+	1065 = { 								
+		tac_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Wakumata Mk 0" }
+
+	}
+	834 = { 								
+		strat_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Geragempi Mk 0" }
+
+	}
+	1343 = { 								
+		strat_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Geragempi Mk 0" }
+CAS_equipment_0 = { owner = "ETL" amount = 50 version_name = "Legensilagai Mk 1" }
+
+	}
+	1257 = { 								
+		fighter_equipment_0 = { owner = "ETL" amount = 50 version_name = "Tanrohonkepu Mk 1" }
+nav_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Tang Mk 2" }
+
+	}
+	1321 = { 								
+		strat_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Suara Mk 0" }
+
+	}
+	1081 = { 								
+		strat_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Suara Mk 0" }
+
+	}
+	1193 = { 								
+		CAS_equipment_0 = { owner = "ETL" amount = 50 version_name = "Legensilagai Mk 1" }
+
+	}
+	1312 = { 								
+		tac_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Wakumata Mk 0" }
+nav_bomber_equipment_0 = { owner = "ETL" amount = 50 version_name = "Tang Mk 2" }
+
+	}
+
+
+}

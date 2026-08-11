@@ -1,0 +1,38 @@
+
+state={
+	id=259
+	name="STATE_259"
+	manpower = 1180893
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1983 3}
+		
+		owner = RYK
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = RYK
+	}
+
+	provinces={
+		1981 1982 1983 
+	}
+	local_supplies=0.0 
+}

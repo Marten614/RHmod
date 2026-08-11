@@ -1,0 +1,61 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Socialist Slipper Republic Fleet"			
+		naval_base = 3391
+		task_force = {
+			name = "Socialist Slipper Republic Fleet"
+			location = 3391
+			
+						ship = { name = "Tanub" definition = battle_cruiser equipment = { battle_cruiser_2 = { amount = 1 owner = TAP version_name = "Tafhab Class" } }	}
+			ship = { name = "Rihladda" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = TAP version_name = "Tifawri Class" } }	}
+			ship = { name = "Makilt" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = TAP version_name = "Tifawri Class" } }	}
+			ship = { name = "Ayur" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TAP version_name = "Tamdar Class" } }	}
+			ship = { name = "Rawa" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = TAP version_name = "Azemekna Class" } }	}
+			ship = { name = "Janasrawenza" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = TAP version_name = "Azemekna Class" } }	}
+			ship = { name = "Ayur 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Marrant" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Imzia" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Janasrawenza 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Haja" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = TAP version_name = "Azemekna Class" } }	}
+			ship = { name = "Shayah" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Tasa" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TAP version_name = "Tamdar Class" } }	}
+			ship = { name = "Tazn" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Mawdartourub" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TAP version_name = "Tamdar Class" } }	}
+			ship = { name = "Haja 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = TAP version_name = "Azemekna Class" } }	}
+			ship = { name = "Tamahelt" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Khazamda" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Azem" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Janasrawenza 3" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Wadi" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Taghremella" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TAP version_name = "Tamdar Class" } }	}
+			ship = { name = "Imzia 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Shurak" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TAP version_name = "Tamdar Class" } }	}
+			ship = { name = "Shurt" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Azemeqrawrin" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TAP version_name = "Tamdar Class" } }	}
+			ship = { name = "Wadi 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Thamsadi" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Tazraheltaad" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Amanub" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Azemeqrawrin 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Azemeqrawrin 3" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = TAP version_name = "Tanub Class" } }	}
+			ship = { name = "Azem 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = TAP version_name = "Diwa Class" } }	}
+			ship = { name = "Imna" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = TAP version_name = "Azemekna Class" } }	}
+			ship = { name = "Aghra" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = TAP version_name = "Tamdar Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

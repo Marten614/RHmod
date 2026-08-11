@@ -1,0 +1,38 @@
+
+state={
+	id=794
+	name="STATE_794"
+	manpower = 1145990
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5242 3}
+		
+		owner = FAN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = FAN
+	}
+
+	provinces={
+		5242 5243 5244 
+	}
+	local_supplies=0.0 
+}

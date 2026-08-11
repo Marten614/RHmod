@@ -1,0 +1,39 @@
+
+state={
+	id=1155
+	name="STATE_1155"
+	manpower = 1199840
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7048 3}
+		victory_points = { 7050 1}
+		
+		owner = ETL
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ETL
+	}
+
+	provinces={
+		7047 7048 7049 7050 
+	}
+	local_supplies=0.0 
+}

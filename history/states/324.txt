@@ -1,0 +1,42 @@
+
+state={
+	id=324
+	name="STATE_324"
+	manpower = 1612617
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2408 1}
+		victory_points = { 2410 4}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 0
+			
+			2410 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		2407 2408 2409 2410 
+	}
+	local_supplies=0.0 
+}

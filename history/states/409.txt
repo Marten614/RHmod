@@ -1,0 +1,39 @@
+
+state={
+	id=409
+	name="STATE_409"
+	manpower = 1095642
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2973 1}
+		victory_points = { 2974 1}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		2972 2973 2974 
+	}
+	local_supplies=0.0 
+}

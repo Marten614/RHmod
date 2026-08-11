@@ -1,0 +1,39 @@
+
+state={
+	id=765
+	name="STATE_765"
+	manpower = 5177202
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=3
+		rubber=8
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5112 2}
+		victory_points = { 5123 13}
+		
+		owner = STL
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = STL
+	}
+
+	provinces={
+		5106 5107 5108 5109 5110 5111 5112 5113 5114 5115 5116 5117 5118 5119 5120 5121 5122 5123 
+	}
+	local_supplies=0.0 
+}

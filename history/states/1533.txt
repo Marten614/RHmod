@@ -1,0 +1,41 @@
+
+state={
+	id=1533
+	name="STATE_1533"
+	manpower = 359074
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=4
+		chromium=4
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=4
+		coal=10
+	}
+
+	history={
+		victory_points = { 8803 1}
+		
+		owner = RAS
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			8803 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RAS
+	}
+
+	provinces={
+		8803 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,64 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Empire of Rassol Fleet"			
+		naval_base = 8762
+		task_force = {
+			name = "Empire of Rassol Fleet"
+			location = 8762
+			
+						ship = { name = "Heroja" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Svezava Class" } }	}
+			ship = { name = "Caslastica" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Svezava Class" } }	}
+			ship = { name = "Heroja 2" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Svezava Class" } }	}
+			ship = { name = "Auto" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Svezava Class" } }	}
+			ship = { name = "Oblika" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Zven" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Grmljevit" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAS version_name = "Mesnik Class" } }	}
+			ship = { name = "Tama" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAS version_name = "Mesnik Class" } }	}
+			ship = { name = "Jezduh" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Sena" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Hraljiga" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Olost" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAS version_name = "Mesnik Class" } }	}
+			ship = { name = "Glast" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Voda" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Teat" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAS version_name = "Mesnik Class" } }	}
+			ship = { name = "Dobava" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Granstore" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Dobava 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Mesecno" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Zemirod" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Olost 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Hraljiga 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Grmljevit 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAS version_name = "Mesnik Class" } }	}
+			ship = { name = "Zlaslava" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Hlebo" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Grmljevit 3" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Telica" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAS version_name = "Mesnik Class" } }	}
+			ship = { name = "Mesnik" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Nada" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Mesnik 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Zlaslava 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+			ship = { name = "Mesecno 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Sena 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAS version_name = "Mesnik Class" } }	}
+			ship = { name = "Glat" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAS version_name = "Mesnik Class" } }	}
+			ship = { name = "Glat 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Sveme" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = RAS version_name = "Vecnoslan Class" } }	}
+			ship = { name = "Reka" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAS version_name = "Mesnik Class" } }	}
+			ship = { name = "Oblika 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = RAS version_name = "Grmljevit Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

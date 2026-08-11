@@ -1,0 +1,38 @@
+
+state={
+	id=1214
+	name="STATE_1214"
+	manpower = 1190180
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7343 2}
+		
+		owner = FAN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = FAN
+	}
+
+	provinces={
+		7342 7343 7344 
+	}
+	local_supplies=0.0 
+}

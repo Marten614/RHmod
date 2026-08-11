@@ -1,0 +1,82 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Empire of Stulnia Fleet"			
+		naval_base = 6805
+		task_force = {
+			name = "Empire of Stulnia Fleet"
+			location = 6805
+			
+						ship = { name = "Oramba" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Dama Class" } }	}
+			ship = { name = "Peti" definition = heavy_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Dama Class" } }	}
+			ship = { name = "Arwahaba" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Pulau" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Lelan" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Pangitanga" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Terjaanakil" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Hara" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Ramata" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Pera" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Sungitah" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Suci" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Tanrohonkepu" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Pulamai" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Gempi" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Pulamai 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Cindelautris" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Tuhanahayi" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Oramba 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Hutriasjidun" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Jalut" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Tuhanahayi 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Mata" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Pangitanga 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Tuhanahayi 3" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Beradangis" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Darak" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Mata 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Gunung" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Hara 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Pangitanga 3" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Oramba 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Tanrohonkepu 2" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Suaragai" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Bulakakakutr" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Hara 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Upang" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Nyapacakutas" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Suci 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Tuhanahayi 4" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Gempuatang" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Pohon" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Kakil" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Hutriasjidun 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Ayarempi" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Bulakakakutr 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Badalaga" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ETL version_name = "Terama Class" } }	}
+			ship = { name = "Lelindung" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Bulitu" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Oramba 4" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Nyapacakutas 2" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Darak 2" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Terama" definition = destroyer equipment = { ship_hull_light_2 = { amount = 1 owner = ETL version_name = "Gempuatang Class" } }	}
+			ship = { name = "Upang 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Mata 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+			ship = { name = "Nyapacakutas 3" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = ETL version_name = "Legensir Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

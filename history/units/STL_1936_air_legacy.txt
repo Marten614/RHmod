@@ -1,0 +1,114 @@
+air_wings = {
+		1094 = { 								
+		strat_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Masra Mk 0" }
+CAS_equipment_0 = { owner = "STL" amount = 50 version_name = "Malakana Mk 2" }
+
+	}
+	925 = { 								
+		strat_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Masra Mk 0" }
+
+	}
+	854 = { 								
+		tac_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Mada Mk 2" }
+
+	}
+	953 = { 								
+		CAS_equipment_0 = { owner = "STL" amount = 50 version_name = "Tunis Mk 1" }
+
+	}
+	1037 = { 								
+		nav_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Hajlis Mk 0" }
+
+	}
+	990 = { 								
+		strat_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Qahreb Mk 0" }
+
+	}
+	1129 = { 								
+		fighter_equipment_0 = { owner = "STL" amount = 50 version_name = "Madinamunamu Mk 2" }
+
+	}
+	873 = { 								
+		strat_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Qahreb Mk 0" }
+
+	}
+	1128 = { 								
+		tac_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Khata Mk 2" }
+
+	}
+	1138 = { 								
+		CAS_equipment_0 = { owner = "STL" amount = 50 version_name = "Tunis Mk 1" }
+
+	}
+	974 = { 								
+		nav_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Hajlis Mk 0" }
+strat_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Qahreb Mk 0" }
+
+	}
+	1116 = { 								
+		tac_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Khata Mk 2" }
+
+	}
+	933 = { 								
+		tac_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Mada Mk 2" }
+
+	}
+	779 = { 								
+		fighter_equipment_0 = { owner = "STL" amount = 50 version_name = "Khaja Mk 0" }
+
+	}
+	1187 = { 								
+		strat_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Masra Mk 0" }
+
+	}
+	788 = { 								
+		nav_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Qahreb Mk 1" }
+
+	}
+	782 = { 								
+		nav_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Qahreb Mk 1" }
+
+	}
+	1148 = { 								
+		nav_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Qahreb Mk 1" }
+
+	}
+	1545 = { 								
+		strat_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Masra Mk 0" }
+
+	}
+	1373 = { 								
+		fighter_equipment_0 = { owner = "STL" amount = 50 version_name = "Madinamunamu Mk 2" }
+
+	}
+	1080 = { 								
+		nav_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Hajlis Mk 0" }
+fighter_equipment_0 = { owner = "STL" amount = 50 version_name = "Madinamunamu Mk 2" }
+
+	}
+	890 = { 								
+		fighter_equipment_0 = { owner = "STL" amount = 50 version_name = "Khaja Mk 0" }
+tac_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Khata Mk 2" }
+
+	}
+	1182 = { 								
+		CAS_equipment_0 = { owner = "STL" amount = 50 version_name = "Malakana Mk 2" }
+
+	}
+	1370 = { 								
+		CAS_equipment_0 = { owner = "STL" amount = 50 version_name = "Tunis Mk 1" }
+CAS_equipment_0 = { owner = "STL" amount = 50 version_name = "Tunis Mk 1" }
+
+	}
+	1249 = { 								
+		CAS_equipment_0 = { owner = "STL" amount = 50 version_name = "Malakana Mk 2" }
+tac_bomber_equipment_0 = { owner = "STL" amount = 50 version_name = "Mada Mk 2" }
+
+	}
+	850 = { 								
+		fighter_equipment_0 = { owner = "STL" amount = 50 version_name = "Khaja Mk 0" }
+
+	}
+
+
+}

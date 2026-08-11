@@ -1,0 +1,121 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Stulnia Fleet"			
+		naval_base = 8809
+		task_force = {
+			name = "Stulnia Fleet"
+			location = 8809
+			
+						ship = { name = "Hijrasrah" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Majlifa" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Samar" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Majlifa 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Rabilm" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Rihl" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Noum" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Darasjid" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Irah" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Hijr" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Fara" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Basat" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Masataria" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Najd" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Sams" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Mataa" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Irah 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Asat" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Madinamunamu" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Hijr 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Thamlamaadin" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Asat 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Qalb" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Masat" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Masat 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Basat 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Reej" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Taykh" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Khar" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Sharikmamt" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Masataria 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Hijr 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Shidda" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Mada" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Tunis" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Basr" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Fara 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Tartoura" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Darasjid 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Majlifa 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Basat 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Taykh 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Alifa" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Madinamunamu 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Mada 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Masataria 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Hijrasrah 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Madinamunamu 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Mataa 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Masataria 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Masataria 5" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Turahalifa" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Basr 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Alifa 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Asat 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Rabilm 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Majlifa 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Saabr" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Arda" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Shidda 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Sharikmamt 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Haba" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Thatina" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Fara 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Khaja" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Turah" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Manzim" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Hijrasrah 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Thatina 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Shamt" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Shira" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Basr 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Basr 4" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Mahjarrah" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Fara 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Turahalifa 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Hijr 4" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Marim" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Reej 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Saadin" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Khaja 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Mama" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Samar 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Majlifa 5" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Mama 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Majlifa 6" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Turah 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Fara 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Thamlamaadin 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Shamt 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Rawarb" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Samar 3" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Mama 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = STL version_name = "Saadin Class" } }	}
+			ship = { name = "Shira 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+			ship = { name = "Majlifa 7" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = STL version_name = "Noum Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

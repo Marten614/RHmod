@@ -1,0 +1,43 @@
+
+state={
+	id=46
+	name="STATE_46"
+	manpower = 3484445
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 385 2}
+		victory_points = { 387 2}
+		victory_points = { 388 8}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			387 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		379 380 381 382 383 384 385 386 387 388 389 390 
+	}
+	local_supplies=0.0 
+}

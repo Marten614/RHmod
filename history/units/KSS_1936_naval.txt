@@ -1,0 +1,129 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Confederation of South States Fleet"			
+		naval_base = 8825
+		task_force = {
+			name = "Confederation of South States Fleet"
+			location = 8825
+			
+						ship = { name = "Bakbe" definition = carrier equipment = { carrier_2 = { amount = 1 owner = KSS version_name = "Uxunil Class" } }	}
+			ship = { name = "Etzikin" definition = carrier equipment = { carrier_2 = { amount = 1 owner = KSS version_name = "Uxunil Class" } }	}
+			ship = { name = "Etzikin 2" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Bakalah" definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = KSS version_name = "Beca Class" } }	}
+			ship = { name = "Chau" definition = battleship equipment = { battleship_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Chau 2" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Kanil" definition = battle_cruiser equipment = { battle_cruiser_2 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Naranjo" definition = battle_cruiser equipment = { battle_cruiser_2 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Xbahlam" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Tohok" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = KSS version_name = "Cancue Class" } }	}
+			ship = { name = "Tikalampak" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Bakalah 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Halom" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Ajtz" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Bakbe 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Hunikin" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Cobal" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Bakbe 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Chen" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Bakalah 3" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Kabalacom" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Xbahlam 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Beca" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Cobal 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Tzib" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Naraca" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Kana" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Tikalampak 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Bakalah 4" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Chen 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Uxun" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Kanek" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Chun" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Kaba" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Bakalah 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Ajtz 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Bakbe 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Beca 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Oxib" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Ahkin" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Bakbe 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Etzikin 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Halom 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Kabalacom 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Cozumel" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Akba" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Tzol" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Bona" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Ajtz 3" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Ahkin 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Ahkin 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Kanil 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Beca 3" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Bakchun" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Kabalacom 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Naranjo 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Tikal" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Akba 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Tohok 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Bakchun 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Kaba 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Kanil 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Etzikin 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Naranjo 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Tzolkan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Oxib 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Kanil 4" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Kana 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Kaba 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Kate" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Bakchun 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Uxunil" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Etzikin 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Chen 3" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Uxun 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Ajtz 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Kana 3" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Tikalampak 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Kawakha" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Yalen" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Naranjo 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Kabalacom 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Bakchun 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Tohok 3" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Cancue" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Yaxchel" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Halom 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Palah" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Kanil 5" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Ajawakan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Bakchun 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Halom 4" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Bakchun 6" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Tzib 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Kanek 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Uxmal" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Kabalacom 5" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Chuna" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Ajtz 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Chen 4" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+			ship = { name = "Naranjo 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KSS version_name = "Bakbe Class" } }	}
+			ship = { name = "Tzol 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KSS version_name = "Kate Class" } }	}
+			ship = { name = "Etzikin 6" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = KSS version_name = "Tzolkan Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

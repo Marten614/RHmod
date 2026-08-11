@@ -1,0 +1,41 @@
+
+state={
+	id=600
+	name="STATE_600"
+	manpower = 1396635
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4155 3}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			4155 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		4154 4155 4156 
+	}
+	local_supplies=0.0 
+}

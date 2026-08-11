@@ -1,0 +1,39 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Republick of Ryukzaki Fleet"			
+		naval_base = 8807
+		task_force = {
+			name = "Republick of Ryukzaki Fleet"
+			location = 8807
+			
+						ship = { name = "Upendoto" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = RYK version_name = "Mtaki Class" } }	}
+			ship = { name = "Fukuma" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RYK version_name = "Maishimbanaj Class" } }	}
+			ship = { name = "Kifu" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = RYK version_name = "Mtaki Class" } }	}
+			ship = { name = "Tundita" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RYK version_name = "Maishimbanaj Class" } }	}
+			ship = { name = "Ango" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = RYK version_name = "Mtaki Class" } }	}
+			ship = { name = "Dhidisia" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = RYK version_name = "Ango Class" } }	}
+			ship = { name = "Tundisu" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RYK version_name = "Maishimbanaj Class" } }	}
+			ship = { name = "Rohori" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RYK version_name = "Maishimbanaj Class" } }	}
+			ship = { name = "Kumba" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = RYK version_name = "Mtaki Class" } }	}
+			ship = { name = "Hofunduiya" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = RYK version_name = "Mtaki Class" } }	}
+			ship = { name = "Askarakia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RYK version_name = "Maishimbanaj Class" } }	}
+			ship = { name = "Maishimbanaj" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RYK version_name = "Maishimbanaj Class" } }	}
+			ship = { name = "Jotorubwani" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = RYK version_name = "Maishimbanaj Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

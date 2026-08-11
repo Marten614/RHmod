@@ -1,0 +1,1083 @@
+characters = {
+	GYP_Augus_Canwa={
+		name="Augus Canwa"
+
+		
+		country_leader={
+			ideology=moderatism
+			traits = { staunch_constitutionalist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	GYP_Arnellextus_Krito={
+		name="Arnellextus Krito"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Arnellextus_Krito
+			traits = {	staunch_constitutionalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Jeam_Amorna={
+		name="Jeam Amorna"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Jeam_Amorna
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Nica_Carheitaggin={
+		name="Nica Carheitaggin"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Nica_Carheitaggin
+			traits = {	agricultural_nationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Gaius_Baillediz={
+		name="Gaius Baillediz"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Gaius_Baillediz
+			traits = {	agricultural_capitalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Otto_Carheitaggin={
+		name="Otto Carheitaggin"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Otto_Carheitaggin
+			traits = {	right_industrialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	GYP_Nica_Tarma={
+		name="Nica Tarma"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Nica_Tarma
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	GYP_Frans_Tempold={
+		name="Frans Tempold"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Frans_Tempold
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	GYP_Rhys_Vola={
+		name="Rhys Vola"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Rhys_Vola
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	GYP_Thiers_Cibunarvaz={
+		name="Thiers Cibunarvaz"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Thiers_Cibunarvaz
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	GYP_Marco_Tura={
+		name="Marco Tura"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Marco_Tura
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	GYP_Robervid_Miria={
+		name="Robervid Miria"
+
+		advisor={
+			slot = navy_chief
+			idea_token = GYP_Robervid_Miria
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	GYP_Kein_Miria={
+		name="Kein Miria"
+
+		advisor={
+			slot = navy_chief
+			idea_token = GYP_Kein_Miria
+			traits = {	navy_chief_reform_2 	}
+		}
+
+
+	}
+	GYP_Robervid_Mazeh={
+		name="Robervid Mazeh"
+
+		advisor={
+			slot = air_chief
+			idea_token = GYP_Robervid_Mazeh
+			traits = {	air_chief_night_operations_2 	}
+		}
+
+
+	}
+	GYP_Mald_Roso={
+		name="Mald Roso"
+
+		advisor={
+			slot = air_chief
+			idea_token = GYP_Mald_Roso
+			traits = {	air_chief_night_operations_2 	}
+		}
+
+
+	}
+	GYP_Willus_Ardinus={
+		name="Willus Ardinus"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Willus_Ardinus
+			traits = {	air_pilot_training_2 	}
+		}
+
+
+	}
+	GYP_Aliald_Eagotti={
+		name="Aliald Eagotti"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Aliald_Eagotti
+			traits = {	army_CombinedArms_2 	}
+		}
+
+
+	}
+	GYP_Caigus_Fioce={
+		name="Caigus Fioce"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Caigus_Fioce
+			traits = {	air_pilot_training_2 	}
+		}
+
+
+	}
+	GYP_Antus_Caente={
+		name="Antus Caente"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Antus_Caente
+			traits = {	air_close_air_support_2 	}
+		}
+
+
+	}
+	GYP_Quis_Abbaraft={
+		name="Quis Abbaraft"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Quis_Abbaraft
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	GYP_Hoselliances_Armanturang={
+		name="Hoselliances Armanturang"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Hoselliances_Armanturang
+			traits = {	navy_carrier_1 	}
+		}
+
+
+	}
+	GYP_Hasparcelipe_Trolasta={
+		name="Hasparcelipe Trolasta"
+
+		
+		country_leader={
+			ideology=fascism_ideology
+			traits = { collaborator_king  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	GYP_Drutus_Flum={
+		name="Drutus Flum"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Drutus_Flum
+			traits = {	warmonger 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	GYP_Thiers_Vola={
+		name="Thiers Vola"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Thiers_Vola
+			traits = {	celebrity_junta_leader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	GYP_Amilavius_Trolasta={
+		name="Amilavius Trolasta"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Amilavius_Trolasta
+			traits = {	inexperienced_imperialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	GYP_Andrethienri_Tura={
+		name="Andrethienri Tura"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Andrethienri_Tura
+			traits = {	inexperienced_imperialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Silvano_Ghir={
+		name="Silvano Ghir"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Silvano_Ghir
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	GYP_Publo_Krito={
+		name="Publo Krito"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Publo_Krito
+			traits = {	basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	GYP_Sextus_Weimand={
+		name="Sextus Weimand"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Sextus_Weimand
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	GYP_Nicolanus_Milte={
+		name="Nicolanus Milte"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Nicolanus_Milte
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	GYP_Silvano_Vola={
+		name="Silvano Vola"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Silvano_Vola
+			traits = {	army_chief_maneuver_2 	}
+		}
+
+
+	}
+	GYP_Decius_Mazeh={
+		name="Decius Mazeh"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Decius_Mazeh
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	GYP_Heif_Eole={
+		name="Heif Eole"
+
+		advisor={
+			slot = navy_chief
+			idea_token = GYP_Heif_Eole
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	GYP_Thiels_Laidentura={
+		name="Thiels Laidentura"
+
+		advisor={
+			slot = navy_chief
+			idea_token = GYP_Thiels_Laidentura
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	GYP_Rezad_Vichne={
+		name="Rezad Vichne"
+
+		advisor={
+			slot = air_chief
+			idea_token = GYP_Rezad_Vichne
+			traits = {	air_chief_ground_support_2 	}
+		}
+
+
+	}
+	GYP_Amilavius_Belorc={
+		name="Amilavius Belorc"
+
+		advisor={
+			slot = air_chief
+			idea_token = GYP_Amilavius_Belorc
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	GYP_Volf_Abhab={
+		name="Volf Abhab"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Volf_Abhab
+			traits = {	air_air_superiority_1 	}
+		}
+
+
+	}
+	GYP_Thiers_Bonn={
+		name="Thiers Bonn"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Thiers_Bonn
+			traits = {	navy_capital_ship_1 	}
+		}
+
+
+	}
+	GYP_Otto_Zamh={
+		name="Otto Zamh"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Otto_Zamh
+			traits = {	army_entrenchment_1 	}
+		}
+
+
+	}
+	GYP_Amilavius_Seangindar={
+		name="Amilavius Seangindar"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Amilavius_Seangindar
+			traits = {	air_tactical_bombing_2 	}
+		}
+
+
+	}
+	GYP_Willus_Glus={
+		name="Willus Glus"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Willus_Glus
+			traits = {	air_air_superiority_2 	}
+		}
+
+
+	}
+	GYP_Frans_Shanig={
+		name="Frans Shanig"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Frans_Shanig
+			traits = {	air_strategic_bombing_2 	}
+		}
+
+
+	}
+	GYP_Luinrius_Venacht={
+		name="Luinrius Venacht"
+
+		
+		country_leader={
+			ideology=marxism
+			traits = { political_dancer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	GYP_Mald_Hiliab={
+		name="Mald Hiliab"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Mald_Hiliab
+			traits = {	leftist_independent 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	GYP_Titius_Bonn={
+		name="Titius Bonn"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Titius_Bonn
+			traits = {	patriotic_socialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	GYP_Willus_Turana={
+		name="Willus Turana"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Willus_Turana
+			traits = {	marxist_fundamentalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Heinrio_Popf={
+		name="Heinrio Popf"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Heinrio_Popf
+			traits = {	revolutionary_poet 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	GYP_Mostus_Hiliab={
+		name="Mostus Hiliab"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Mostus_Hiliab
+			traits = {	marxist_fundamentalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Silvano_Herte={
+		name="Silvano Herte"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Silvano_Herte
+			traits = {	reluctant_stalinist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Thiald_Dasa={
+		name="Thiald Dasa"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Thiald_Dasa
+			traits = {	army_chief_planning_1 	}
+		}
+
+
+	}
+	GYP_Horancelm_Seangindar={
+		name="Horancelm Seangindar"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Horancelm_Seangindar
+			traits = {	army_chief_planning_2 	}
+		}
+
+
+	}
+	GYP_Liaman_Krito={
+		name="Liaman Krito"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Liaman_Krito
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	GYP_Augus_Eagotti={
+		name="Augus Eagotti"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Augus_Eagotti
+			traits = {	army_chief_offensive_2 	}
+		}
+
+
+	}
+	GYP_Thiels_Deanocht={
+		name="Thiels Deanocht"
+
+		advisor={
+			slot = navy_chief
+			idea_token = GYP_Thiels_Deanocht
+			traits = {	navy_chief_reform_2 	}
+		}
+
+
+	}
+	GYP_Mald_Libum={
+		name="Mald Libum"
+
+		advisor={
+			slot = navy_chief
+			idea_token = GYP_Mald_Libum
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	GYP_Hanse_Zamh={
+		name="Hanse Zamh"
+
+		advisor={
+			slot = air_chief
+			idea_token = GYP_Hanse_Zamh
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	GYP_Stefa_Koeta={
+		name="Stefa Koeta"
+
+		advisor={
+			slot = air_chief
+			idea_token = GYP_Stefa_Koeta
+			traits = {	air_chief_ground_support_2 	}
+		}
+
+
+	}
+	GYP_Sveris_Tempus={
+		name="Sveris Tempus"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Sveris_Tempus
+			traits = {	air_pilot_training_2 	}
+		}
+
+
+	}
+	GYP_Titius_Belorc={
+		name="Titius Belorc"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Titius_Belorc
+			traits = {	air_air_combat_training_1 	}
+		}
+
+
+	}
+	GYP_Kassius_Trae={
+		name="Kassius Trae"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Kassius_Trae
+			traits = {	air_strategic_bombing_2 	}
+		}
+
+
+	}
+	GYP_Frallius_Dunuber={
+		name="Frallius Dunuber"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Frallius_Dunuber
+			traits = {	navy_anti_submarine_2 	}
+		}
+
+
+	}
+	GYP_Kassano_Mazeh={
+		name="Kassano Mazeh"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Kassano_Mazeh
+			traits = {	air_pilot_training_2 	}
+		}
+
+
+	}
+	GYP_Arnellextus_Nart={
+		name="Arnellextus Nart"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Arnellextus_Nart
+			traits = {	navy_submarine_1 	}
+		}
+
+
+	}
+	GYP_Brut_Carheitaggin={
+		name="Brut Carheitaggin"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { famous_aviator  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	GYP_Rezad_Karano={
+		name="Rezad Karano"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Rezad_Karano
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	GYP_Reza_Fioce={
+		name="Reza Fioce"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Reza_Fioce
+			traits = {	veteran_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Hanse_Vichne={
+		name="Hanse Vichne"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Hanse_Vichne
+			traits = {	first_lady 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	GYP_Nica_Fide={
+		name="Nica Fide"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Nica_Fide
+			traits = {	veteran_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Richus_Spah={
+		name="Richus Spah"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Richus_Spah
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	GYP_Seaminus_Taman={
+		name="Seaminus Taman"
+
+		advisor={
+			slot = political_advisor
+			idea_token = GYP_Seaminus_Taman
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	GYP_Hoselliances_Tena={
+		name="Hoselliances Tena"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Hoselliances_Tena
+			traits = {	army_chief_maneuver_2 	}
+		}
+
+
+	}
+	GYP_Livid_Miria={
+		name="Livid Miria"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Livid_Miria
+			traits = {	army_chief_offensive_1 	}
+		}
+
+
+	}
+	GYP_Aliald_Krito={
+		name="Aliald Krito"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Aliald_Krito
+			traits = {	army_chief_planning_2 	}
+		}
+
+
+	}
+	GYP_Rezad_Cibunarvaz={
+		name="Rezad Cibunarvaz"
+
+		advisor={
+			slot = army_chief
+			idea_token = GYP_Rezad_Cibunarvaz
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	GYP_Anton_Poco={
+		name="Anton Poco"
+
+		advisor={
+			slot = navy_chief
+			idea_token = GYP_Anton_Poco
+			traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+
+	}
+	GYP_Tram_Miria={
+		name="Tram Miria"
+
+		advisor={
+			slot = navy_chief
+			idea_token = GYP_Tram_Miria
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	GYP_Andrethienri_Hung={
+		name="Andrethienri Hung"
+
+		advisor={
+			slot = air_chief
+			idea_token = GYP_Andrethienri_Hung
+			traits = {	air_chief_night_operations_2 	}
+		}
+
+
+	}
+	GYP_Gaius_Spah={
+		name="Gaius Spah"
+
+		advisor={
+			slot = air_chief
+			idea_token = GYP_Gaius_Spah
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	GYP_Marco_Spah={
+		name="Marco Spah"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Marco_Spah
+			traits = {	army_CombinedArms_2 	}
+		}
+
+
+	}
+	GYP_Varlos_Belorc={
+		name="Varlos Belorc"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Varlos_Belorc
+			traits = {	air_airborne_2 	}
+		}
+
+
+	}
+	GYP_Lucaeedredre_Dunuber={
+		name="Lucaeedredre Dunuber"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Lucaeedredre_Dunuber
+			traits = {	air_air_superiority_2 	}
+		}
+
+
+	}
+	GYP_Rezad_Seangindar={
+		name="Rezad Seangindar"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Rezad_Seangindar
+			traits = {	army_regrouping_2 	}
+		}
+
+
+	}
+	GYP_Heif_Piontoradizi={
+		name="Heif Piontoradizi"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Heif_Piontoradizi
+			traits = {	navy_capital_ship_2 	}
+		}
+
+
+	}
+	GYP_Juliels_Sepiedich={
+		name="Juliels Sepiedich"
+
+		advisor={
+			slot = high_command
+			idea_token = GYP_Juliels_Sepiedich
+			traits = {	army_cavalry_2 	}
+		}
+
+
+	}
+	GYP_Hanse_Bonn={
+		name="Hanse Bonn"
+
+		advisor={
+			slot = theorist
+			idea_token = GYP_Hanse_Bonn
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	GYP_Pablius_Ombro={
+		name="Pablius Ombro"
+
+		advisor={
+			slot = theorist
+			idea_token = GYP_Pablius_Ombro
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	GYP_Serik_Deanocht={
+		name="Serik Deanocht"
+
+		advisor={
+			slot = theorist
+			idea_token = GYP_Serik_Deanocht
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

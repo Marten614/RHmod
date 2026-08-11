@@ -1,0 +1,40 @@
+
+state={
+	id=80
+	name="STATE_80"
+	manpower = 4415441
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 647 9}
+		victory_points = { 649 3}
+		victory_points = { 655 3}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		646 647 648 649 650 651 652 653 654 655 656 657 658 
+	}
+	local_supplies=0.0 
+}

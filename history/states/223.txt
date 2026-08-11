@@ -1,0 +1,41 @@
+
+state={
+	id=223
+	name="STATE_223"
+	manpower = 960176
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1768 2}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			1767 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		1767 1768 
+	}
+	local_supplies=0.0 
+}

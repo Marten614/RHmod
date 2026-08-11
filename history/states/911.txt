@@ -1,0 +1,38 @@
+
+state={
+	id=911
+	name="STATE_911"
+	manpower = 835164
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=1
+		chromium=2
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=2
+		coal=4
+	}
+
+	history={
+		victory_points = { 5845 3}
+		
+		owner = ETL
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = ETL
+	}
+
+	provinces={
+		5844 5845 
+	}
+	local_supplies=0.0 
+}

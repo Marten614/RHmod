@@ -1,0 +1,41 @@
+
+state={
+	id=1036
+	name="STATE_1036"
+	manpower = 780866
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6496 1}
+		
+		owner = STL
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			6497 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = STL
+	}
+
+	provinces={
+		6496 6497 
+	}
+	local_supplies=0.0 
+}

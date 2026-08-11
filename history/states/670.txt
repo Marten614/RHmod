@@ -1,0 +1,41 @@
+
+state={
+	id=670
+	name="STATE_670"
+	manpower = 5272555
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=5
+		chromium=5
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=5
+		coal=12
+	}
+
+	history={
+		victory_points = { 4522 7}
+		victory_points = { 4532 3}
+		victory_points = { 4538 3}
+		victory_points = { 4539 3}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 2
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		4521 4522 4523 4524 4525 4526 4527 4528 4529 4530 4531 4532 4533 4534 4535 4536 4537 4538 4539 4540 
+	}
+	local_supplies=0.0 
+}

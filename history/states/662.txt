@@ -1,0 +1,43 @@
+
+state={
+	id=662
+	name="STATE_662"
+	manpower = 1607968
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4478 3}
+		victory_points = { 4479 1}
+		victory_points = { 4480 1}
+		
+		owner = EXP
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			4478 = {
+				naval_base = 3
+			}
+			
+		}
+		add_core_of = EXP
+	}
+
+	provinces={
+		4478 4479 4480 4481 
+	}
+	local_supplies=0.0 
+}

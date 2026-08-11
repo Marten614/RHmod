@@ -1,0 +1,40 @@
+
+state={
+	id=507
+	name="STATE_507"
+	manpower = 4476083
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3552 4}
+		victory_points = { 3556 9}
+		victory_points = { 3558 1}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		3550 3551 3552 3553 3554 3555 3556 3557 3558 3559 3560 3561 3562 3563 3564 
+	}
+	local_supplies=0.0 
+}

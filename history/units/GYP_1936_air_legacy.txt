@@ -1,0 +1,134 @@
+air_wings = {
+		433 = { 								
+		fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	577 = { 								
+		cv_fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	633 = { 								
+		fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	403 = { 								
+		cv_CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+	288 = { 								
+		cv_fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	1527 = { 								
+		fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	654 = { 								
+		CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+
+	}
+	193 = { 								
+		nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	184 = { 								
+		CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+
+	}
+	165 = { 								
+		cv_nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	406 = { 								
+		cv_fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	320 = { 								
+		CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+
+	}
+	367 = { 								
+		fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	705 = { 								
+		cv_CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+cv_fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	655 = { 								
+		cv_nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	81 = { 								
+		CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+
+	}
+	1515 = { 								
+		nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	638 = { 								
+		CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+cv_fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	332 = { 								
+		fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	349 = { 								
+		cv_nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	213 = { 								
+		cv_nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	497 = { 								
+		nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	17 = { 								
+		cv_nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	51 = { 								
+		cv_CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+	295 = { 								
+		cv_nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	257 = { 								
+		cv_fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	466 = { 								
+		cv_CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+	152 = { 								
+		cv_CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+	502 = { 								
+		fighter_equipment_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	212 = { 								
+		nav_bomber_equipment_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	730 = { 								
+		cv_CAS_equipment_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+
+
+}

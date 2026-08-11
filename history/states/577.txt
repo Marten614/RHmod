@@ -1,0 +1,40 @@
+
+state={
+	id=577
+	name="STATE_577"
+	manpower = 3483330
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=5
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4014 3}
+		victory_points = { 4018 3}
+		victory_points = { 4019 3}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		4013 4014 4015 4016 4017 4018 4019 4020 4021 4022 4023 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,82 @@
+areas = {
+	# Generated continents
+		hidunung = {
+		continents = {
+			hidunung
+		}
+	}
+	durub = {
+		continents = {
+			durub
+		}
+	}
+	nulik = {
+		continents = {
+			nulik
+		}
+	}
+	golke = {
+		continents = {
+			golke
+		}
+	}
+	shuan = {
+		continents = {
+			shuan
+		}
+	}
+	mimbaki = {
+		continents = {
+			mimbaki
+		}
+	}
+	imaria = {
+		continents = {
+			imaria
+		}
+	}
+
+
+	#Vanilla continents kept in for compatibility. Removing them breaks a lot of references to them
+	europe = {
+		continents = {
+			europe
+		}
+	}
+
+	north_america = {
+		continents = {
+			north_america
+		}
+	}
+
+	south_america = {
+		continents = {
+			south_america
+		}
+	}
+
+	africa = {
+		continents = {
+			africa
+		}
+	}
+
+	australia = {
+		continents = {
+			australia
+		}
+	}
+
+	asia = {
+		continents = {
+			asia
+		}
+	}
+
+	middle_east = {
+		continents = {
+			middle_east
+		}
+	}
+}

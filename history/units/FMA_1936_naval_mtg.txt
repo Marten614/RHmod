@@ -1,0 +1,37 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Imalaganapik Fleet"			
+		naval_base = 3823
+		task_force = {
+			name = "Imalaganapik Fleet"
+			location = 3823
+			
+						ship = { name = "Kuvik" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = FMA version_name = "Tingiq Class" } }	}
+			ship = { name = "Tingiq" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = FMA version_name = "Amak Class" } }	}
+			ship = { name = "Imaq" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = FMA version_name = "Amak Class" } }	}
+			ship = { name = "Avaq" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = FMA version_name = "Iglutuuq Class" } }	}
+			ship = { name = "Angiqpaktiq" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = FMA version_name = "Tingiq Class" } }	}
+			ship = { name = "Qangiq" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = FMA version_name = "Tingiq Class" } }	}
+			ship = { name = "Nalaqtuvikiq" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = FMA version_name = "Amak Class" } }	}
+			ship = { name = "Anikiaq" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = FMA version_name = "Amak Class" } }	}
+			ship = { name = "Nalawim" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = FMA version_name = "Tingiq Class" } }	}
+			ship = { name = "Avaq 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = FMA version_name = "Tingiq Class" } }	}
+			ship = { name = "Inuk" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = FMA version_name = "Tingiq Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

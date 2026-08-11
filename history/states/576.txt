@@ -1,0 +1,40 @@
+
+state={
+	id=576
+	name="STATE_576"
+	manpower = 3168097
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4003 4}
+		victory_points = { 4006 2}
+		victory_points = { 4010 4}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		4003 4004 4005 4006 4007 4008 4009 4010 4011 4012 
+	}
+	local_supplies=0.0 
+}

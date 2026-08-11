@@ -1,0 +1,41 @@
+
+state={
+	id=278
+	name="STATE_278"
+	manpower = 4456268
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=9
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2096 3}
+		victory_points = { 2097 3}
+		victory_points = { 2099 3}
+		victory_points = { 2108 3}
+		
+		owner = RYK
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = RYK
+	}
+
+	provinces={
+		2090 2091 2092 2093 2094 2095 2096 2097 2098 2099 2100 2101 2102 2103 2104 2105 2106 2107 2108 
+	}
+	local_supplies=0.0 
+}

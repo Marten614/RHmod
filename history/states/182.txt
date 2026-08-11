@@ -1,0 +1,43 @@
+
+state={
+	id=182
+	name="STATE_182"
+	manpower = 5557635
+	
+	state_category = megalopolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1325 3}
+		victory_points = { 1329 4}
+		victory_points = { 1332 12}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 2
+			1340 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		1324 1325 1326 1327 1328 1329 1330 1331 1332 1333 1334 1335 1336 1337 1338 1339 1340 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,48 @@
+air_wings = {
+		1197 = { 								
+		small_plane_airframe_0 = { owner = "FAN" amount = 50 version_name = "Dusac Mk 2" }
+
+	}
+	1126 = { 								
+		small_plane_cas_airframe_1 = { owner = "FAN" amount = 50 version_name = "Alast Mk 1" }
+
+	}
+	1259 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "FAN" amount = 50 version_name = "Nacina Mk 2" }
+
+	}
+	909 = { 								
+		medium_plane_airframe_0 = { owner = "FAN" amount = 50 version_name = "Glast Mk 2" }
+
+	}
+	1066 = { 								
+		small_plane_cas_airframe_1 = { owner = "FAN" amount = 50 version_name = "Alast Mk 1" }
+small_plane_airframe_1 = { owner = "FAN" amount = 50 version_name = "Zven Mk 0" }
+small_plane_cas_airframe_0 = { owner = "FAN" amount = 50 version_name = "Svetlovo Mk 2" }
+medium_plane_airframe_0 = { owner = "FAN" amount = 50 version_name = "Glast Mk 2" }
+
+	}
+	1010 = { 								
+		small_plane_cas_airframe_0 = { owner = "FAN" amount = 50 version_name = "Svetlovo Mk 2" }
+
+	}
+	833 = { 								
+		small_plane_airframe_1 = { owner = "FAN" amount = 50 version_name = "Zven Mk 0" }
+small_plane_naval_bomber_airframe_1 = { owner = "FAN" amount = 50 version_name = "Nacina Mk 2" }
+
+	}
+	1357 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "FAN" amount = 50 version_name = "Slovorija Mk 1" }
+
+	}
+	1269 = { 								
+		small_plane_airframe_0 = { owner = "FAN" amount = 50 version_name = "Dusac Mk 2" }
+
+	}
+	1272 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "FAN" amount = 50 version_name = "Slovorija Mk 1" }
+
+	}
+
+
+}

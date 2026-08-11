@@ -1,0 +1,38 @@
+
+state={
+	id=129
+	name="STATE_129"
+	manpower = 968767
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 989 3}
+		
+		owner = RYK
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = RYK
+	}
+
+	provinces={
+		988 989 
+	}
+	local_supplies=0.0 
+}

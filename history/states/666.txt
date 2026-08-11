@@ -1,0 +1,38 @@
+
+state={
+	id=666
+	name="STATE_666"
+	manpower = 704005
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4509 2}
+		
+		owner = RYK
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = RYK
+	}
+
+	provinces={
+		4509 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,42 @@
+
+state={
+	id=1515
+	name="STATE_1515"
+	manpower = 1186705
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=6
+		chromium=6
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=6
+		coal=15
+	}
+
+	history={
+		victory_points = { 8769 1}
+		victory_points = { 8770 1}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 0
+			
+			8771 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		8769 8770 8771 
+	}
+	local_supplies=0.0 
+}

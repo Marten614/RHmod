@@ -1,0 +1,1083 @@
+characters = {
+	MIN_Yangdu_Shan={
+		name="Yangdu Shan"
+
+		
+		country_leader={
+			ideology=moderatism
+			traits = { cabinet_crisis  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	MIN_Nima_Shong={
+		name="Nima Shong"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Nima_Shong
+			traits = {	humble 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	MIN_Lobsan_Dong={
+		name="Lobsan Dong"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Lobsan_Dong
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Yangdu_Huan={
+		name="Yangdu Huan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Yangdu_Huan
+			traits = {	right_industrialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	MIN_Juntsok_Huang={
+		name="Juntsok Huang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Juntsok_Huang
+			traits = {	humble 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Yang_Bian={
+		name="Yang Bian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Yang_Bian
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	MIN_Gyatsok_Meng={
+		name="Gyatsok Meng"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Gyatsok_Meng
+			traits = {	national_determinist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Juntsok_Tian={
+		name="Juntsok Tian"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Juntsok_Tian
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	MIN_Lonam_Nang={
+		name="Lonam Nang"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Lonam_Nang
+			traits = {	army_chief_defensive_1 	}
+		}
+
+
+	}
+	MIN_Lobsang_Zheng={
+		name="Lobsang Zheng"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Lobsang_Zheng
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	MIN_Jigme_Nian={
+		name="Jigme Nian"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Jigme_Nian
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	MIN_Chenzing_Bian={
+		name="Chenzing Bian"
+
+		advisor={
+			slot = navy_chief
+			idea_token = MIN_Chenzing_Bian
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	MIN_Thubtenzing_Nang={
+		name="Thubtenzing Nang"
+
+		advisor={
+			slot = navy_chief
+			idea_token = MIN_Thubtenzing_Nang
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	MIN_Chenzing_Feng={
+		name="Chenzing Feng"
+
+		advisor={
+			slot = air_chief
+			idea_token = MIN_Chenzing_Feng
+			traits = {	air_chief_safety_1 	}
+		}
+
+
+	}
+	MIN_Karma_Guan={
+		name="Karma Guan"
+
+		advisor={
+			slot = air_chief
+			idea_token = MIN_Karma_Guan
+			traits = {	air_chief_reform_1 	}
+		}
+
+
+	}
+	MIN_Thubtenzin_Shong={
+		name="Thubtenzin Shong"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Thubtenzin_Shong
+			traits = {	army_radio_intelligence_1 	}
+		}
+
+
+	}
+	MIN_Chen_Xian={
+		name="Chen Xian"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Chen_Xian
+			traits = {	air_air_superiority_1 	}
+		}
+
+
+	}
+	MIN_Jiangdu_Shao={
+		name="Jiangdu Shao"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Jiangdu_Shao
+			traits = {	army_entrenchment_2 	}
+		}
+
+
+	}
+	MIN_Thuntso_Tiang={
+		name="Thuntso Tiang"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Thuntso_Tiang
+			traits = {	army_regrouping_2 	}
+		}
+
+
+	}
+	MIN_Gyatso_Huang={
+		name="Gyatso Huang"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Gyatso_Huang
+			traits = {	army_regrouping_1 	}
+		}
+
+
+	}
+	MIN_Yangdu_Jinxi={
+		name="Yangdu Jinxi"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Yangdu_Jinxi
+			traits = {	army_concealment_2 	}
+		}
+
+
+	}
+	MIN_Thubten_Chao={
+		name="Thubten Chao"
+
+		
+		country_leader={
+			ideology=fascism_ideology
+			traits = { archon_basileus  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	MIN_Nima_Guan={
+		name="Nima Guan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Nima_Guan
+			traits = {	subservient_ultranationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	MIN_Lonam_Chao={
+		name="Lonam Chao"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Lonam_Chao
+			traits = {	the_young_magnate 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Long_Hong={
+		name="Long Hong"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Long_Hong
+			traits = {	autocratic_imperialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	MIN_Song_Xiang={
+		name="Song Xiang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Song_Xiang
+			traits = {	generallissimo 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	MIN_Karma_Tong={
+		name="Karma Tong"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Karma_Tong
+			traits = {	collaborator_king 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Heng_Xiang={
+		name="Heng Xiang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Heng_Xiang
+			traits = {	archon_basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	MIN_Ngawang_Yuan={
+		name="Ngawang Yuan"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Ngawang_Yuan
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	MIN_Lonam_Jinxi={
+		name="Lonam Jinxi"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Lonam_Jinxi
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	MIN_Yuntso_Shou={
+		name="Yuntso Shou"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Yuntso_Shou
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	MIN_Dawa_Shuan={
+		name="Dawa Shuan"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Dawa_Shuan
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	MIN_Juntsok_Shong={
+		name="Juntsok Shong"
+
+		advisor={
+			slot = navy_chief
+			idea_token = MIN_Juntsok_Shong
+			traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+
+	}
+	MIN_Ngawang_Huang={
+		name="Ngawang Huang"
+
+		advisor={
+			slot = navy_chief
+			idea_token = MIN_Ngawang_Huang
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	MIN_Fang_Tong={
+		name="Fang Tong"
+
+		advisor={
+			slot = air_chief
+			idea_token = MIN_Fang_Tong
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	MIN_Gyatso_Meng={
+		name="Gyatso Meng"
+
+		advisor={
+			slot = air_chief
+			idea_token = MIN_Gyatso_Meng
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	MIN_Chenzing_Shao={
+		name="Chenzing Shao"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Chenzing_Shao
+			traits = {	navy_screen_2 	}
+		}
+
+
+	}
+	MIN_Thubten_Bian={
+		name="Thubten Bian"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Thubten_Bian
+			traits = {	navy_fleet_logistics_1 	}
+		}
+
+
+	}
+	MIN_Jiang_Xian={
+		name="Jiang Xian"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Jiang_Xian
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	MIN_Jiang_Cheng={
+		name="Jiang Cheng"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Jiang_Cheng
+			traits = {	navy_submarine_1 	}
+		}
+
+
+	}
+	MIN_Long_Cheng={
+		name="Long Cheng"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Long_Cheng
+			traits = {	navy_capital_ship_1 	}
+		}
+
+
+	}
+	MIN_Qiang_Xiang={
+		name="Qiang Xiang"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Qiang_Xiang
+			traits = {	army_artillery_2 	}
+		}
+
+
+	}
+	MIN_Phubten_Shang={
+		name="Phubten Shang"
+
+		
+		country_leader={
+			ideology=stalinism
+			traits = { leftist_intellectual  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	MIN_Jigme_Guan={
+		name="Jigme Guan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Jigme_Guan
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	MIN_Wangdu_Yuan={
+		name="Wangdu Yuan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Wangdu_Yuan
+			traits = {	devoted_marxist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	MIN_Fang_Shou={
+		name="Fang Shou"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Fang_Shou
+			traits = {	reluctant_stalinist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Chen_Shang={
+		name="Chen Shang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Chen_Shang
+			traits = {	devoted_marxist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	MIN_Wang_Zhou={
+		name="Wang Zhou"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Wang_Zhou
+			traits = {	political_dancer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Heng_Shang={
+		name="Heng Shang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Heng_Shang
+			traits = {	mastermind_code_cracker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	MIN_Wangdu_Shan={
+		name="Wangdu Shan"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Wangdu_Shan
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	MIN_Phubten_Tiang={
+		name="Phubten Tiang"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Phubten_Tiang
+			traits = {	army_chief_morale_1 	}
+		}
+
+
+	}
+	MIN_Jiangdu_Yuang={
+		name="Jiangdu Yuang"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Jiangdu_Yuang
+			traits = {	army_chief_planning_1 	}
+		}
+
+
+	}
+	MIN_Lobsang_Cheng={
+		name="Lobsang Cheng"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Lobsang_Cheng
+			traits = {	army_chief_reform_2 	}
+		}
+
+
+	}
+	MIN_Heng_Cheng={
+		name="Heng Cheng"
+
+		advisor={
+			slot = navy_chief
+			idea_token = MIN_Heng_Cheng
+			traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+
+	}
+	MIN_Yuntso_Nang={
+		name="Yuntso Nang"
+
+		advisor={
+			slot = navy_chief
+			idea_token = MIN_Yuntso_Nang
+			traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+
+	}
+	MIN_Fang_Yuan={
+		name="Fang Yuan"
+
+		advisor={
+			slot = air_chief
+			idea_token = MIN_Fang_Yuan
+			traits = {	air_chief_all_weather_1 	}
+		}
+
+
+	}
+	MIN_Gyatsok_Bian={
+		name="Gyatsok Bian"
+
+		advisor={
+			slot = air_chief
+			idea_token = MIN_Gyatsok_Bian
+			traits = {	air_chief_reform_1 	}
+		}
+
+
+	}
+	MIN_Heng_Tiang={
+		name="Heng Tiang"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Heng_Tiang
+			traits = {	army_regrouping_1 	}
+		}
+
+
+	}
+	MIN_Wang_Shong={
+		name="Wang Shong"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Wang_Shong
+			traits = {	army_artillery_1 	}
+		}
+
+
+	}
+	MIN_Jiang_Tiang={
+		name="Jiang Tiang"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Jiang_Tiang
+			traits = {	army_entrenchment_1 	}
+		}
+
+
+	}
+	MIN_Gyatso_Feng={
+		name="Gyatso Feng"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Gyatso_Feng
+			traits = {	navy_naval_air_defense_1 	}
+		}
+
+
+	}
+	MIN_Heng_Shao={
+		name="Heng Shao"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Heng_Shao
+			traits = {	army_armored_2 	}
+		}
+
+
+	}
+	MIN_Thubtenzin_Bian={
+		name="Thubtenzin Bian"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Thubtenzin_Bian
+			traits = {	army_radio_intelligence_2 	}
+		}
+
+
+	}
+	MIN_Ngawang_Shou={
+		name="Ngawang Shou"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { leftist_legionary  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	MIN_Song_Tong={
+		name="Song Tong"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Song_Tong
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Qiang_Miang={
+		name="Qiang Miang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Qiang_Miang
+			traits = {	the_young_magnate 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Nima_Zhou={
+		name="Nima Zhou"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Nima_Zhou
+			traits = {	the_statist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	MIN_Phubteng_Zheng={
+		name="Phubteng Zheng"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Phubteng_Zheng
+			traits = {	the_statist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Dawa_Tong={
+		name="Dawa Tong"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Dawa_Tong
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	MIN_Gyatso_Miang={
+		name="Gyatso Miang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = MIN_Gyatso_Miang
+			traits = {	democratic_crusader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	MIN_Jiang_Xiang={
+		name="Jiang Xiang"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Jiang_Xiang
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	MIN_Lobsang_Yuang={
+		name="Lobsang Yuang"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Lobsang_Yuang
+			traits = {	army_chief_planning_2 	}
+		}
+
+
+	}
+	MIN_Wangdu_Miang={
+		name="Wangdu Miang"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Wangdu_Miang
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	MIN_Chen_Huan={
+		name="Chen Huan"
+
+		advisor={
+			slot = army_chief
+			idea_token = MIN_Chen_Huan
+			traits = {	army_chief_drill_2 	}
+		}
+
+
+	}
+	MIN_Dawang_Miang={
+		name="Dawang Miang"
+
+		advisor={
+			slot = navy_chief
+			idea_token = MIN_Dawang_Miang
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	MIN_Jigme_Chao={
+		name="Jigme Chao"
+
+		advisor={
+			slot = navy_chief
+			idea_token = MIN_Jigme_Chao
+			traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+
+	}
+	MIN_Tenzin_Hong={
+		name="Tenzin Hong"
+
+		advisor={
+			slot = air_chief
+			idea_token = MIN_Tenzin_Hong
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	MIN_Wangdu_Shang={
+		name="Wangdu Shang"
+
+		advisor={
+			slot = air_chief
+			idea_token = MIN_Wangdu_Shang
+			traits = {	air_chief_all_weather_1 	}
+		}
+
+
+	}
+	MIN_Phubteng_Tian={
+		name="Phubteng Tian"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Phubteng_Tian
+			traits = {	army_cavalry_1 	}
+		}
+
+
+	}
+	MIN_Jiang_Nian={
+		name="Jiang Nian"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Jiang_Nian
+			traits = {	navy_amphibious_assault_1 	}
+		}
+
+
+	}
+	MIN_Qian_Zhou={
+		name="Qian Zhou"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Qian_Zhou
+			traits = {	navy_screen_2 	}
+		}
+
+
+	}
+	MIN_Wang_Guan={
+		name="Wang Guan"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Wang_Guan
+			traits = {	navy_carrier_1 	}
+		}
+
+
+	}
+	MIN_Thubten_Nian={
+		name="Thubten Nian"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Thubten_Nian
+			traits = {	army_commando_2 	}
+		}
+
+
+	}
+	MIN_Thubtenzin_Cheng={
+		name="Thubtenzin Cheng"
+
+		advisor={
+			slot = high_command
+			idea_token = MIN_Thubtenzin_Cheng
+			traits = {	air_air_superiority_2 	}
+		}
+
+
+	}
+	MIN_Ngawan_Dong={
+		name="Ngawan Dong"
+
+		advisor={
+			slot = theorist
+			idea_token = MIN_Ngawan_Dong
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	MIN_Phuntso_Shou={
+		name="Phuntso Shou"
+
+		advisor={
+			slot = theorist
+			idea_token = MIN_Phuntso_Shou
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	MIN_Tenzin_Chao={
+		name="Tenzin Chao"
+
+		advisor={
+			slot = theorist
+			idea_token = MIN_Tenzin_Chao
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

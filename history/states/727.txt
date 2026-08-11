@@ -1,0 +1,40 @@
+
+state={
+	id=727
+	name="STATE_727"
+	manpower = 2152893
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4857 1}
+		victory_points = { 4858 3}
+		victory_points = { 4859 1}
+		
+		owner = TAP
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = TAP
+	}
+
+	provinces={
+		4856 4857 4858 4859 4860 4861 4862 
+	}
+	local_supplies=0.0 
+}

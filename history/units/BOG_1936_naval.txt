@@ -1,0 +1,44 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Great Tsardom of Bogdan Fleet"			
+		naval_base = 8212
+		task_force = {
+			name = "Great Tsardom of Bogdan Fleet"
+			location = 8212
+			
+						ship = { name = "Madinamunamu" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOG version_name = "Khata Class" } }	}
+			ship = { name = "Suwan" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Nashfa" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Thaniyat" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOG version_name = "Khata Class" } }	}
+			ship = { name = "Masataria" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Arda" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Shaykh" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Samar" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Arda 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Turahalifa" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Samar 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOG version_name = "Khata Class" } }	}
+			ship = { name = "Nourahel" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Suwan 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOG version_name = "Khata Class" } }	}
+			ship = { name = "Tanz" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Shaykh 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOG version_name = "Khata Class" } }	}
+			ship = { name = "Thaniyat 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOG version_name = "Khata Class" } }	}
+			ship = { name = "Mara" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOG version_name = "Ahlam Class" } }	}
+			ship = { name = "Suwan 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = BOG version_name = "Khata Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

@@ -1,0 +1,40 @@
+
+state={
+	id=802
+	name="STATE_802"
+	manpower = 3350934
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=6
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5280 5}
+		victory_points = { 5282 1}
+		victory_points = { 5284 4}
+		
+		owner = RAS
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 2
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = RAS
+	}
+
+	provinces={
+		5279 5280 5281 5282 5283 5284 5285 5286 5287 5288 5289 5290 
+	}
+	local_supplies=0.0 
+}

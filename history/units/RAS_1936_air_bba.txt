@@ -1,0 +1,32 @@
+air_wings = {
+		1298 = { 								
+		medium_plane_airframe_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1160 = { 								
+		medium_plane_airframe_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1318 = { 								
+		medium_plane_airframe_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1327 = { 								
+		medium_plane_airframe_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1034 = { 								
+		medium_plane_airframe_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	924 = { 								
+		medium_plane_airframe_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1218 = { 								
+		medium_plane_airframe_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+
+
+}

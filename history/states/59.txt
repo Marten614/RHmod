@@ -1,0 +1,42 @@
+
+state={
+	id=59
+	name="STATE_59"
+	manpower = 4847442
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=7
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 507 11}
+		victory_points = { 511 5}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 3
+			industrial_complex = 0
+			
+			512 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		506 507 508 509 510 511 512 513 514 515 516 517 518 
+	}
+	local_supplies=0.0 
+}

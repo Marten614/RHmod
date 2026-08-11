@@ -1,0 +1,39 @@
+
+state={
+	id=314
+	name="STATE_314"
+	manpower = 1253290
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2343 1}
+		victory_points = { 2344 2}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		2342 2343 2344 2345 
+	}
+	local_supplies=0.0 
+}

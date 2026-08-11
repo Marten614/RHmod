@@ -1,0 +1,42 @@
+
+state={
+	id=684
+	name="STATE_684"
+	manpower = 3968867
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4599 6}
+		victory_points = { 4601 8}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 1
+			industrial_complex = 2
+			
+			4597 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		4597 4598 4599 4600 4601 4602 4603 4604 4605 4606 4607 
+	}
+	local_supplies=0.0 
+}

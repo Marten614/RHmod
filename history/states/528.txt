@@ -1,0 +1,39 @@
+
+state={
+	id=528
+	name="STATE_528"
+	manpower = 928687
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3695 1}
+		victory_points = { 3699 1}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		3695 3696 3697 3698 3699 3700 
+	}
+	local_supplies=0.0 
+}

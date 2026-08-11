@@ -1,0 +1,41 @@
+
+state={
+	id=172
+	name="STATE_172"
+	manpower = 718231
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1266 1}
+		
+		owner = RYK
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			1266 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RYK
+	}
+
+	provinces={
+		1265 1266 
+	}
+	local_supplies=0.0 
+}

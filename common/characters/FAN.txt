@@ -1,0 +1,1083 @@
+characters = {
+	FAN_Niktori_Izvo={
+		name="Niktori Izvo"
+
+		
+		country_leader={
+			ideology=despotism
+			traits = { noble_beurocrat  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FAN_Ivanovan_Prefekt={
+		name="Ivanovan Prefekt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Ivanovan_Prefekt
+			traits = {	socialite_connections 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	FAN_Dmitanis_Prefekt={
+		name="Dmitanis Prefekt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Dmitanis_Prefekt
+			traits = {	national_determinist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Jurilav_Zverava={
+		name="Jurilav Zverava"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Jurilav_Zverava
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Simirosladim_Mesecno={
+		name="Simirosladim Mesecno"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Simirosladim_Mesecno
+			traits = {	the_statist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Bogdan_Kucak={
+		name="Bogdan Kucak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Bogdan_Kucak
+			traits = {	humble 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Simir_Mesecno={
+		name="Simir Mesecno"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Simir_Mesecno
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Bran_Vina={
+		name="Bran Vina"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Bran_Vina
+			traits = {	army_chief_planning_1 	}
+		}
+
+
+	}
+	FAN_Alexei_Voda={
+		name="Alexei Voda"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Alexei_Voda
+			traits = {	army_chief_defensive_1 	}
+		}
+
+
+	}
+	FAN_Olexei_Mast={
+		name="Olexei Mast"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Olexei_Mast
+			traits = {	army_chief_maneuver_2 	}
+		}
+
+
+	}
+	FAN_Dusanko_Umetnost={
+		name="Dusanko Umetnost"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Dusanko_Umetnost
+			traits = {	army_chief_morale_1 	}
+		}
+
+
+	}
+	FAN_Pavelimirosl_Leka={
+		name="Pavelimirosl Leka"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FAN_Pavelimirosl_Leka
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	FAN_Dragomiri_Vina={
+		name="Dragomiri Vina"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FAN_Dragomiri_Vina
+			traits = {	navy_chief_maneuver_1 	}
+		}
+
+
+	}
+	FAN_Milav_Vecnoslan={
+		name="Milav Vecnoslan"
+
+		advisor={
+			slot = air_chief
+			idea_token = FAN_Milav_Vecnoslan
+			traits = {	air_chief_all_weather_2 	}
+		}
+
+
+	}
+	FAN_Bran_Vilan={
+		name="Bran Vilan"
+
+		advisor={
+			slot = air_chief
+			idea_token = FAN_Bran_Vilan
+			traits = {	air_chief_night_operations_1 	}
+		}
+
+
+	}
+	FAN_Jurilav_Jezde={
+		name="Jurilav Jezde"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Jurilav_Jezde
+			traits = {	army_artillery_2 	}
+		}
+
+
+	}
+	FAN_Matefanko_Knjiv={
+		name="Matefanko Knjiv"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Matefanko_Knjiv
+			traits = {	air_airborne_1 	}
+		}
+
+
+	}
+	FAN_Viko_Peskar={
+		name="Viko Peskar"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Viko_Peskar
+			traits = {	navy_carrier_2 	}
+		}
+
+
+	}
+	FAN_Petaroslav_Izvo={
+		name="Petaroslav Izvo"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Petaroslav_Izvo
+			traits = {	army_cavalry_2 	}
+		}
+
+
+	}
+	FAN_Luboslado_Knjiv={
+		name="Luboslado Knjiv"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Luboslado_Knjiv
+			traits = {	navy_submarine_1 	}
+		}
+
+
+	}
+	FAN_Vikitaroslad_Boja={
+		name="Vikitaroslad Boja"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Vikitaroslad_Boja
+			traits = {	navy_anti_submarine_2 	}
+		}
+
+
+	}
+	FAN_Mila_Smrt={
+		name="Mila Smrt"
+
+		
+		country_leader={
+			ideology=rexism
+			traits = { celebrity_junta_leader  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FAN_Bragomas_Telica={
+		name="Bragomas Telica"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Bragomas_Telica
+			traits = {	basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Lubosla_Oblika={
+		name="Lubosla Oblika"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Lubosla_Oblika
+			traits = {	celebrity_junta_leader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Viko_Straljica={
+		name="Viko Straljica"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Viko_Straljica
+			traits = {	collaborator_king 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Matefanko_Oblik={
+		name="Matefanko Oblik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Matefanko_Oblik
+			traits = {	subservient_ultranationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	FAN_Juril_Lekt={
+		name="Juril Lekt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Juril_Lekt
+			traits = {	autokrator 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Starko_Seme={
+		name="Starko Seme"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Starko_Seme
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Dran_Svenik={
+		name="Dran Svenik"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Dran_Svenik
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	FAN_Ivan_Casina={
+		name="Ivan Casina"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Ivan_Casina
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	FAN_Dragomiri_Nacina={
+		name="Dragomiri Nacina"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Dragomiri_Nacina
+			traits = {	army_chief_offensive_2 	}
+		}
+
+
+	}
+	FAN_Viko_Sena={
+		name="Viko Sena"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Viko_Sena
+			traits = {	army_chief_reform_2 	}
+		}
+
+
+	}
+	FAN_Yuri_Hodaro={
+		name="Yuri Hodaro"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FAN_Yuri_Hodaro
+			traits = {	navy_chief_maneuver_1 	}
+		}
+
+
+	}
+	FAN_Juranko_Zven={
+		name="Juranko Zven"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FAN_Juranko_Zven
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	FAN_Juranko_Kralja={
+		name="Juranko Kralja"
+
+		advisor={
+			slot = air_chief
+			idea_token = FAN_Juranko_Kralja
+			traits = {	air_chief_safety_1 	}
+		}
+
+
+	}
+	FAN_Goril_Tvrdje={
+		name="Goril Tvrdje"
+
+		advisor={
+			slot = air_chief
+			idea_token = FAN_Goril_Tvrdje
+			traits = {	air_chief_all_weather_2 	}
+		}
+
+
+	}
+	FAN_Alexei_Kori={
+		name="Alexei Kori"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Alexei_Kori
+			traits = {	air_strategic_bombing_1 	}
+		}
+
+
+	}
+	FAN_Mila_Granstore={
+		name="Mila Granstore"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Mila_Granstore
+			traits = {	navy_carrier_1 	}
+		}
+
+
+	}
+	FAN_Dragomas_Kovo={
+		name="Dragomas Kovo"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Dragomas_Kovo
+			traits = {	air_tactical_bombing_2 	}
+		}
+
+
+	}
+	FAN_Milav_Hraljiga={
+		name="Milav Hraljiga"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Milav_Hraljiga
+			traits = {	air_tactical_bombing_1 	}
+		}
+
+
+	}
+	FAN_Radov_Otar={
+		name="Radov Otar"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Radov_Otar
+			traits = {	air_air_combat_training_1 	}
+		}
+
+
+	}
+	FAN_Dusanko_Izvo={
+		name="Dusanko Izvo"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Dusanko_Izvo
+			traits = {	army_cavalry_1 	}
+		}
+
+
+	}
+	FAN_Juri_Peskar={
+		name="Juri Peskar"
+
+		
+		country_leader={
+			ideology=anti_revisionism
+			traits = { leftist_intellectual  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FAN_Lubomas_Zven={
+		name="Lubomas Zven"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Lubomas_Zven
+			traits = {	reluctant_stalinist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Simirosladim_Telica={
+		name="Simirosladim Telica"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Simirosladim_Telica
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	FAN_Goran_Caslastica={
+		name="Goran Caslastica"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Goran_Caslastica
+			traits = {	socialist_justice 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Steusz_Mesecno={
+		name="Steusz Mesecno"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Steusz_Mesecno
+			traits = {	marxist_fundamentalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Dusz_Slovorija={
+		name="Dusz Slovorija"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Dusz_Slovorija
+			traits = {	mastermind_code_cracker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Ivan_Zven={
+		name="Ivan Zven"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Ivan_Zven
+			traits = {	devoted_marxist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Goraj_Tvrdje={
+		name="Goraj Tvrdje"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Goraj_Tvrdje
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	FAN_Niktori_Lekt={
+		name="Niktori Lekt"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Niktori_Lekt
+			traits = {	army_chief_offensive_2 	}
+		}
+
+
+	}
+	FAN_Bragomas_Hlebo={
+		name="Bragomas Hlebo"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Bragomas_Hlebo
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	FAN_Alek_Glat={
+		name="Alek Glat"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Alek_Glat
+			traits = {	army_chief_morale_1 	}
+		}
+
+
+	}
+	FAN_Mirislan_Heravetnosti={
+		name="Mirislan Heravetnosti"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FAN_Mirislan_Heravetnosti
+			traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+
+	}
+	FAN_Goran_Prefekt={
+		name="Goran Prefekt"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FAN_Goran_Prefekt
+			traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+
+	}
+	FAN_Dragomas_Zemet={
+		name="Dragomas Zemet"
+
+		advisor={
+			slot = air_chief
+			idea_token = FAN_Dragomas_Zemet
+			traits = {	air_chief_all_weather_1 	}
+		}
+
+
+	}
+	FAN_Dragomiri_Muzik={
+		name="Dragomiri Muzik"
+
+		advisor={
+			slot = air_chief
+			idea_token = FAN_Dragomiri_Muzik
+			traits = {	air_chief_ground_support_1 	}
+		}
+
+
+	}
+	FAN_Dusanov_Pisina={
+		name="Dusanov Pisina"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Dusanov_Pisina
+			traits = {	army_armored_2 	}
+		}
+
+
+	}
+	FAN_Bran_Zven={
+		name="Bran Zven"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Bran_Zven
+			traits = {	army_armored_1 	}
+		}
+
+
+	}
+	FAN_Lubosla_Slik={
+		name="Lubosla Slik"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Lubosla_Slik
+			traits = {	air_close_air_support_2 	}
+		}
+
+
+	}
+	FAN_Matefan_Glaksinost={
+		name="Matefan Glaksinost"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Matefan_Glaksinost
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	FAN_Niktori_Tram={
+		name="Niktori Tram"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Niktori_Tram
+			traits = {	army_regrouping_1 	}
+		}
+
+
+	}
+	FAN_Simir_Jezduh={
+		name="Simir Jezduh"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Simir_Jezduh
+			traits = {	navy_carrier_2 	}
+		}
+
+
+	}
+	FAN_Kiri_Dusa={
+		name="Kiri Dusa"
+
+		
+		country_leader={
+			ideology=liberalism
+			traits = { rearmer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FAN_Dmiroslav_Vodnostvo={
+		name="Dmiroslav Vodnostvo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Dmiroslav_Vodnostvo
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Bragomas_Post={
+		name="Bragomas Post"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Bragomas_Post
+			traits = {	first_lady 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Juranko_Hlebo={
+		name="Juranko Hlebo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Juranko_Hlebo
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	FAN_Luboslado_Vodnik={
+		name="Luboslado Vodnik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Luboslado_Vodnik
+			traits = {	rearmer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Branko_Post={
+		name="Branko Post"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Branko_Post
+			traits = {	first_lady 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	FAN_Simir_Nacina={
+		name="Simir Nacina"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FAN_Simir_Nacina
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	FAN_Janislavel_Svina={
+		name="Janislavel Svina"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Janislavel_Svina
+			traits = {	army_chief_organizational_1 	}
+		}
+
+
+	}
+	FAN_Ivanovan_Dobava={
+		name="Ivanovan Dobava"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Ivanovan_Dobava
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	FAN_Bragomas_Lekar={
+		name="Bragomas Lekar"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Bragomas_Lekar
+			traits = {	army_chief_organizational_1 	}
+		}
+
+
+	}
+	FAN_Mirislan_Grame={
+		name="Mirislan Grame"
+
+		advisor={
+			slot = army_chief
+			idea_token = FAN_Mirislan_Grame
+			traits = {	army_chief_defensive_1 	}
+		}
+
+
+	}
+	FAN_Mila_Grame={
+		name="Mila Grame"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FAN_Mila_Grame
+			traits = {	navy_chief_reform_2 	}
+		}
+
+
+	}
+	FAN_Luboslado_Glat={
+		name="Luboslado Glat"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FAN_Luboslado_Glat
+			traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+
+	}
+	FAN_Dusz_Telica={
+		name="Dusz Telica"
+
+		advisor={
+			slot = air_chief
+			idea_token = FAN_Dusz_Telica
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	FAN_Goraj_Zverava={
+		name="Goraj Zverava"
+
+		advisor={
+			slot = air_chief
+			idea_token = FAN_Goraj_Zverava
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	FAN_Radimeon_Zven={
+		name="Radimeon Zven"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Radimeon_Zven
+			traits = {	army_radio_intelligence_1 	}
+		}
+
+
+	}
+	FAN_Olexei_Peskar={
+		name="Olexei Peskar"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Olexei_Peskar
+			traits = {	army_CombinedArms_2 	}
+		}
+
+
+	}
+	FAN_Matefanko_Grmljevit={
+		name="Matefanko Grmljevit"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Matefanko_Grmljevit
+			traits = {	air_airborne_1 	}
+		}
+
+
+	}
+	FAN_Viko_Post={
+		name="Viko Post"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Viko_Post
+			traits = {	air_tactical_bombing_2 	}
+		}
+
+
+	}
+	FAN_Dmitanis_Glaksinost={
+		name="Dmitanis Glaksinost"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Dmitanis_Glaksinost
+			traits = {	air_air_combat_training_2 	}
+		}
+
+
+	}
+	FAN_Lubomas_Knjiv={
+		name="Lubomas Knjiv"
+
+		advisor={
+			slot = high_command
+			idea_token = FAN_Lubomas_Knjiv
+			traits = {	air_air_combat_training_2 	}
+		}
+
+
+	}
+	FAN_Stej_Oblik={
+		name="Stej Oblik"
+
+		advisor={
+			slot = theorist
+			idea_token = FAN_Stej_Oblik
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	FAN_Matefanko_Velo={
+		name="Matefanko Velo"
+
+		advisor={
+			slot = theorist
+			idea_token = FAN_Matefanko_Velo
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	FAN_Starko_Kralja={
+		name="Starko Kralja"
+
+		advisor={
+			slot = theorist
+			idea_token = FAN_Starko_Kralja
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

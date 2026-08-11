@@ -1,0 +1,38 @@
+
+state={
+	id=1070
+	name="STATE_1070"
+	manpower = 947791
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=6
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6655 2}
+		
+		owner = RAS
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = RAS
+	}
+
+	provinces={
+		6654 6655 
+	}
+	local_supplies=0.0 
+}

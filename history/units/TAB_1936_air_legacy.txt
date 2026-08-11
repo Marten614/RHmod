@@ -1,0 +1,48 @@
+air_wings = {
+		771 = { 								
+		fighter_equipment_0 = { owner = "TAB" amount = 50 version_name = "Casina Mk 2" }
+
+	}
+	913 = { 								
+		nav_bomber_equipment_0 = { owner = "TAB" amount = 50 version_name = "Vina Mk 2" }
+
+	}
+	1346 = { 								
+		CAS_equipment_0 = { owner = "TAB" amount = 50 version_name = "Vina Mk 2" }
+fighter_equipment_0 = { owner = "TAB" amount = 50 version_name = "Carstor Mk 0" }
+
+	}
+	1342 = { 								
+		tac_bomber_equipment_0 = { owner = "TAB" amount = 50 version_name = "Hlebo Mk 1" }
+tac_bomber_equipment_0 = { owner = "TAB" amount = 50 version_name = "Hlebo Mk 1" }
+
+	}
+	1502 = { 								
+		fighter_equipment_0 = { owner = "TAB" amount = 50 version_name = "Carstor Mk 0" }
+
+	}
+	923 = { 								
+		nav_bomber_equipment_0 = { owner = "TAB" amount = 50 version_name = "Tvrdje Mk 0" }
+
+	}
+	1020 = { 								
+		CAS_equipment_0 = { owner = "TAB" amount = 50 version_name = "Smrt Mk 2" }
+CAS_equipment_0 = { owner = "TAB" amount = 50 version_name = "Smrt Mk 2" }
+
+	}
+	942 = { 								
+		fighter_equipment_0 = { owner = "TAB" amount = 50 version_name = "Casina Mk 2" }
+
+	}
+	783 = { 								
+		CAS_equipment_0 = { owner = "TAB" amount = 50 version_name = "Vina Mk 2" }
+
+	}
+	1258 = { 								
+		nav_bomber_equipment_0 = { owner = "TAB" amount = 50 version_name = "Vina Mk 2" }
+nav_bomber_equipment_0 = { owner = "TAB" amount = 50 version_name = "Tvrdje Mk 0" }
+
+	}
+
+
+}

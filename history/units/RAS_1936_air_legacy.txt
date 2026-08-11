@@ -1,0 +1,32 @@
+air_wings = {
+		1298 = { 								
+		tac_bomber_equipment_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1160 = { 								
+		tac_bomber_equipment_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1318 = { 								
+		tac_bomber_equipment_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1327 = { 								
+		tac_bomber_equipment_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1034 = { 								
+		tac_bomber_equipment_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	924 = { 								
+		tac_bomber_equipment_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+	1218 = { 								
+		tac_bomber_equipment_0 = { owner = "RAS" amount = 50 version_name = "Teat Mk 2" }
+
+	}
+
+
+}

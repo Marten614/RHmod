@@ -1,0 +1,41 @@
+
+state={
+	id=1209
+	name="STATE_1209"
+	manpower = 149131
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7325 1}
+		
+		owner = STL
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			arms_factory = 0
+			industrial_complex = 0
+			
+			7325 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = STL
+	}
+
+	provinces={
+		7325 
+	}
+	local_supplies=0.0 
+}

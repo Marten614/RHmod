@@ -1,0 +1,41 @@
+air_wings = {
+		1211 = { 								
+		tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+
+	}
+	1203 = { 								
+		tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+
+	}
+	1164 = { 								
+		tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+
+	}
+	1012 = { 								
+		tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+
+	}
+	1142 = { 								
+		tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+
+	}
+	956 = { 								
+		tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+
+	}
+	1181 = { 								
+		tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+
+	}
+	789 = { 								
+		tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+
+	}
+	1123 = { 								
+		tac_bomber_equipment_0 = { owner = "MIN" amount = 50 version_name = "Yuan Mk 0" }
+
+	}
+
+
+}

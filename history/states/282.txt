@@ -1,0 +1,43 @@
+
+state={
+	id=282
+	name="STATE_282"
+	manpower = 2371845
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2119 3}
+		victory_points = { 2120 2}
+		victory_points = { 2122 2}
+		
+		owner = FMA
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			2121 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = FMA
+	}
+
+	provinces={
+		2118 2119 2120 2121 2122 2123 
+	}
+	local_supplies=0.0 
+}

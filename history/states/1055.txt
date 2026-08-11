@@ -1,0 +1,41 @@
+
+state={
+	id=1055
+	name="STATE_1055"
+	manpower = 5022077
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6579 5}
+		victory_points = { 6584 3}
+		victory_points = { 6589 3}
+		victory_points = { 6601 3}
+		
+		owner = FAN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = FAN
+	}
+
+	provinces={
+		6570 6571 6572 6573 6574 6575 6576 6577 6578 6579 6580 6581 6582 6583 6584 6585 6586 6587 6588 6589 6590 6591 6592 6593 6594 6595 6596 6597 6598 6599 6600 6601 
+	}
+	local_supplies=0.0 
+}

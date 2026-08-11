@@ -1,0 +1,57 @@
+air_wings = {
+		648 = { 								
+		fighter_equipment_0 = { owner = "TAP" amount = 50 version_name = "Taghremmirt Mk 0" }
+nav_bomber_equipment_0 = { owner = "TAP" amount = 50 version_name = "Daryalb Mk 0" }
+
+	}
+	408 = { 								
+		fighter_equipment_0 = { owner = "TAP" amount = 50 version_name = "Taghremmirt Mk 0" }
+
+	}
+	701 = { 								
+		nav_bomber_equipment_0 = { owner = "TAP" amount = 50 version_name = "Daryalb Mk 0" }
+
+	}
+	161 = { 								
+		tac_bomber_equipment_0 = { owner = "TAP" amount = 50 version_name = "Thala Mk 1" }
+
+	}
+	639 = { 								
+		fighter_equipment_0 = { owner = "TAP" amount = 50 version_name = "Taghremmirt Mk 0" }
+
+	}
+	489 = { 								
+		CAS_equipment_0 = { owner = "TAP" amount = 50 version_name = "Tiwizi Mk 1" }
+
+	}
+	1528 = { 								
+		tac_bomber_equipment_0 = { owner = "TAP" amount = 50 version_name = "Thala Mk 1" }
+
+	}
+	397 = { 								
+		nav_bomber_equipment_0 = { owner = "TAP" amount = 50 version_name = "Daryalb Mk 0" }
+
+	}
+	611 = { 								
+		fighter_equipment_0 = { owner = "TAP" amount = 50 version_name = "Taghremmirt Mk 0" }
+
+	}
+	7 = { 								
+		CAS_equipment_0 = { owner = "TAP" amount = 50 version_name = "Tiwizi Mk 1" }
+
+	}
+	494 = { 								
+		CAS_equipment_0 = { owner = "TAP" amount = 50 version_name = "Tiwizi Mk 1" }
+
+	}
+	124 = { 								
+		tac_bomber_equipment_0 = { owner = "TAP" amount = 50 version_name = "Thala Mk 1" }
+
+	}
+	593 = { 								
+		CAS_equipment_0 = { owner = "TAP" amount = 50 version_name = "Tiwizi Mk 1" }
+
+	}
+
+
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=52
+	name="STATE_52"
+	manpower = 2002854
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 439 5}
+		victory_points = { 442 1}
+		
+		owner = RYK
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = RYK
+	}
+
+	provinces={
+		438 439 440 441 442 
+	}
+	local_supplies=0.0 
+}

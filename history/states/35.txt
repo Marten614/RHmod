@@ -1,0 +1,43 @@
+
+state={
+	id=35
+	name="STATE_35"
+	manpower = 2036940
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=13
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 270 3}
+		victory_points = { 272 1}
+		victory_points = { 273 2}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 0
+			
+			272 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		270 271 272 273 274 275 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,41 @@
+
+state={
+	id=986
+	name="STATE_986"
+	manpower = 1403735
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=6
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6243 4}
+		
+		owner = ETL
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			6243 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = ETL
+	}
+
+	provinces={
+		6242 6243 6244 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,24 @@
+air_wings = {
+		339 = { 								
+		nav_bomber_equipment_0 = { owner = "EXP" amount = 6 version_name = "Ramai Mk 1" }
+tac_bomber_equipment_0 = { owner = "EXP" amount = 4 version_name = "Tulawa Mk 2" }
+
+	}
+	1506 = { 								
+		CAS_equipment_0 = { owner = "EXP" amount = 4 version_name = "Hukuangitter Mk 0" }
+nav_bomber_equipment_0 = { owner = "EXP" amount = 5 version_name = "Teta Mk 2" }
+strat_bomber_equipment_0 = { owner = "EXP" amount = 4 version_name = "Bahata Mk 2" }
+
+	}
+	538 = { 								
+		fighter_equipment_0 = { owner = "EXP" amount = 7 version_name = "Katukerapang Mk 0" }
+
+	}
+	662 = { 								
+		fighter_equipment_0 = { owner = "EXP" amount = 3 version_name = "Gemu Mk 0" }
+CAS_equipment_0 = { owner = "EXP" amount = 4 version_name = "Batahabat Mk 1" }
+
+	}
+
+
+}

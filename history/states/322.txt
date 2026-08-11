@@ -1,0 +1,44 @@
+
+state={
+	id=322
+	name="STATE_322"
+	manpower = 3375530
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2397 1}
+		victory_points = { 2398 3}
+		victory_points = { 2400 5}
+		victory_points = { 2404 1}
+		
+		owner = TAP
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			2400 = {
+				naval_base = 9
+			}
+			
+		}
+		add_core_of = TAP
+	}
+
+	provinces={
+		2396 2397 2398 2399 2400 2401 2402 2403 2404 
+	}
+	local_supplies=0.0 
+}

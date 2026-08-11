@@ -1,0 +1,1083 @@
+characters = {
+	FMA_Amaq_Iluaq={
+		name="Amaq Iluaq"
+
+		
+		country_leader={
+			ideology=moderatism
+			traits = { first_lady  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FMA_Ukpik_Imalaganapik={
+		name="Ukpik Imalaganapik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Ukpik_Imalaganapik
+			traits = {	national_determinist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	FMA_Ukpiku_Anikiaq={
+		name="Ukpiku Anikiaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Ukpiku_Anikiaq
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	FMA_Manuq_Nuniqpaapik={
+		name="Manuq Nuniqpaapik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Manuq_Nuniqpaapik
+			traits = {	agricultural_capitalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Panuq_Avilapak={
+		name="Panuq Avilapak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Panuq_Avilapak
+			traits = {	celebrity_junta_leader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	FMA_Sikigaq_Avaq={
+		name="Sikigaq Avaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Sikigaq_Avaq
+			traits = {	veteran_anti_bolshevik 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	FMA_Qajaq_Tunaaluq={
+		name="Qajaq Tunaaluq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Qajaq_Tunaaluq
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	FMA_Ukpikigaq_Imalaganapik={
+		name="Ukpikigaq Imalaganapik"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Ukpikigaq_Imalaganapik
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	FMA_Manuq_Iluaq={
+		name="Manuq Iluaq"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Manuq_Iluaq
+			traits = {	army_chief_organizational_1 	}
+		}
+
+
+	}
+	FMA_Panaq_Pipiq={
+		name="Panaq Pipiq"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Panaq_Pipiq
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	FMA_Kana_Tamak={
+		name="Kana Tamak"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Kana_Tamak
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	FMA_Kunik_Napaguta={
+		name="Kunik Napaguta"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FMA_Kunik_Napaguta
+			traits = {	navy_chief_reform_2 	}
+		}
+
+
+	}
+	FMA_Kaniku_Kuvimiatkalu={
+		name="Kaniku Kuvimiatkalu"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FMA_Kaniku_Kuvimiatkalu
+			traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+
+	}
+	FMA_Kaniku_Tikuq={
+		name="Kaniku Tikuq"
+
+		advisor={
+			slot = air_chief
+			idea_token = FMA_Kaniku_Tikuq
+			traits = {	air_chief_ground_support_1 	}
+		}
+
+
+	}
+	FMA_Qajaq_Anik={
+		name="Qajaq Anik"
+
+		advisor={
+			slot = air_chief
+			idea_token = FMA_Qajaq_Anik
+			traits = {	air_chief_all_weather_2 	}
+		}
+
+
+	}
+	FMA_Kaviku_Nunak={
+		name="Kaviku Nunak"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Kaviku_Nunak
+			traits = {	army_cavalry_1 	}
+		}
+
+
+	}
+	FMA_Kunikigaq_Tunapagaan={
+		name="Kunikigaq Tunapagaan"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Kunikigaq_Tunapagaan
+			traits = {	air_air_combat_training_2 	}
+		}
+
+
+	}
+	FMA_Ukpik_Nutuk={
+		name="Ukpik Nutuk"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Ukpik_Nutuk
+			traits = {	air_close_air_support_1 	}
+		}
+
+
+	}
+	FMA_Amaq_Tikipaq={
+		name="Amaq Tikipaq"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Amaq_Tikipaq
+			traits = {	navy_capital_ship_2 	}
+		}
+
+
+	}
+	FMA_Manaq_Kanford={
+		name="Manaq Kanford"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Manaq_Kanford
+			traits = {	army_CombinedArms_2 	}
+		}
+
+
+	}
+	FMA_Qajaq_Napaguta={
+		name="Qajaq Napaguta"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Qajaq_Napaguta
+			traits = {	army_infantry_2 	}
+		}
+
+
+	}
+	FMA_Nana_Naliaq={
+		name="Nana Naliaq"
+
+		
+		country_leader={
+			ideology=falangism
+			traits = { militant_minister  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FMA_Ukpik_Kuvakuimaq={
+		name="Ukpik Kuvakuimaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Ukpik_Kuvakuimaq
+			traits = {	basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Sikigaq_Qiliqpaluk={
+		name="Sikigaq Qiliqpaluk"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Sikigaq_Qiliqpaluk
+			traits = {	spirit_of_genghis 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Olik_Nunirniq={
+		name="Olik Nunirniq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Olik_Nunirniq
+			traits = {	basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Olik_Tunaaluq={
+		name="Olik Tunaaluq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Olik_Tunaaluq
+			traits = {	militant_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	FMA_Mana_Kuvakuimaq={
+		name="Mana Kuvakuimaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Mana_Kuvakuimaq
+			traits = {	autokrator 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Sila_Kangiq={
+		name="Sila Kangiq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Sila_Kangiq
+			traits = {	archon_basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Olik_Ituggavim={
+		name="Olik Ituggavim"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Olik_Ituggavim
+			traits = {	army_chief_offensive_2 	}
+		}
+
+
+	}
+	FMA_Panuq_Kuvik={
+		name="Panuq Kuvik"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Panuq_Kuvik
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	FMA_Kaviku_Nulikuaq={
+		name="Kaviku Nulikuaq"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Kaviku_Nulikuaq
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	FMA_Nanaq_Nulik={
+		name="Nanaq Nulik"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Nanaq_Nulik
+			traits = {	army_chief_planning_1 	}
+		}
+
+
+	}
+	FMA_Mana_Kuvik={
+		name="Mana Kuvik"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FMA_Mana_Kuvik
+			traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+
+	}
+	FMA_Ukpik_Qajuk={
+		name="Ukpik Qajuk"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FMA_Ukpik_Qajuk
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	FMA_Kaviku_Pipiq={
+		name="Kaviku Pipiq"
+
+		advisor={
+			slot = air_chief
+			idea_token = FMA_Kaviku_Pipiq
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	FMA_Kana_Tananiq={
+		name="Kana Tananiq"
+
+		advisor={
+			slot = air_chief
+			idea_token = FMA_Kana_Tananiq
+			traits = {	air_chief_ground_support_2 	}
+		}
+
+
+	}
+	FMA_Taluk_Tamak={
+		name="Taluk Tamak"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Taluk_Tamak
+			traits = {	air_strategic_bombing_2 	}
+		}
+
+
+	}
+	FMA_Kana_Nakuaq={
+		name="Kana Nakuaq"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Kana_Nakuaq
+			traits = {	army_logistics_2 	}
+		}
+
+
+	}
+	FMA_Nuvuk_Kuvakuimaq={
+		name="Nuvuk Kuvakuimaq"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Nuvuk_Kuvakuimaq
+			traits = {	navy_anti_submarine_1 	}
+		}
+
+
+	}
+	FMA_Kana_Nulikuaq={
+		name="Kana Nulikuaq"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Kana_Nulikuaq
+			traits = {	navy_carrier_2 	}
+		}
+
+
+	}
+	FMA_Pana_Nulik={
+		name="Pana Nulik"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Pana_Nulik
+			traits = {	air_close_air_support_2 	}
+		}
+
+
+	}
+	FMA_Iluk_Tunapagaan={
+		name="Iluk Tunapagaan"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Iluk_Tunapagaan
+			traits = {	navy_capital_ship_1 	}
+		}
+
+
+	}
+	FMA_Nuvuk_Naliaq={
+		name="Nuvuk Naliaq"
+
+		
+		country_leader={
+			ideology=anti_revisionism
+			traits = { mastermind_code_cracker  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FMA_Kana_Ford={
+		name="Kana Ford"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Kana_Ford
+			traits = {	marxist_fundamentalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	FMA_Amaq_Kamasataruq={
+		name="Amaq Kamasataruq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Amaq_Kamasataruq
+			traits = {	devoted_marxist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	FMA_Naluk_Nunirniq={
+		name="Naluk Nunirniq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Naluk_Nunirniq
+			traits = {	socialist_justice 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	FMA_Olikigaq_Sangelagaaq={
+		name="Olikigaq Sangelagaaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Olikigaq_Sangelagaaq
+			traits = {	leftist_independent 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Olikigaq_Nulik={
+		name="Olikigaq Nulik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Olikigaq_Nulik
+			traits = {	mastermind_code_cracker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Ukpikigaq_Kugak={
+		name="Ukpikigaq Kugak"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Ukpikigaq_Kugak
+			traits = {	political_dancer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Kana_Arnavuka={
+		name="Kana Arnavuka"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Kana_Arnavuka
+			traits = {	army_chief_planning_1 	}
+		}
+
+
+	}
+	FMA_Sikigaq_Kuvakuimaq={
+		name="Sikigaq Kuvakuimaq"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Sikigaq_Kuvakuimaq
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	FMA_Atka_Sanaviku={
+		name="Atka Sanaviku"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Atka_Sanaviku
+			traits = {	army_chief_reform_2 	}
+		}
+
+
+	}
+	FMA_Ukpiku_Nuniqpaapik={
+		name="Ukpiku Nuniqpaapik"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Ukpiku_Nuniqpaapik
+			traits = {	army_chief_drill_2 	}
+		}
+
+
+	}
+	FMA_Qajaq_Nala={
+		name="Qajaq Nala"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FMA_Qajaq_Nala
+			traits = {	navy_chief_maneuver_1 	}
+		}
+
+
+	}
+	FMA_Kanaq_Sangelagaaq={
+		name="Kanaq Sangelagaaq"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FMA_Kanaq_Sangelagaaq
+			traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+
+	}
+	FMA_Taluk_Nutuk={
+		name="Taluk Nutuk"
+
+		advisor={
+			slot = air_chief
+			idea_token = FMA_Taluk_Nutuk
+			traits = {	air_chief_ground_support_2 	}
+		}
+
+
+	}
+	FMA_Nanaq_Iluqpaktu={
+		name="Nanaq Iluqpaktu"
+
+		advisor={
+			slot = air_chief
+			idea_token = FMA_Nanaq_Iluqpaktu
+			traits = {	air_chief_safety_1 	}
+		}
+
+
+	}
+	FMA_Mana_Iluqpaktu={
+		name="Mana Iluqpaktu"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Mana_Iluqpaktu
+			traits = {	navy_anti_submarine_1 	}
+		}
+
+
+	}
+	FMA_Sila_Nunik={
+		name="Sila Nunik"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Sila_Nunik
+			traits = {	air_strategic_bombing_2 	}
+		}
+
+
+	}
+	FMA_Kavik_Nalupak={
+		name="Kavik Nalupak"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Kavik_Nalupak
+			traits = {	navy_capital_ship_2 	}
+		}
+
+
+	}
+	FMA_Kanaq_Nunik={
+		name="Kanaq Nunik"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Kanaq_Nunik
+			traits = {	army_logistics_1 	}
+		}
+
+
+	}
+	FMA_Kaviku_Kipak={
+		name="Kaviku Kipak"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Kaviku_Kipak
+			traits = {	army_cavalry_2 	}
+		}
+
+
+	}
+	FMA_Nanaq_Aliggak={
+		name="Nanaq Aliggak"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Nanaq_Aliggak
+			traits = {	air_tactical_bombing_2 	}
+		}
+
+
+	}
+	FMA_Kanaq_Avaq={
+		name="Kanaq Avaq"
+
+		
+		country_leader={
+			ideology=liberalism
+			traits = { liberal_democratic_paragon  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	FMA_Kavik_Arnavuka={
+		name="Kavik Arnavuka"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Kavik_Arnavuka
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	FMA_Panaq_Naliaq={
+		name="Panaq Naliaq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Panaq_Naliaq
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	FMA_Tulok_Nunirniq={
+		name="Tulok Nunirniq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Tulok_Nunirniq
+			traits = {	first_lady 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	FMA_Amaq_Arni={
+		name="Amaq Arni"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Amaq_Arni
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_2_small
+			}
+		}
+
+
+	}
+	FMA_Manuq_Iglutuuq={
+		name="Manuq Iglutuuq"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Manuq_Iglutuuq
+			traits = {	liberal_democratic_paragon 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_3_small
+			}
+		}
+
+
+	}
+	FMA_Sikigaq_Ford={
+		name="Sikigaq Ford"
+
+		advisor={
+			slot = political_advisor
+			idea_token = FMA_Sikigaq_Ford
+			traits = {	the_young_magnate 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Europe_Generic_1_small
+			}
+		}
+
+
+	}
+	FMA_Nana_Nutuk={
+		name="Nana Nutuk"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Nana_Nutuk
+			traits = {	army_chief_entrenchment_1 	}
+		}
+
+
+	}
+	FMA_Taluk_Napaguta={
+		name="Taluk Napaguta"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Taluk_Napaguta
+			traits = {	army_chief_offensive_1 	}
+		}
+
+
+	}
+	FMA_Iluk_Aniq={
+		name="Iluk Aniq"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Iluk_Aniq
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	FMA_Sila_Tineq={
+		name="Sila Tineq"
+
+		advisor={
+			slot = army_chief
+			idea_token = FMA_Sila_Tineq
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	FMA_Manuq_Nuvak={
+		name="Manuq Nuvak"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FMA_Manuq_Nuvak
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	FMA_Nuvuk_Iluaq={
+		name="Nuvuk Iluaq"
+
+		advisor={
+			slot = navy_chief
+			idea_token = FMA_Nuvuk_Iluaq
+			traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+
+	}
+	FMA_Nuvuk_Tingiq={
+		name="Nuvuk Tingiq"
+
+		advisor={
+			slot = air_chief
+			idea_token = FMA_Nuvuk_Tingiq
+			traits = {	air_chief_ground_support_2 	}
+		}
+
+
+	}
+	FMA_Miku_Qajuk={
+		name="Miku Qajuk"
+
+		advisor={
+			slot = air_chief
+			idea_token = FMA_Miku_Qajuk
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	FMA_Tulok_Aniqpalaq={
+		name="Tulok Aniqpalaq"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Tulok_Aniqpalaq
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	FMA_Ukpikigaq_Iluqpaktu={
+		name="Ukpikigaq Iluqpaktu"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Ukpikigaq_Iluqpaktu
+			traits = {	navy_fleet_logistics_2 	}
+		}
+
+
+	}
+	FMA_Qajaq_Aglupait={
+		name="Qajaq Aglupait"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Qajaq_Aglupait
+			traits = {	army_radio_intelligence_1 	}
+		}
+
+
+	}
+	FMA_Panaq_Aniqpalaq={
+		name="Panaq Aniqpalaq"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Panaq_Aniqpalaq
+			traits = {	army_cavalry_2 	}
+		}
+
+
+	}
+	FMA_Manuq_Tunaaluq={
+		name="Manuq Tunaaluq"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Manuq_Tunaaluq
+			traits = {	army_cavalry_2 	}
+		}
+
+
+	}
+	FMA_Manaq_Nalawim={
+		name="Manaq Nalawim"
+
+		advisor={
+			slot = high_command
+			idea_token = FMA_Manaq_Nalawim
+			traits = {	air_strategic_bombing_2 	}
+		}
+
+
+	}
+	FMA_Kavik_Nivibuti={
+		name="Kavik Nivibuti"
+
+		advisor={
+			slot = theorist
+			idea_token = FMA_Kavik_Nivibuti
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	FMA_Naluk_Avaq={
+		name="Naluk Avaq"
+
+		advisor={
+			slot = theorist
+			idea_token = FMA_Naluk_Avaq
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	FMA_Qajaq_Oliaq={
+		name="Qajaq Oliaq"
+
+		advisor={
+			slot = theorist
+			idea_token = FMA_Qajaq_Oliaq
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

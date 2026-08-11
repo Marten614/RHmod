@@ -1,0 +1,39 @@
+
+state={
+	id=317
+	name="STATE_317"
+	manpower = 5707477
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=16
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2354 11}
+		victory_points = { 2357 7}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+			arms_factory = 0
+			industrial_complex = 3
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		2352 2353 2354 2355 2356 2357 2358 2359 2360 2361 2362 2363 2364 2365 2366 2367 2368 2369 2370 2371 
+	}
+	local_supplies=0.0 
+}

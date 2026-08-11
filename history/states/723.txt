@@ -1,0 +1,41 @@
+
+state={
+	id=723
+	name="STATE_723"
+	manpower = 4639329
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4841 15}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 3
+			
+			4839 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		4832 4833 4834 4835 4836 4837 4838 4839 4840 4841 4842 4843 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,42 @@
+
+state={
+	id=234
+	name="STATE_234"
+	manpower = 2906662
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1810 1}
+		victory_points = { 1813 1}
+		victory_points = { 1816 1}
+		victory_points = { 1817 1}
+		victory_points = { 1822 1}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		1810 1811 1812 1813 1814 1815 1816 1817 1818 1819 1820 1821 1822 1823 1824 1825 1826 
+	}
+	local_supplies=0.0 
+}

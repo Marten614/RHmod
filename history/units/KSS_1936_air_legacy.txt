@@ -1,0 +1,266 @@
+air_wings = {
+		1514 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 2" }
+strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naraca Mk 0" }
+
+	}
+	266 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Zotzalahun Mk 2" }
+
+	}
+	1452 = { 								
+		tac_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	523 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	1446 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Bakalah Mk 2" }
+
+	}
+	731 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 1" }
+
+	}
+	444 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Mutal Mk 1" }
+
+	}
+	533 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 2" }
+
+	}
+	714 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Mutal Mk 1" }
+
+	}
+	551 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 1" }
+
+	}
+	401 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Mutal Mk 1" }
+tac_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	178 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Bakalah Mk 2" }
+
+	}
+	603 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naraca Mk 0" }
+
+	}
+	150 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	219 = { 								
+		tac_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	596 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 2" }
+
+	}
+	562 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Chil Mk 2" }
+tac_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	451 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	59 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Bakalah Mk 2" }
+
+	}
+	111 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 1" }
+
+	}
+	220 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Bakalah Mk 2" }
+
+	}
+	706 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Chil Mk 2" }
+
+	}
+	31 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Witzib Mk 0" }
+
+	}
+	80 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 1" }
+
+	}
+	115 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Mutal Mk 1" }
+
+	}
+	37 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Kawakalen Mk 1" }
+
+	}
+	405 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Bakalah Mk 2" }
+
+	}
+	277 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	1476 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Chil Mk 2" }
+
+	}
+	326 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Witzib Mk 0" }
+fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Mutal Mk 1" }
+
+	}
+	1428 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naraca Mk 0" }
+
+	}
+	1498 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Kawakalen Mk 1" }
+
+	}
+	362 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Kawakalen Mk 1" }
+tac_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	1453 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	559 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Mutal Mk 1" }
+
+	}
+	1457 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 2" }
+
+	}
+	258 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Zotzalahun Mk 2" }
+
+	}
+	1461 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 1" }
+
+	}
+	1542 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 1" }
+
+	}
+	483 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Chil Mk 2" }
+
+	}
+	73 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Chil Mk 2" }
+
+	}
+	491 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Zotzalahun Mk 2" }
+cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Kawakalen Mk 1" }
+
+	}
+	527 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Chil Mk 2" }
+
+	}
+	746 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 1" }
+tac_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	13 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Tojil Mk 2" }
+
+	}
+	735 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Witzib Mk 0" }
+
+	}
+	402 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Zotzalahun Mk 2" }
+fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Witzib Mk 0" }
+
+	}
+	670 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Zotzalahun Mk 2" }
+
+	}
+	132 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Zotzalahun Mk 2" }
+
+	}
+	582 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Kawakalen Mk 1" }
+
+	}
+	678 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Witzib Mk 0" }
+
+	}
+	499 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naraca Mk 0" }
+
+	}
+	614 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Bakalah Mk 2" }
+
+	}
+	74 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Kawakalen Mk 1" }
+
+	}
+	271 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naraca Mk 0" }
+
+	}
+	149 = { 								
+		strat_bomber_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naraca Mk 0" }
+
+	}
+	225 = { 								
+		cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 2" }
+cv_fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Naranjo Mk 2" }
+
+	}
+	1432 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Witzib Mk 0" }
+
+	}
+	393 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Kawakalen Mk 1" }
+
+	}
+	364 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Zotzalahun Mk 2" }
+
+	}
+	651 = { 								
+		fighter_equipment_0 = { owner = "KSS" amount = 50 version_name = "Witzib Mk 0" }
+
+	}
+	1456 = { 								
+		CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Bakalah Mk 2" }
+
+	}
+	1436 = { 								
+		cv_CAS_equipment_0 = { owner = "KSS" amount = 50 version_name = "Chil Mk 2" }
+
+	}
+
+
+}

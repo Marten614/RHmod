@@ -1,0 +1,134 @@
+air_wings = {
+		433 = { 								
+		small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	577 = { 								
+		cv_small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	633 = { 								
+		small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	403 = { 								
+		cv_small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+	288 = { 								
+		cv_small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	1527 = { 								
+		small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	654 = { 								
+		small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+
+	}
+	193 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	184 = { 								
+		small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+
+	}
+	165 = { 								
+		cv_small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	406 = { 								
+		cv_small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	320 = { 								
+		small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+
+	}
+	367 = { 								
+		small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	705 = { 								
+		cv_small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+cv_small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	655 = { 								
+		cv_small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	81 = { 								
+		small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+
+	}
+	1515 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	638 = { 								
+		small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Poco Mk 1" }
+cv_small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	332 = { 								
+		small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	349 = { 								
+		cv_small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	213 = { 								
+		cv_small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	497 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	17 = { 								
+		cv_small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	51 = { 								
+		cv_small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+	295 = { 								
+		cv_small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Mazeh Mk 2" }
+
+	}
+	257 = { 								
+		cv_small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Avis Mk 1" }
+
+	}
+	466 = { 								
+		cv_small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+	152 = { 								
+		cv_small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+	502 = { 								
+		small_plane_airframe_0 = { owner = "GYP" amount = 50 version_name = "Teimamhrest Mk 1" }
+
+	}
+	212 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "GYP" amount = 50 version_name = "Cibunarvaz Mk 0" }
+
+	}
+	730 = { 								
+		cv_small_plane_cas_airframe_0 = { owner = "GYP" amount = 50 version_name = "Milte Mk 1" }
+
+	}
+
+
+}

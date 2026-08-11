@@ -1,0 +1,40 @@
+
+state={
+	id=366
+	name="STATE_366"
+	manpower = 5620760
+	
+	state_category = megalopolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=4
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2692 1}
+		victory_points = { 2693 7}
+		victory_points = { 2694 12}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		2681 2682 2683 2684 2685 2686 2687 2688 2689 2690 2691 2692 2693 2694 2695 
+	}
+	local_supplies=0.0 
+}

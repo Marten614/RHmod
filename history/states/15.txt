@@ -1,0 +1,41 @@
+
+state={
+	id=15
+	name="STATE_15"
+	manpower = 4252529
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=4
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 124 3}
+		victory_points = { 126 8}
+		victory_points = { 127 1}
+		victory_points = { 128 1}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		117 118 119 120 121 122 123 124 125 126 127 128 
+	}
+	local_supplies=0.0 
+}

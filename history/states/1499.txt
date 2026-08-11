@@ -1,0 +1,42 @@
+
+state={
+	id=1499
+	name="STATE_1499"
+	manpower = 1277720
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=1
+		chromium=1
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=1
+		coal=3
+	}
+
+	history={
+		victory_points = { 8730 2}
+		victory_points = { 8731 2}
+		
+		owner = JEW
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 1
+			
+			8731 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = JEW
+	}
+
+	provinces={
+		8729 8730 8731 
+	}
+	local_supplies=0.0 
+}

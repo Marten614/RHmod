@@ -1,0 +1,38 @@
+
+state={
+	id=917
+	name="STATE_917"
+	manpower = 839585
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=1
+		steel=7
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5882 1}
+		
+		owner = STL
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = STL
+	}
+
+	provinces={
+		5881 5882 
+	}
+	local_supplies=0.0 
+}

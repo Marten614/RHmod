@@ -1,0 +1,57 @@
+air_wings = {
+		648 = { 								
+		small_plane_airframe_0 = { owner = "TAP" amount = 50 version_name = "Taghremmirt Mk 0" }
+small_plane_naval_bomber_airframe_0 = { owner = "TAP" amount = 50 version_name = "Daryalb Mk 0" }
+
+	}
+	408 = { 								
+		small_plane_airframe_0 = { owner = "TAP" amount = 50 version_name = "Taghremmirt Mk 0" }
+
+	}
+	701 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "TAP" amount = 50 version_name = "Daryalb Mk 0" }
+
+	}
+	161 = { 								
+		medium_plane_airframe_0 = { owner = "TAP" amount = 50 version_name = "Thala Mk 1" }
+
+	}
+	639 = { 								
+		small_plane_airframe_0 = { owner = "TAP" amount = 50 version_name = "Taghremmirt Mk 0" }
+
+	}
+	489 = { 								
+		small_plane_cas_airframe_0 = { owner = "TAP" amount = 50 version_name = "Tiwizi Mk 1" }
+
+	}
+	1528 = { 								
+		medium_plane_airframe_0 = { owner = "TAP" amount = 50 version_name = "Thala Mk 1" }
+
+	}
+	397 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "TAP" amount = 50 version_name = "Daryalb Mk 0" }
+
+	}
+	611 = { 								
+		small_plane_airframe_0 = { owner = "TAP" amount = 50 version_name = "Taghremmirt Mk 0" }
+
+	}
+	7 = { 								
+		small_plane_cas_airframe_0 = { owner = "TAP" amount = 50 version_name = "Tiwizi Mk 1" }
+
+	}
+	494 = { 								
+		small_plane_cas_airframe_0 = { owner = "TAP" amount = 50 version_name = "Tiwizi Mk 1" }
+
+	}
+	124 = { 								
+		medium_plane_airframe_0 = { owner = "TAP" amount = 50 version_name = "Thala Mk 1" }
+
+	}
+	593 = { 								
+		small_plane_cas_airframe_0 = { owner = "TAP" amount = 50 version_name = "Tiwizi Mk 1" }
+
+	}
+
+
+}

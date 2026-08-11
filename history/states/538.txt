@@ -1,0 +1,41 @@
+
+state={
+	id=538
+	name="STATE_538"
+	manpower = 575494
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=4
+		chromium=4
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=4
+		coal=9
+	}
+
+	history={
+		victory_points = { 3756 1}
+		
+		owner = EXP
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 0
+			
+			3756 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = EXP
+	}
+
+	provinces={
+		3756 
+	}
+	local_supplies=0.0 
+}

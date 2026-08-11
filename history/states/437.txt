@@ -1,0 +1,38 @@
+
+state={
+	id=437
+	name="STATE_437"
+	manpower = 1143214
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3143 2}
+		
+		owner = TAP
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = TAP
+	}
+
+	provinces={
+		3142 3143 3144 3145 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,48 @@
+air_wings = {
+		771 = { 								
+		small_plane_airframe_1 = { owner = "TAB" amount = 50 version_name = "Casina Mk 2" }
+
+	}
+	913 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "TAB" amount = 50 version_name = "Vina Mk 2" }
+
+	}
+	1346 = { 								
+		small_plane_cas_airframe_1 = { owner = "TAB" amount = 50 version_name = "Vina Mk 2" }
+small_plane_airframe_0 = { owner = "TAB" amount = 50 version_name = "Carstor Mk 0" }
+
+	}
+	1342 = { 								
+		medium_plane_airframe_0 = { owner = "TAB" amount = 50 version_name = "Hlebo Mk 1" }
+medium_plane_airframe_0 = { owner = "TAB" amount = 50 version_name = "Hlebo Mk 1" }
+
+	}
+	1502 = { 								
+		small_plane_airframe_0 = { owner = "TAB" amount = 50 version_name = "Carstor Mk 0" }
+
+	}
+	923 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "TAB" amount = 50 version_name = "Tvrdje Mk 0" }
+
+	}
+	1020 = { 								
+		small_plane_cas_airframe_0 = { owner = "TAB" amount = 50 version_name = "Smrt Mk 2" }
+small_plane_cas_airframe_0 = { owner = "TAB" amount = 50 version_name = "Smrt Mk 2" }
+
+	}
+	942 = { 								
+		small_plane_airframe_1 = { owner = "TAB" amount = 50 version_name = "Casina Mk 2" }
+
+	}
+	783 = { 								
+		small_plane_cas_airframe_1 = { owner = "TAB" amount = 50 version_name = "Vina Mk 2" }
+
+	}
+	1258 = { 								
+		small_plane_naval_bomber_airframe_1 = { owner = "TAB" amount = 50 version_name = "Vina Mk 2" }
+small_plane_naval_bomber_airframe_0 = { owner = "TAB" amount = 50 version_name = "Tvrdje Mk 0" }
+
+	}
+
+
+}

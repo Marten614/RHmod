@@ -1,0 +1,38 @@
+
+state={
+	id=1035
+	name="STATE_1035"
+	manpower = 1103065
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6493 2}
+		
+		owner = MIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = MIN
+	}
+
+	provinces={
+		6492 6493 6494 6495 
+	}
+	local_supplies=0.0 
+}

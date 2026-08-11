@@ -1,0 +1,42 @@
+
+state={
+	id=1488
+	name="STATE_1488"
+	manpower = 2295433
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8672 6}
+		victory_points = { 8674 1}
+		
+		owner = STL
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			8674 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = STL
+	}
+
+	provinces={
+		8671 8672 8673 8674 8675 8676 
+	}
+	local_supplies=0.0 
+}

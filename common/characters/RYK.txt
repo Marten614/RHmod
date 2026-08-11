@@ -1,0 +1,1083 @@
+characters = {
+	RYK_Kwama_Baha={
+		name="Kwama Baha"
+
+		
+		country_leader={
+			ideology=centrism
+			traits = { national_determinist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	RYK_Mbwama_Kango={
+		name="Mbwama Kango"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Mbwama_Kango
+			traits = {	staunch_constitutionalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	RYK_Nuru_Hati={
+		name="Nuru Hati"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Nuru_Hati
+			traits = {	noble_beurocrat 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	RYK_Kwanga_Mpaka={
+		name="Kwanga Mpaka"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Kwanga_Mpaka
+			traits = {	celebrity_junta_leader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	RYK_Mbwame_Mlindi={
+		name="Mbwame Mlindi"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Mbwame_Mlindi
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	RYK_Simba_Jeshi={
+		name="Simba Jeshi"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Simba_Jeshi
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	RYK_Tana_Maua={
+		name="Tana Maua"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Tana_Maua
+			traits = {	headstrong 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	RYK_Tembanga_Ango={
+		name="Tembanga Ango"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Tembanga_Ango
+			traits = {	army_chief_maneuver_2 	}
+		}
+
+
+	}
+	RYK_Tembanga_Jotorubwani={
+		name="Tembanga Jotorubwani"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Tembanga_Jotorubwani
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	RYK_Mosi_Tundisu={
+		name="Mosi Tundisu"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Mosi_Tundisu
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	RYK_Chidi_Fuki={
+		name="Chidi Fuki"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Chidi_Fuki
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	RYK_Amau_Upendoto={
+		name="Amau Upendoto"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RYK_Amau_Upendoto
+			traits = {	navy_chief_maneuver_1 	}
+		}
+
+
+	}
+	RYK_Tano_Shimu={
+		name="Tano Shimu"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RYK_Tano_Shimu
+			traits = {	navy_chief_commerce_raiding_2 	}
+		}
+
+
+	}
+	RYK_Kwama_Joto={
+		name="Kwama Joto"
+
+		advisor={
+			slot = air_chief
+			idea_token = RYK_Kwama_Joto
+			traits = {	air_chief_ground_support_1 	}
+		}
+
+
+	}
+	RYK_Tembanga_Pigaonga={
+		name="Tembanga Pigaonga"
+
+		advisor={
+			slot = air_chief
+			idea_token = RYK_Tembanga_Pigaonga
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	RYK_Tanga_Mtaki={
+		name="Tanga Mtaki"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Tanga_Mtaki
+			traits = {	navy_amphibious_assault_2 	}
+		}
+
+
+	}
+	RYK_Tembanga_Hati={
+		name="Tembanga Hati"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Tembanga_Hati
+			traits = {	air_pilot_training_2 	}
+		}
+
+
+	}
+	RYK_Mbwame_Chemu={
+		name="Mbwame Chemu"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Mbwame_Chemu
+			traits = {	army_radio_intelligence_1 	}
+		}
+
+
+	}
+	RYK_Kwanga_Joto={
+		name="Kwanga Joto"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Kwanga_Joto
+			traits = {	army_infantry_1 	}
+		}
+
+
+	}
+	RYK_Tano_Kisito={
+		name="Tano Kisito"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Tano_Kisito
+			traits = {	army_CombinedArms_1 	}
+		}
+
+
+	}
+	RYK_Jumari_Ukwelu={
+		name="Jumari Ukwelu"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Jumari_Ukwelu
+			traits = {	army_radio_intelligence_1 	}
+		}
+
+
+	}
+	RYK_Amarakari_Jeshini={
+		name="Amarakari Jeshini"
+
+		
+		country_leader={
+			ideology=nazism
+			traits = { polemarch  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	RYK_Bakari_Kifo={
+		name="Bakari Kifo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Bakari_Kifo
+			traits = {	the_young_magnate 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	RYK_Kwano_Darubarubwan={
+		name="Kwano Darubarubwan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Kwano_Darubarubwan
+			traits = {	vapsid_economist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	RYK_Mbwama_Msha={
+		name="Mbwama Msha"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Mbwama_Msha
+			traits = {	archon_basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	RYK_Omau_Motoru={
+		name="Omau Motoru"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Omau_Motoru
+			traits = {	subservient_ultranationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	RYK_Lubana_Abakubani={
+		name="Lubana Abakubani"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Lubana_Abakubani
+			traits = {	celebrity_junta_leader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	RYK_Simba_Amri={
+		name="Simba Amri"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Simba_Amri
+			traits = {	archon_basileus 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	RYK_Mosi_Aduiyani={
+		name="Mosi Aduiyani"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Mosi_Aduiyani
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	RYK_Lubana_Ndoto={
+		name="Lubana Ndoto"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Lubana_Ndoto
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	RYK_Bakari_Shimu={
+		name="Bakari Shimu"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Bakari_Shimu
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	RYK_Amarakari_Maono={
+		name="Amarakari Maono"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Amarakari_Maono
+			traits = {	army_chief_planning_2 	}
+		}
+
+
+	}
+	RYK_Sefu_Mtaki={
+		name="Sefu Mtaki"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RYK_Sefu_Mtaki
+			traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+
+	}
+	RYK_Kato_Upendoto={
+		name="Kato Upendoto"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RYK_Kato_Upendoto
+			traits = {	navy_chief_reform_2 	}
+		}
+
+
+	}
+	RYK_Baka_Maono={
+		name="Baka Maono"
+
+		advisor={
+			slot = air_chief
+			idea_token = RYK_Baka_Maono
+			traits = {	air_chief_old_guard 	}
+		}
+
+
+	}
+	RYK_Baka_Upendoto={
+		name="Baka Upendoto"
+
+		advisor={
+			slot = air_chief
+			idea_token = RYK_Baka_Upendoto
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	RYK_Mosi_Ndoto={
+		name="Mosi Ndoto"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Mosi_Ndoto
+			traits = {	air_airborne_2 	}
+		}
+
+
+	}
+	RYK_Kwama_Maono={
+		name="Kwama Maono"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Kwama_Maono
+			traits = {	army_commando_2 	}
+		}
+
+
+	}
+	RYK_Kwanga_Amri={
+		name="Kwanga Amri"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Kwanga_Amri
+			traits = {	air_air_combat_training_1 	}
+		}
+
+
+	}
+	RYK_Lubanga_Lughatu={
+		name="Lubanga Lughatu"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Lubanga_Lughatu
+			traits = {	army_armored_2 	}
+		}
+
+
+	}
+	RYK_Chidi_Hewangome={
+		name="Chidi Hewangome"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Chidi_Hewangome
+			traits = {	air_tactical_bombing_1 	}
+		}
+
+
+	}
+	RYK_Tano_Tundisu={
+		name="Tano Tundisu"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Tano_Tundisu
+			traits = {	navy_fleet_logistics_1 	}
+		}
+
+
+	}
+	RYK_Kwano_Rohori={
+		name="Kwano Rohori"
+
+		
+		country_leader={
+			ideology=stalinism
+			traits = { anti_bolshevik_leftist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	RYK_Kwana_Sauti={
+		name="Kwana Sauti"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Kwana_Sauti
+			traits = {	marxist_fundamentalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	RYK_Kwana_Kimba={
+		name="Kwana Kimba"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Kwana_Kimba
+			traits = {	leftist_independent 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	RYK_Tano_Dhidisa={
+		name="Tano Dhidisa"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Tano_Dhidisa
+			traits = {	mastermind_code_cracker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	RYK_Sefu_Sauti={
+		name="Sefu Sauti"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Sefu_Sauti
+			traits = {	leftist_independent 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	RYK_Bakari_Upendoto={
+		name="Bakari Upendoto"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Bakari_Upendoto
+			traits = {	devoted_marxist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	RYK_Baka_Uharale={
+		name="Baka Uharale"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Baka_Uharale
+			traits = {	devoted_marxist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	RYK_Kame_Rohori={
+		name="Kame Rohori"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Kame_Rohori
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	RYK_Nuru_Lugha={
+		name="Nuru Lugha"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Nuru_Lugha
+			traits = {	army_chief_reform_2 	}
+		}
+
+
+	}
+	RYK_Tanga_Chuo={
+		name="Tanga Chuo"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Tanga_Chuo
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	RYK_Mosi_Mjiza={
+		name="Mosi Mjiza"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Mosi_Mjiza
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	RYK_Omari_Mjiza={
+		name="Omari Mjiza"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RYK_Omari_Mjiza
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	RYK_Jumari_Abakubani={
+		name="Jumari Abakubani"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RYK_Jumari_Abakubani
+			traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+
+	}
+	RYK_Taji_Malai={
+		name="Taji Malai"
+
+		advisor={
+			slot = air_chief
+			idea_token = RYK_Taji_Malai
+			traits = {	air_chief_all_weather_1 	}
+		}
+
+
+	}
+	RYK_Sefu_Jumbukumbe={
+		name="Sefu Jumbukumbe"
+
+		advisor={
+			slot = air_chief
+			idea_token = RYK_Sefu_Jumbukumbe
+			traits = {	air_chief_reform_2 	}
+		}
+
+
+	}
+	RYK_Luba_Jeshini={
+		name="Luba Jeshini"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Luba_Jeshini
+			traits = {	army_artillery_2 	}
+		}
+
+
+	}
+	RYK_Mbwama_Hati={
+		name="Mbwama Hati"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Mbwama_Hati
+			traits = {	army_regrouping_2 	}
+		}
+
+
+	}
+	RYK_Nuru_Sarafumbu={
+		name="Nuru Sarafumbu"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Nuru_Sarafumbu
+			traits = {	air_strategic_bombing_2 	}
+		}
+
+
+	}
+	RYK_Kwama_Kubwa={
+		name="Kwama Kubwa"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Kwama_Kubwa
+			traits = {	air_airborne_2 	}
+		}
+
+
+	}
+	RYK_Lubana_Mlindi={
+		name="Lubana Mlindi"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Lubana_Mlindi
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	RYK_Luba_Melimo={
+		name="Luba Melimo"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Luba_Melimo
+			traits = {	navy_submarine_1 	}
+		}
+
+
+	}
+	RYK_Kwanga_Kubwa={
+		name="Kwanga Kubwa"
+
+		
+		country_leader={
+			ideology=conservatism
+			traits = { veteran_minister  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	RYK_Shaka_Joto={
+		name="Shaka Joto"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Shaka_Joto
+			traits = {	the_statist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_1_small
+			}
+		}
+
+
+	}
+	RYK_Mbwame_Maji={
+		name="Mbwame Maji"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Mbwame_Maji
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	RYK_Tana_Dhidisia={
+		name="Tana Dhidisia"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Tana_Dhidisia
+			traits = {	rearmer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_3_small
+			}
+		}
+
+
+	}
+	RYK_Kato_Mkatuki={
+		name="Kato Mkatuki"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Kato_Mkatuki
+			traits = {	rearmer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	RYK_Amarakari_Kubwa={
+		name="Amarakari Kubwa"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Amarakari_Kubwa
+			traits = {	the_banker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	RYK_Tembanga_Nenerakatifo={
+		name="Tembanga Nenerakatifo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RYK_Tembanga_Nenerakatifo
+			traits = {	staunch_constitutionalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_Asia_Generic_2_small
+			}
+		}
+
+
+	}
+	RYK_Shaka_Histori={
+		name="Shaka Histori"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Shaka_Histori
+			traits = {	army_chief_defensive_1 	}
+		}
+
+
+	}
+	RYK_Baka_Chemu={
+		name="Baka Chemu"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Baka_Chemu
+			traits = {	army_chief_organizational_1 	}
+		}
+
+
+	}
+	RYK_Musa_Mwanganja={
+		name="Musa Mwanganja"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Musa_Mwanganja
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	RYK_Tana_Heshi={
+		name="Tana Heshi"
+
+		advisor={
+			slot = army_chief
+			idea_token = RYK_Tana_Heshi
+			traits = {	army_chief_morale_1 	}
+		}
+
+
+	}
+	RYK_Kwama_Uaguo={
+		name="Kwama Uaguo"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RYK_Kwama_Uaguo
+			traits = {	navy_chief_maneuver_2 	}
+		}
+
+
+	}
+	RYK_Sefu_Chuli={
+		name="Sefu Chuli"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RYK_Sefu_Chuli
+			traits = {	navy_chief_reform_2 	}
+		}
+
+
+	}
+	RYK_Tanga_Hewangome={
+		name="Tanga Hewangome"
+
+		advisor={
+			slot = air_chief
+			idea_token = RYK_Tanga_Hewangome
+			traits = {	air_chief_night_operations_2 	}
+		}
+
+
+	}
+	RYK_Omari_Uharale={
+		name="Omari Uharale"
+
+		advisor={
+			slot = air_chief
+			idea_token = RYK_Omari_Uharale
+			traits = {	air_chief_ground_support_1 	}
+		}
+
+
+	}
+	RYK_Mosi_Hofunduiya={
+		name="Mosi Hofunduiya"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Mosi_Hofunduiya
+			traits = {	air_airborne_2 	}
+		}
+
+
+	}
+	RYK_Shaka_Kisu={
+		name="Shaka Kisu"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Shaka_Kisu
+			traits = {	air_naval_strike_1 	}
+		}
+
+
+	}
+	RYK_Tana_Wima={
+		name="Tana Wima"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Tana_Wima
+			traits = {	navy_carrier_1 	}
+		}
+
+
+	}
+	RYK_Musa_Dhidisa={
+		name="Musa Dhidisa"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Musa_Dhidisa
+			traits = {	air_close_air_support_1 	}
+		}
+
+
+	}
+	RYK_Kato_Nenerakatifo={
+		name="Kato Nenerakatifo"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Kato_Nenerakatifo
+			traits = {	navy_naval_air_defense_2 	}
+		}
+
+
+	}
+	RYK_Tanga_Ndoto={
+		name="Tanga Ndoto"
+
+		advisor={
+			slot = high_command
+			idea_token = RYK_Tanga_Ndoto
+			traits = {	air_air_superiority_2 	}
+		}
+
+
+	}
+	RYK_Shakaraka_Soko={
+		name="Shakaraka Soko"
+
+		advisor={
+			slot = theorist
+			idea_token = RYK_Shakaraka_Soko
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	RYK_Kwanga_Askarakia={
+		name="Kwanga Askarakia"
+
+		advisor={
+			slot = theorist
+			idea_token = RYK_Kwanga_Askarakia
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	RYK_Mbwame_Mvule={
+		name="Mbwame Mvule"
+
+		advisor={
+			slot = theorist
+			idea_token = RYK_Mbwame_Mvule
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

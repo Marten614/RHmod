@@ -1,0 +1,47 @@
+units= {
+	##### NAVAL UNITS #####
+	
+		fleet = {
+		name = "Fantikia Fleet"			
+		naval_base = 5369
+		task_force = {
+			name = "Fantikia Fleet"
+			location = 5369
+			
+						ship = { name = "Ostvo" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FAN version_name = "Velo Class" } }	}
+			ship = { name = "Seme" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FAN version_name = "Velo Class" } }	}
+			ship = { name = "Pleb" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FAN version_name = "Vina Class" } }	}
+			ship = { name = "Pisina" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FAN version_name = "Vina Class" } }	}
+			ship = { name = "Knjiv" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FAN version_name = "Vina Class" } }	}
+			ship = { name = "Svina" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FAN version_name = "Oblika Class" } }	}
+			ship = { name = "Glaksinost" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FAN version_name = "Vina Class" } }	}
+			ship = { name = "Svetlovo" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FAN version_name = "Oblika Class" } }	}
+			ship = { name = "Kovo" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FAN version_name = "Oblika Class" } }	}
+			ship = { name = "Vecnoslan" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FAN version_name = "Velo Class" } }	}
+			ship = { name = "Svina 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FAN version_name = "Oblika Class" } }	}
+			ship = { name = "Leka" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FAN version_name = "Velo Class" } }	}
+			ship = { name = "Leka 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FAN version_name = "Velo Class" } }	}
+			ship = { name = "Soljavac" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FAN version_name = "Velo Class" } }	}
+			ship = { name = "Seme 2" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FAN version_name = "Vina Class" } }	}
+			ship = { name = "Kovo 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FAN version_name = "Velo Class" } }	}
+			ship = { name = "Carstor" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FAN version_name = "Velo Class" } }	}
+			ship = { name = "Oblika" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FAN version_name = "Vina Class" } }	}
+			ship = { name = "Nada" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FAN version_name = "Oblika Class" } }	}
+			ship = { name = "Glaksinost 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FAN version_name = "Oblika Class" } }	}
+			ship = { name = "Granstore" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FAN version_name = "Vina Class" } }	}
+
+		}
+	}
+
+}
+
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+}
+
+#####################

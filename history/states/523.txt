@@ -1,0 +1,41 @@
+
+state={
+	id=523
+	name="STATE_523"
+	manpower = 3948177
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3651 1}
+		victory_points = { 3654 6}
+		victory_points = { 3658 1}
+		victory_points = { 3666 2}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		3649 3650 3651 3652 3653 3654 3655 3656 3657 3658 3659 3660 3661 3662 3663 3664 3665 3666 3667 3668 3669 3670 3671 3672 3673 
+	}
+	local_supplies=0.0 
+}

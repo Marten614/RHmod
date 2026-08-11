@@ -1,0 +1,39 @@
+
+state={
+	id=876
+	name="STATE_876"
+	manpower = 1220193
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=2
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5673 1}
+		victory_points = { 5675 1}
+		
+		owner = STL
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = STL
+	}
+
+	provinces={
+		5673 5674 5675 5676 
+	}
+	local_supplies=0.0 
+}

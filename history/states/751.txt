@@ -1,0 +1,40 @@
+
+state={
+	id=751
+	name="STATE_751"
+	manpower = 5334468
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5008 3}
+		victory_points = { 5009 3}
+		victory_points = { 5019 11}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 3
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		5005 5006 5007 5008 5009 5010 5011 5012 5013 5014 5015 5016 5017 5018 5019 5020 5021 5022 5023 
+	}
+	local_supplies=0.0 
+}

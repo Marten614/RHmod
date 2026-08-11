@@ -1,0 +1,39 @@
+
+state={
+	id=374
+	name="STATE_374"
+	manpower = 5269466
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=11
+		steel=33
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2751 4}
+		victory_points = { 2752 12}
+		
+		owner = TAP
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = TAP
+	}
+
+	provinces={
+		2742 2743 2744 2745 2746 2747 2748 2749 2750 2751 2752 2753 2754 2755 2756 2757 2758 2759 2760 2761 
+	}
+	local_supplies=0.0 
+}

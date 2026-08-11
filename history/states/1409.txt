@@ -1,0 +1,43 @@
+
+state={
+	id=1409
+	name="STATE_1409"
+	manpower = 2411401
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8314 3}
+		victory_points = { 8315 3}
+		victory_points = { 8319 1}
+		
+		owner = BOG
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 1
+			
+			8314 = {
+				naval_base = 2
+			}
+			
+		}
+		add_core_of = BOG
+	}
+
+	provinces={
+		8314 8315 8316 8317 8318 8319 8320 
+	}
+	local_supplies=0.0 
+}

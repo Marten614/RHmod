@@ -1,0 +1,39 @@
+
+state={
+	id=756
+	name="STATE_756"
+	manpower = 1526161
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=1
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5066 2}
+		victory_points = { 5068 2}
+		
+		owner = RAS
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = RAS
+	}
+
+	provinces={
+		5065 5066 5067 5068 
+	}
+	local_supplies=0.0 
+}

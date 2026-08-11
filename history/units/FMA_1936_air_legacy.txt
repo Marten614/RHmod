@@ -1,0 +1,8 @@
+air_wings = {
+		273 = { 								
+		tac_bomber_equipment_0 = { owner = "FMA" amount = 8 version_name = "Kanford Mk 0" }
+
+	}
+
+
+}

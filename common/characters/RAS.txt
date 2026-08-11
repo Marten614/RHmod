@@ -1,0 +1,1083 @@
+characters = {
+	RAS_Dusz_Tram={
+		name="Dusz Tram"
+
+		
+		country_leader={
+			ideology=moderatism
+			traits = { celebrity_junta_leader  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	RAS_Janislavel_Jezde={
+		name="Janislavel Jezde"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Janislavel_Jezde
+			traits = {	humble 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	RAS_Lubosla_Glaksinost={
+		name="Lubosla Glaksinost"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Lubosla_Glaksinost
+			traits = {	the_academic 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	RAS_Alexei_Muzik={
+		name="Alexei Muzik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Alexei_Muzik
+			traits = {	gentle_scholar 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	RAS_Ivanovan_Oblika={
+		name="Ivanovan Oblika"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Ivanovan_Oblika
+			traits = {	humble 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Boran_Hraljiga={
+		name="Boran Hraljiga"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Boran_Hraljiga
+			traits = {	agricultural_nationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	RAS_Andrej_Svetlovo={
+		name="Andrej Svetlovo"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Andrej_Svetlovo
+			traits = {	veteran_anti_bolshevik 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	RAS_Alek_Sena={
+		name="Alek Sena"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Alek_Sena
+			traits = {	army_chief_maneuver_1 	}
+		}
+
+
+	}
+	RAS_Kiri_Teat={
+		name="Kiri Teat"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Kiri_Teat
+			traits = {	army_chief_planning_1 	}
+		}
+
+
+	}
+	RAS_Juranko_Post={
+		name="Juranko Post"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Juranko_Post
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	RAS_Goraj_Glat={
+		name="Goraj Glat"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Goraj_Glat
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	RAS_Mila_Heravetnosti={
+		name="Mila Heravetnosti"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RAS_Mila_Heravetnosti
+			traits = {	navy_chief_maneuver_1 	}
+		}
+
+
+	}
+	RAS_Juranko_Svina={
+		name="Juranko Svina"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RAS_Juranko_Svina
+			traits = {	navy_chief_old_guard 	}
+		}
+
+
+	}
+	RAS_Dmiroslav_Slik={
+		name="Dmiroslav Slik"
+
+		advisor={
+			slot = air_chief
+			idea_token = RAS_Dmiroslav_Slik
+			traits = {	air_chief_night_operations_2 	}
+		}
+
+
+	}
+	RAS_Ivan_Dusa={
+		name="Ivan Dusa"
+
+		advisor={
+			slot = air_chief
+			idea_token = RAS_Ivan_Dusa
+			traits = {	air_chief_reform_1 	}
+		}
+
+
+	}
+	RAS_Peta_Svet={
+		name="Peta Svet"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Peta_Svet
+			traits = {	army_regrouping_2 	}
+		}
+
+
+	}
+	RAS_Yuris_Hraljiga={
+		name="Yuris Hraljiga"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Yuris_Hraljiga
+			traits = {	navy_amphibious_assault_1 	}
+		}
+
+
+	}
+	RAS_Vlavko_Ostvo={
+		name="Vlavko Ostvo"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Vlavko_Ostvo
+			traits = {	air_bomber_interception_1 	}
+		}
+
+
+	}
+	RAS_Lubomas_Vatar={
+		name="Lubomas Vatar"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Lubomas_Vatar
+			traits = {	air_pilot_training_1 	}
+		}
+
+
+	}
+	RAS_Dragomas_Vilan={
+		name="Dragomas Vilan"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Dragomas_Vilan
+			traits = {	navy_naval_air_defense_2 	}
+		}
+
+
+	}
+	RAS_Dmiri_Rato={
+		name="Dmiri Rato"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Dmiri_Rato
+			traits = {	air_strategic_bombing_2 	}
+		}
+
+
+	}
+	RAS_Radoslav_Vatar={
+		name="Radoslav Vatar"
+
+		
+		country_leader={
+			ideology=nazism
+			traits = { autokrator  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	RAS_Dusanov_Plasinja={
+		name="Dusanov Plasinja"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Dusanov_Plasinja
+			traits = {	subservient_ultranationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	RAS_Matej_Nacina={
+		name="Matej Nacina"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Matej_Nacina
+			traits = {	militant_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Matefan_Dusac={
+		name="Matefan Dusac"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Matefan_Dusac
+			traits = {	subservient_ultranationalist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Matej_Umetnost={
+		name="Matej Umetnost"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Matej_Umetnost
+			traits = {	spirit_of_genghis 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Vladov_Lekt={
+		name="Vladov Lekt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Vladov_Lekt
+			traits = {	militant_minister 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	RAS_Milavko_Vilan={
+		name="Milavko Vilan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Milavko_Vilan
+			traits = {	the_young_magnate 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Radimeon_Oblik={
+		name="Radimeon Oblik"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Radimeon_Oblik
+			traits = {	army_chief_drill_1 	}
+		}
+
+
+	}
+	RAS_Vlav_Post={
+		name="Vlav Post"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Vlav_Post
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	RAS_Janislavel_Vatar={
+		name="Janislavel Vatar"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Janislavel_Vatar
+			traits = {	army_chief_morale_2 	}
+		}
+
+
+	}
+	RAS_Lubomas_Svetlovo={
+		name="Lubomas Svetlovo"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Lubomas_Svetlovo
+			traits = {	army_chief_morale_1 	}
+		}
+
+
+	}
+	RAS_Ilya_Svenik={
+		name="Ilya Svenik"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RAS_Ilya_Svenik
+			traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+
+	}
+	RAS_Mirislan_Masinja={
+		name="Mirislan Masinja"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RAS_Mirislan_Masinja
+			traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+
+	}
+	RAS_Andrej_Tvrdje={
+		name="Andrej Tvrdje"
+
+		advisor={
+			slot = air_chief
+			idea_token = RAS_Andrej_Tvrdje
+			traits = {	air_chief_night_operations_1 	}
+		}
+
+
+	}
+	RAS_Matefanko_Ostvo={
+		name="Matefanko Ostvo"
+
+		advisor={
+			slot = air_chief
+			idea_token = RAS_Matefanko_Ostvo
+			traits = {	air_chief_ground_support_1 	}
+		}
+
+
+	}
+	RAS_Dmiroslav_Glaksinost={
+		name="Dmiroslav Glaksinost"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Dmiroslav_Glaksinost
+			traits = {	navy_submarine_1 	}
+		}
+
+
+	}
+	RAS_Juran_Pisina={
+		name="Juran Pisina"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Juran_Pisina
+			traits = {	air_naval_strike_1 	}
+		}
+
+
+	}
+	RAS_Stej_Pisina={
+		name="Stej Pisina"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Stej_Pisina
+			traits = {	army_entrenchment_2 	}
+		}
+
+
+	}
+	RAS_Dmitanis_Telicanst={
+		name="Dmitanis Telicanst"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Dmitanis_Telicanst
+			traits = {	navy_carrier_1 	}
+		}
+
+
+	}
+	RAS_Yuris_Tama={
+		name="Yuris Tama"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Yuris_Tama
+			traits = {	air_air_superiority_2 	}
+		}
+
+
+	}
+	RAS_Pavelimirosl_Svezava={
+		name="Pavelimirosl Svezava"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Pavelimirosl_Svezava
+			traits = {	army_entrenchment_2 	}
+		}
+
+
+	}
+	RAS_Vlav_Granstore={
+		name="Vlav Granstore"
+
+		
+		country_leader={
+			ideology=leninism
+			traits = { political_dancer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	RAS_Niktoran_Vina={
+		name="Niktoran Vina"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Niktoran_Vina
+			traits = {	patriotic_socialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	RAS_Dusanov_Zlaslava={
+		name="Dusanov Zlaslava"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Dusanov_Zlaslava
+			traits = {	mastermind_code_cracker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Bogdan_Dusa={
+		name="Bogdan Dusa"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Bogdan_Dusa
+			traits = {	polemarch 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Nikitan_Prefekt={
+		name="Nikitan Prefekt"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Nikitan_Prefekt
+			traits = {	revolutionary_poet 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	RAS_Vladovan_Slik={
+		name="Vladovan Slik"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Vladovan_Slik
+			traits = {	leftist_intellectual 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Bragomas_Kucana={
+		name="Bragomas Kucana"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Bragomas_Kucana
+			traits = {	patriotic_socialist 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_3_small
+			}
+		}
+
+
+	}
+	RAS_Andrej_Oblicanik={
+		name="Andrej Oblicanik"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Andrej_Oblicanik
+			traits = {	army_chief_defensive_2 	}
+		}
+
+
+	}
+	RAS_Milavko_Lekt={
+		name="Milavko Lekt"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Milavko_Lekt
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	RAS_Bran_Vina={
+		name="Bran Vina"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Bran_Vina
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	RAS_Starko_Oblika={
+		name="Starko Oblika"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Starko_Oblika
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	RAS_Aleg_Nada={
+		name="Aleg Nada"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RAS_Aleg_Nada
+			traits = {	navy_chief_naval_aviation_1 	}
+		}
+
+
+	}
+	RAS_Radov_Mast={
+		name="Radov Mast"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RAS_Radov_Mast
+			traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+
+	}
+	RAS_Dran_Vina={
+		name="Dran Vina"
+
+		advisor={
+			slot = air_chief
+			idea_token = RAS_Dran_Vina
+			traits = {	air_chief_safety_2 	}
+		}
+
+
+	}
+	RAS_Dran_Svet={
+		name="Dran Svet"
+
+		advisor={
+			slot = air_chief
+			idea_token = RAS_Dran_Svet
+			traits = {	air_chief_ground_support_2 	}
+		}
+
+
+	}
+	RAS_Ilya_Glast={
+		name="Ilya Glast"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Ilya_Glast
+			traits = {	air_bomber_interception_2 	}
+		}
+
+
+	}
+	RAS_Matefanko_Mesnik={
+		name="Matefanko Mesnik"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Matefanko_Mesnik
+			traits = {	navy_carrier_2 	}
+		}
+
+
+	}
+	RAS_Dragomas_Ostvo={
+		name="Dragomas Ostvo"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Dragomas_Ostvo
+			traits = {	army_cavalry_2 	}
+		}
+
+
+	}
+	RAS_Vlavko_Vodnostvo={
+		name="Vlavko Vodnostvo"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Vlavko_Vodnostvo
+			traits = {	navy_capital_ship_1 	}
+		}
+
+
+	}
+	RAS_Bogdan_Heroja={
+		name="Bogdan Heroja"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Bogdan_Heroja
+			traits = {	air_strategic_bombing_2 	}
+		}
+
+
+	}
+	RAS_Niktoran_Kucak={
+		name="Niktoran Kucak"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Niktoran_Kucak
+			traits = {	navy_anti_submarine_1 	}
+		}
+
+
+	}
+	RAS_Radimeon_Caslastica={
+		name="Radimeon Caslastica"
+
+		
+		country_leader={
+			ideology=socialism
+			traits = { rearmer  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	RAS_Ivan_Telicanst={
+		name="Ivan Telicanst"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Ivan_Telicanst
+			traits = {	rearmer 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	RAS_Dmitanis_Jezde={
+		name="Dmitanis Jezde"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Dmitanis_Jezde
+			traits = {	democratic_crusader 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Janislavel_Nada={
+		name="Janislavel Nada"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Janislavel_Nada
+			traits = {	conservative_grandee 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Goran_Svet={
+		name="Goran Svet"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Goran_Svet
+			traits = {	the_young_magnate 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_2_small
+			}
+		}
+
+
+	}
+	RAS_Kiri_Telica={
+		name="Kiri Telica"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Kiri_Telica
+			traits = {	first_lady 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	RAS_Dusanov_Knjiv={
+		name="Dusanov Knjiv"
+
+		advisor={
+			slot = political_advisor
+			idea_token = RAS_Dusanov_Knjiv
+			traits = {	the_banker 	}
+		}
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_America_Generic_1_small
+			}
+		}
+
+
+	}
+	RAS_Vlav_Kucak={
+		name="Vlav Kucak"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Vlav_Kucak
+			traits = {	army_chief_entrenchment_2 	}
+		}
+
+
+	}
+	RAS_Nikitan_Vodnostvo={
+		name="Nikitan Vodnostvo"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Nikitan_Vodnostvo
+			traits = {	army_chief_planning_1 	}
+		}
+
+
+	}
+	RAS_Kiroslavko_Tram={
+		name="Kiroslavko Tram"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Kiroslavko_Tram
+			traits = {	army_chief_organizational_2 	}
+		}
+
+
+	}
+	RAS_Luboslavko_Slovorija={
+		name="Luboslavko Slovorija"
+
+		advisor={
+			slot = army_chief
+			idea_token = RAS_Luboslavko_Slovorija
+			traits = {	army_chief_reform_1 	}
+		}
+
+
+	}
+	RAS_Dmiroslav_Vodnostvo={
+		name="Dmiroslav Vodnostvo"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RAS_Dmiroslav_Vodnostvo
+			traits = {	navy_chief_maneuver_2 	}
+		}
+
+
+	}
+	RAS_Bran_Alast={
+		name="Bran Alast"
+
+		advisor={
+			slot = navy_chief
+			idea_token = RAS_Bran_Alast
+			traits = {	navy_chief_reform_1 	}
+		}
+
+
+	}
+	RAS_Dmiri_Olost={
+		name="Dmiri Olost"
+
+		advisor={
+			slot = air_chief
+			idea_token = RAS_Dmiri_Olost
+			traits = {	air_chief_all_weather_1 	}
+		}
+
+
+	}
+	RAS_Olexei_Plost={
+		name="Olexei Plost"
+
+		advisor={
+			slot = air_chief
+			idea_token = RAS_Olexei_Plost
+			traits = {	air_chief_reform_2 	}
+		}
+
+
+	}
+	RAS_Niktori_Kucak={
+		name="Niktori Kucak"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Niktori_Kucak
+			traits = {	air_pilot_training_2 	}
+		}
+
+
+	}
+	RAS_Alexei_Reka={
+		name="Alexei Reka"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Alexei_Reka
+			traits = {	air_air_superiority_1 	}
+		}
+
+
+	}
+	RAS_Simirosladim_Svet={
+		name="Simirosladim Svet"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Simirosladim_Svet
+			traits = {	air_close_air_support_2 	}
+		}
+
+
+	}
+	RAS_Radov_Kovo={
+		name="Radov Kovo"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Radov_Kovo
+			traits = {	navy_naval_air_defense_1 	}
+		}
+
+
+	}
+	RAS_Dmitanis_Svenik={
+		name="Dmitanis Svenik"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Dmitanis_Svenik
+			traits = {	air_air_combat_training_1 	}
+		}
+
+
+	}
+	RAS_Vladov_Soljavac={
+		name="Vladov Soljavac"
+
+		advisor={
+			slot = high_command
+			idea_token = RAS_Vladov_Soljavac
+			traits = {	army_regrouping_2 	}
+		}
+
+
+	}
+	RAS_Bohdan_Knjiv={
+		name="Bohdan Knjiv"
+
+		advisor={
+			slot = theorist
+			idea_token = RAS_Bohdan_Knjiv
+			traits = {	military_theorist 	}
+		}
+
+
+	}
+	RAS_Goraj_Vina={
+		name="Goraj Vina"
+
+		advisor={
+			slot = theorist
+			idea_token = RAS_Goraj_Vina
+			traits = {	naval_theorist 	}
+		}
+
+
+	}
+	RAS_Janislavel_Hraljiga={
+		name="Janislavel Hraljiga"
+
+		advisor={
+			slot = theorist
+			idea_token = RAS_Janislavel_Hraljiga
+			traits = {	air_warfare_theorist 	}
+		}
+
+
+	}
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=500
+	name="STATE_500"
+	manpower = 3148572
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3510 3}
+		victory_points = { 3512 3}
+		victory_points = { 3514 3}
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		3510 3511 3512 3513 3514 3515 3516 3517 
+	}
+	local_supplies=0.0 
+}

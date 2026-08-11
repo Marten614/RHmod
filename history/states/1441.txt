@@ -1,0 +1,37 @@
+
+state={
+	id=1441
+	name="STATE_1441"
+	manpower = 271150
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=2
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		
+		owner = KSS
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = KSS
+	}
+
+	provinces={
+		8500 8501 8502 8503 8504 8505 8506 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,50 @@
+air_wings = {
+		1394 = { 								
+		fighter_equipment_0 = { owner = "BOG" amount = 50 version_name = "Haba Mk 1" }
+
+	}
+	1547 = { 								
+		nav_bomber_equipment_0 = { owner = "BOG" amount = 50 version_name = "Nahra Mk 0" }
+
+	}
+	1410 = { 								
+		CAS_equipment_0 = { owner = "BOG" amount = 50 version_name = "Nourub Mk 1" }
+
+	}
+	1414 = { 								
+		fighter_equipment_0 = { owner = "BOG" amount = 50 version_name = "Haba Mk 1" }
+
+	}
+	1422 = { 								
+		nav_bomber_equipment_0 = { owner = "BOG" amount = 50 version_name = "Nahra Mk 0" }
+
+	}
+	1546 = { 								
+		tac_bomber_equipment_0 = { owner = "BOG" amount = 50 version_name = "Bahr Mk 2" }
+
+	}
+	1384 = { 								
+		CAS_equipment_0 = { owner = "BOG" amount = 50 version_name = "Nourub Mk 1" }
+fighter_equipment_0 = { owner = "BOG" amount = 50 version_name = "Haba Mk 1" }
+
+	}
+	1538 = { 								
+		fighter_equipment_0 = { owner = "BOG" amount = 50 version_name = "Haba Mk 1" }
+tac_bomber_equipment_0 = { owner = "BOG" amount = 50 version_name = "Bahr Mk 2" }
+
+	}
+	1401 = { 								
+		nav_bomber_equipment_0 = { owner = "BOG" amount = 50 version_name = "Nahra Mk 0" }
+
+	}
+	1387 = { 								
+		CAS_equipment_0 = { owner = "BOG" amount = 50 version_name = "Nourub Mk 1" }
+
+	}
+	1391 = { 								
+		tac_bomber_equipment_0 = { owner = "BOG" amount = 50 version_name = "Bahr Mk 2" }
+
+	}
+
+
+}

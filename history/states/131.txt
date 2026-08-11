@@ -1,0 +1,39 @@
+
+state={
+	id=131
+	name="STATE_131"
+	manpower = 2107266
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1007 2}
+		victory_points = { 1009 4}
+		
+		owner = GYP
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = GYP
+	}
+
+	provinces={
+		1005 1006 1007 1008 1009 
+	}
+	local_supplies=0.0 
+}

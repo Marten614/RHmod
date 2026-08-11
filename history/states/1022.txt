@@ -1,0 +1,37 @@
+
+state={
+	id=1022
+	name="STATE_1022"
+	manpower = 225599
+	
+	state_category = small_island
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		
+		owner = FAN
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = FAN
+	}
+
+	provinces={
+		6419 6420 6421 6422 6423 6424 6425 6426 6427 6428 6429 6430 6431 
+	}
+	local_supplies=0.0 
+}

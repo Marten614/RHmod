@@ -1,0 +1,42 @@
+
+state={
+	id=783
+	name="STATE_783"
+	manpower = 1270240
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5199 1}
+		victory_points = { 5200 2}
+		
+		owner = TAB
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			5200 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = TAB
+	}
+
+	provinces={
+		5199 5200 5201 
+	}
+	local_supplies=0.0 
+}

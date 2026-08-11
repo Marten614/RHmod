@@ -1,0 +1,80 @@
+air_wings = {
+		1336 = { 								
+		small_plane_naval_bomber_airframe_0 = { owner = "ETL" amount = 50 version_name = "Tang Mk 2" }
+
+	}
+	1232 = { 								
+		large_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Suara Mk 0" }
+
+	}
+	1024 = { 								
+		small_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Tanrohonkepu Mk 1" }
+
+	}
+	1172 = { 								
+		large_plane_airframe_1 = { owner = "ETL" amount = 50 version_name = "Geragempi Mk 0" }
+medium_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Hutriasjidun Mk 0" }
+
+	}
+	758 = { 								
+		medium_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Hutriasjidun Mk 0" }
+
+	}
+	1322 = { 								
+		large_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Suara Mk 0" }
+
+	}
+	1194 = { 								
+		small_plane_cas_airframe_0 = { owner = "ETL" amount = 50 version_name = "Legensilagai Mk 1" }
+
+	}
+	1247 = { 								
+		medium_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Hutriasjidun Mk 0" }
+
+	}
+	874 = { 								
+		small_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Tanrohonkepu Mk 1" }
+
+	}
+	1320 = { 								
+		medium_plane_airframe_1 = { owner = "ETL" amount = 50 version_name = "Wakumata Mk 0" }
+
+	}
+	1065 = { 								
+		medium_plane_airframe_1 = { owner = "ETL" amount = 50 version_name = "Wakumata Mk 0" }
+
+	}
+	834 = { 								
+		large_plane_airframe_1 = { owner = "ETL" amount = 50 version_name = "Geragempi Mk 0" }
+
+	}
+	1343 = { 								
+		large_plane_airframe_1 = { owner = "ETL" amount = 50 version_name = "Geragempi Mk 0" }
+small_plane_cas_airframe_0 = { owner = "ETL" amount = 50 version_name = "Legensilagai Mk 1" }
+
+	}
+	1257 = { 								
+		small_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Tanrohonkepu Mk 1" }
+small_plane_naval_bomber_airframe_0 = { owner = "ETL" amount = 50 version_name = "Tang Mk 2" }
+
+	}
+	1321 = { 								
+		large_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Suara Mk 0" }
+
+	}
+	1081 = { 								
+		large_plane_airframe_0 = { owner = "ETL" amount = 50 version_name = "Suara Mk 0" }
+
+	}
+	1193 = { 								
+		small_plane_cas_airframe_0 = { owner = "ETL" amount = 50 version_name = "Legensilagai Mk 1" }
+
+	}
+	1312 = { 								
+		medium_plane_airframe_1 = { owner = "ETL" amount = 50 version_name = "Wakumata Mk 0" }
+small_plane_naval_bomber_airframe_0 = { owner = "ETL" amount = 50 version_name = "Tang Mk 2" }
+
+	}
+
+
+}
