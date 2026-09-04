@@ -785,12 +785,12 @@ characters = {
 
 
 	}
-	TAB_Juri_Hraljiga={
-		name="Juri Hraljiga"
+	TAB_Evgeniy_Vergus={
+		name="Evgeniy Vergus"
 
 		
 		country_leader={
-			ideology=conservatism
+			ideology=liberal_conservatism_market_liberalism_subtype
 			traits = { the_young_magnate  }
 			expire="1965.1.1.1"
 			id=-1

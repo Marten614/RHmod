@@ -1,0 +1,14 @@
+ideas = {
+
+	country = {
+        jew_faction_idea = {
+            rule = {
+                can_join_factions = no
+                can_send_volunteers = yes
+            }
+            modifier = {
+                war_support_factor = 0.15
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+ideas = {
+
+	country = {
+        gypsy_mobilisation_idea = {
+            rule = {
+
+            }
+            modifier = {
+                mobilization_speed = -0.9
+                conscription_factor = -0.7
+                conscription = -0.05
+            }
+        }
+    }
+}

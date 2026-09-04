@@ -261,13 +261,14 @@ characters = {
 
 
 	}
-	GYP_Hasparcelipe_Trolasta={
-		name="Hasparcelipe Trolasta"
+	GYP_Alexey_Gypsy={
+		name=GYP_Alexsey_Gypsy
 
 		
 		country_leader={
-			ideology=fascism_ideology
-			traits = { collaborator_king  }
+			ideology=national_socialism_clerical_fascism_subtype
+			desc=POLITICS_ALEXSEY_GYPSY_DESC
+			traits = {   }
 			expire="1965.1.1.1"
 			id=-1
 		}

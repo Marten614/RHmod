@@ -523,12 +523,12 @@ characters = {
 
 
 	}
-	KSS_Chua_Akba={
-		name="Chua Akba"
+	KSS_Supreme_Council_of_the_Confederation={
+		name="Supreme Council of the Confederation"
 
 		
 		country_leader={
-			ideology=anti_revisionism
+			ideology=communist_peoples_democracy_subtype
 			traits = { leftist_independent  }
 			expire="1965.1.1.1"
 			id=-1

@@ -1,15 +1,21 @@
 characters = {
-	BOG_Abdullah_Bahel={
-		name="Abdullah Bahel"
+
+
+	BOG_Bogdan_Salyoniy={
+		name="Bogdan Salyoniy"
 
 		
 		country_leader={
-			ideology=centrism
-			traits = { royal_dictator  }
-			expire="1965.1.1.1"
-			id=-1
+			ideology=socialist_social_democracy_subtype
+			traits = { royal_dictator }
+			expire="9999.1.1.1"
+			id=1
 		}
-
+		portraits = {
+			civilian = {
+				small = GFX_Portrait_South_Africa_Political_Leader_Generic_small
+			}
+		}
 	}
 	BOG_Samar_Shira={
 		name="Samar Shira"
@@ -783,18 +789,6 @@ characters = {
 			traits = {	navy_submarine_2 	}
 		}
 
-
-	}
-	BOG_Jami_Taykh={
-		name="Jami Taykh"
-
-		
-		country_leader={
-			ideology=liberalism
-			traits = { famous_aviator  }
-			expire="1965.1.1.1"
-			id=-1
-		}
 
 	}
 	BOG_Ahmoud_Salb={

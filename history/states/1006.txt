@@ -2,7 +2,7 @@
 state={
 	id=1006
 	name="STATE_1006"
-	manpower = 1851100
+	manpower = 185110
 	
 	state_category = large_town
 	#impassable = yes
@@ -21,16 +21,17 @@ state={
 		victory_points = { 6351 2}
 		victory_points = { 6352 2}
 		
-		owner = TAB
+		owner = RAS
 		buildings = {
 			infrastructure = 3
-			air_base = 1
-			arms_factory = 1
+			air_base = 0
+			arms_factory = 0
 			industrial_complex = 0
 			
 			
 		}
 		add_core_of = TAB
+		add_core_of = RAS
 	}
 
 	provinces={

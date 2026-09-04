@@ -785,12 +785,12 @@ characters = {
 
 
 	}
-	STL_Imran_Mada={
-		name="Imran Mada"
+	STL_Vaso_Demoblo={
+		name="Vaso Demoblo"
 
 		
 		country_leader={
-			ideology=liberalism
+			ideology=conservatism_oligarchic_conservatism_subtype
 			traits = { famous_aviator  }
 			expire="1965.1.1.1"
 			id=-1

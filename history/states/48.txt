@@ -2,7 +2,7 @@
 state={
 	id=48
 	name="STATE_48"
-	manpower = 547103
+	manpower = 54710
 	
 	state_category = pastoral
 	#impassable = yes

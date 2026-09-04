@@ -785,12 +785,12 @@ characters = {
 
 
 	}
-	FAN_Kiri_Dusa={
-		name="Kiri Dusa"
+	FAN_Jan_Resdagmor={
+		name="Jan Resdagmor"
 
 		
 		country_leader={
-			ideology=liberalism
+			ideology=liberalism_social_liberalism_subtype
 			traits = { rearmer  }
 			expire="1965.1.1.1"
 			id=-1

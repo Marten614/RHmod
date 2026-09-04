@@ -1,10 +1,10 @@
 characters = {
-	RYK_Kwama_Baha={
-		name="Kwama Baha"
+	RYK_Garry_Lavman_Gekto={
+		name="Garry Lavman=Gekto"
 
 		
 		country_leader={
-			ideology=centrism
+			ideology=despotism_personalistic_dictatorship_subtype
 			traits = { national_determinist  }
 			expire="1965.1.1.1"
 			id=-1

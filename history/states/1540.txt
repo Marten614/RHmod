@@ -2,7 +2,7 @@
 state={
 	id=1540
 	name="STATE_1540"
-	manpower = 396542
+	manpower = 39654
 	
 	state_category = pastoral
 	#impassable = yes
@@ -24,7 +24,7 @@ state={
 			infrastructure = 2
 			
 			arms_factory = 0
-			industrial_complex = 1
+			industrial_complex = 0
 			
 			8810 = {
 				naval_base = 1

@@ -2,7 +2,7 @@
 state={
 	id=469
 	name="STATE_469"
-	manpower = 706959
+	manpower = 70695
 	
 	state_category = pastoral
 	#impassable = yes
@@ -22,8 +22,8 @@ state={
 		owner = TAP
 		buildings = {
 			infrastructure = 3
-			air_base = 1
-			arms_factory = 1
+			air_base = 0
+			arms_factory = 0
 			industrial_complex = 0
 			
 			3312 = {

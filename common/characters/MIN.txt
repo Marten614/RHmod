@@ -1,10 +1,10 @@
 characters = {
-	MIN_Yangdu_Shan={
-		name="Yangdu Shan"
+	MIN_Relor_Voda={
+		name="Relor Voda"
 
 		
 		country_leader={
-			ideology=moderatism
+			ideology=despotism_military_junta_subtype
 			traits = { cabinet_crisis  }
 			expire="1965.1.1.1"
 			id=-1

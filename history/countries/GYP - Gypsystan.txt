@@ -1,19 +1,19 @@
-capital = 81
+capital = 584
 
-oob = "GYP_1936"
+oob = "GYP"
 if = {
 	limit = {
 		NOT = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "GYP_1936"
+	set_oob = "GYP"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "GYP_1936_nsb"
+	set_oob = "GYP_nsb"
 }
 starting_train_buffer = 2
 set_fuel_ratio = 0.8
@@ -56,7 +56,7 @@ if = {
 	set_technology = {
 		gwtank = 1
 		basic_heavy_tank = 1
-		
+		basic_medium_tank = 1
 	}
 }
 ### NSB Techs ###
@@ -67,6 +67,7 @@ if = {
 	set_technology = {
 		gwtank_chassis = 1
 		basic_heavy_tank_chassis = 1
+		basic_medium_tank_chassis = 1
 		engine_tech_1 = 1
 		armor_tech_1 = 1
 		
@@ -161,7 +162,27 @@ if = {
 			tank_nsb_armor_upgrade = 0
 		}
 	}
+	create_equipment_variant = {
+		name = "ZOMBITANK ZOV ZA ROSSIYU"
+		type = medium_tank_chassis_1
+		parent_version = 1
+		show_position = no
+		modules = {
+			armor_type_slot = tank_cast_armor
+			engine_type_slot = tank_diesel_engine
+			turret_type_slot = tank_medium_three_man_tank_turret
+			main_armament_slot = tank_medium_cannon
+			special_type_slot_1 = secondary_turret_small_cannon
+			special_type_slot_2 = wet_ammo_storage
+			suspension_type_slot = tank_bogie_suspension
 
+		}
+		icon = "GFX_ENG_basic_light_tank_medium"
+		upgrades = {
+			tank_nsb_engine_upgrade = 3
+			tank_nsb_armor_upgrade = 4
+		}
+	}
 
 }
 
@@ -169,7 +190,7 @@ if = {
 ### AIRFORCE ###
 if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "GYP_1936_air_bba"
+		set_air_oob = "GYP_air_bba"
 		set_technology = {
 			bba_early_transport_plane = 1
 			iw_small_airframe = 1
@@ -243,7 +264,7 @@ if = {
 		}
 
 	else = {
-		set_air_oob = "GYP_1936_air_legacy"
+		set_air_oob = "GYP_air_legacy"
 		set_technology = {
 			early_transport_plane = 1
 			early_fighter = 1
@@ -280,7 +301,7 @@ if = {
 	early_submarine = 1
 	
 	}
-	set_naval_oob = "GYP_1936_naval"
+	set_naval_oob = "GYP_naval"
 }
 
 ### Ship Variants ###
@@ -467,7 +488,7 @@ if = {
 	submarine_mine_laying = 1
 	
 	}
-	set_naval_oob = "GYP_1936_naval_mtg"
+	set_naval_oob = "GYP_naval_mtg"
 }
 
 	if = {
@@ -787,13 +808,13 @@ if = {
 		armored_car1 = 1
 	}
 }
-set_research_slots = 5
+set_research_slots = 3
 set_convoys = 704
 set_stability = 0.02
 set_war_support = 0.40
 
 add_ideas = {
-disarmed_nation
+service_by_requirement
 low_economic_mobilisation
 autarkic_economy
 }
@@ -821,19 +842,22 @@ autarkic_economy
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = national_socialism
 	last_election = "1908.7.10"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 3
-	fascism = 77
-	communism = 6
-	neutrality = 14
+	liberal_conservatism = 3
+	national_socialism = 67
+	fascism = 10
+	communist = 2
+	progressivism = 4
+	paternalism = 14
 }
 
-create_faction = faction_template_gypsy
+create_faction = faction_gypsy
 add_to_faction = GYP
 add_to_faction = RYK
 
+	add_ideas = { gypsy_mobilisation_idea }

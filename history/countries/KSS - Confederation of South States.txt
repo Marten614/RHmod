@@ -1,19 +1,19 @@
 capital = 299
 
-oob = "KSS_1936"
+oob = "KSS"
 if = {
 	limit = {
 		NOT = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "KSS_1936"
+	set_oob = "KSS"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "KSS_1936_nsb"
+	set_oob = "KSS_nsb"
 }
 starting_train_buffer = 2
 set_fuel_ratio = 0.8
@@ -187,7 +187,7 @@ if = {
 ### AIRFORCE ###
 if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "KSS_1936_air_bba"
+		set_air_oob = "KSS_air_bba"
 		set_technology = {
 			bba_early_transport_plane = 1
 			iw_small_airframe = 1
@@ -312,7 +312,7 @@ if = {
 		}
 
 	else = {
-		set_air_oob = "KSS_1936_air_legacy"
+		set_air_oob = "KSS_air_legacy"
 		set_technology = {
 			early_transport_plane = 1
 			early_fighter = 1
@@ -345,7 +345,7 @@ if = {
 	early_light_cruiser = 1
 	
 	}
-	set_naval_oob = "KSS_1936_naval"
+	set_naval_oob = "KSS_naval"
 }
 
 ### Ship Variants ###
@@ -500,7 +500,7 @@ if = {
 	submarine_mine_laying = 1
 	
 	}
-	set_naval_oob = "KSS_1936_naval_mtg"
+	set_naval_oob = "KSS_naval_mtg"
 }
 
 	if = {
@@ -798,16 +798,17 @@ limited_exports
 
 
 set_politics = {
-	ruling_party = communism
-	last_election = "1902.2.2"
+	ruling_party = communist
+	last_election = "1109.2.2"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 30
+	liberalism = 20
+	progressivism = 10
 	fascism = 12
-	communism = 42
-	neutrality = 16
+	communist = 42
+	paternalism = 16
 }
 
 

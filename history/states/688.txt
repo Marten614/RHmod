@@ -2,7 +2,7 @@
 state={
 	id=688
 	name="STATE_688"
-	manpower = 2461003
+	manpower = 246100
 	
 	state_category = city
 	#impassable = yes
@@ -33,6 +33,9 @@ state={
 			
 		}
 		add_core_of = TAP
+		add_claim_by = RYK
+
+		set_demilitarized_zone = yes
 	}
 
 	provinces={

@@ -1,19 +1,19 @@
 capital = 856
 
-oob = "MIN_1936"
+oob = "MIN"
 if = {
 	limit = {
 		NOT = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "MIN_1936"
+	set_oob = "MIN"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "MIN_1936_nsb"
+	set_oob = "MIN_nsb"
 }
 starting_train_buffer = 2
 set_fuel_ratio = 0.8
@@ -212,7 +212,7 @@ if = {
 ### AIRFORCE ###
 if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "MIN_1936_air_bba"
+		set_air_oob = "MIN_air_bba"
 		set_technology = {
 			bba_early_transport_plane = 1
 			iw_medium_airframe = 1
@@ -236,7 +236,7 @@ if = {
 		}
 
 	else = {
-		set_air_oob = "MIN_1936_air_legacy"
+		set_air_oob = "MIN_air_legacy"
 		set_technology = {
 			early_transport_plane = 1
 			early_bomber = 1
@@ -259,7 +259,7 @@ if = {
 	early_destroyer = 1
 	
 	}
-	set_naval_oob = "MIN_1936_naval"
+	set_naval_oob = "MIN_naval"
 }
 
 ### Ship Variants ###
@@ -293,7 +293,7 @@ if = {
 	sonar = 1
 	
 	}
-	set_naval_oob = "MIN_1936_naval_mtg"
+	set_naval_oob = "MIN_naval_mtg"
 }
 
 	if = {
@@ -429,16 +429,17 @@ autarkic_economy
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = despotism
 	last_election = "1933.1.7"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 3
+	liberal_conservatism = 3
 	fascism = 5
-	communism = 10
-	neutrality = 82
+	progressivism = 10
+	despotism = 78
+	paternalism = 4
 }
 
 

@@ -2,7 +2,7 @@
 state={
 	id=517
 	name="STATE_517"
-	manpower = 1887149
+	manpower = 188714
 	
 	state_category = large_town
 	#impassable = yes
@@ -24,7 +24,7 @@ state={
 		buildings = {
 			infrastructure = 3
 			
-			arms_factory = 1
+			arms_factory = 0
 			industrial_complex = 0
 			
 			

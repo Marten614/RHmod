@@ -261,12 +261,12 @@ characters = {
 
 
 	}
-	JEW_Naluk_Nangik={
-		name="Naluk Nangik"
+	JEW_Benjamin_Netanyahu={
+		name="Benjamin Netanyahu"
 
 		
 		country_leader={
-			ideology=rexism
+			ideology=national_socialism_burgundian_system_subtype
 			traits = { subservient_ultranationalist  }
 			expire="1965.1.1.1"
 			id=-1

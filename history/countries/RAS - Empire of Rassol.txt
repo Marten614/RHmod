@@ -1,23 +1,30 @@
-capital = 824
+capital = 981
 
-oob = "RAS_1936"
+oob = "RAS"
 if = {
 	limit = {
 		NOT = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "RAS_1936"
+	set_oob = "RAS"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "RAS_1936_nsb"
+	set_oob = "RAS_nsb"
 }
 starting_train_buffer = 2
 set_fuel_ratio = 0.8
 starting_truck_buffer = 0.8
+
+	set_autonomy = {
+		target = EXP
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.1
+	}
+
 
 # Starting tech
 set_technology = {
@@ -82,7 +89,7 @@ if = {
 ### AIRFORCE ###
 if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "RAS_1936_air_bba"
+		set_air_oob = "RAS_air_bba"
 		set_technology = {
 			iw_medium_airframe = 1
 			photo_reconnaisance = 1
@@ -103,7 +110,7 @@ if = {
 		}
 
 	else = {
-		set_air_oob = "RAS_1936_air_legacy"
+		set_air_oob = "RAS_air_legacy"
 		set_technology = {
 			early_bomber = 1
 			scout_plane1 = 1
@@ -134,7 +141,7 @@ if = {
 	early_submarine = 1
 	
 	}
-	set_naval_oob = "RAS_1936_naval"
+	set_naval_oob = "RAS_naval"
 }
 
 ### Ship Variants ###
@@ -262,7 +269,7 @@ if = {
 	sonar = 1
 	
 	}
-	set_naval_oob = "RAS_1936_naval_mtg"
+	set_naval_oob = "RAS_naval_mtg"
 }
 
 	if = {
@@ -520,16 +527,16 @@ limited_exports
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = paternalism
 	last_election = "1917.7.2"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 15
+	conservatism = 15
 	fascism = 4
-	communism = 7
-	neutrality = 74
+	socialist = 7
+	paternalism = 74
 }
 
 

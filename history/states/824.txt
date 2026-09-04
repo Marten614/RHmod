@@ -2,7 +2,7 @@
 state={
 	id=824
 	name="STATE_824"
-	manpower = 6375657
+	manpower = 637565
 	
 	state_category = megalopolis
 	#impassable = yes
@@ -18,7 +18,7 @@ state={
 
 	history={
 		victory_points = { 5408 5}
-		victory_points = { 5410 14}
+		victory_points = { 5410 2}
 		
 		owner = RAS
 		buildings = {

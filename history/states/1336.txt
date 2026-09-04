@@ -2,7 +2,7 @@
 state={
 	id=1336
 	name="STATE_1336"
-	manpower = 3676781
+	manpower = 367678
 	
 	state_category = large_city
 	#impassable = yes

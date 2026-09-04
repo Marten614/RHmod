@@ -2,7 +2,7 @@
 state={
 	id=657
 	name="STATE_657"
-	manpower = 1332477
+	manpower = 133247
 	
 	state_category = town
 	#impassable = yes
@@ -24,9 +24,9 @@ state={
 		owner = TAP
 		buildings = {
 			infrastructure = 3
-			air_base = 1
+			air_base = 0
 			arms_factory = 0
-			industrial_complex = 1
+			industrial_complex = 0
 			
 			
 		}

@@ -1,13 +1,14 @@
 characters = {
-	RAS_Dusz_Tram={
-		name="Dusz Tram"
+	RAS_Rassol={
+		name=RAS_Rassol
 
 		
 		country_leader={
-			ideology=moderatism
+			ideology=paternalism_national_conservatism_subtype
 			traits = { celebrity_junta_leader  }
 			expire="1965.1.1.1"
 			id=-1
+			desc=POLITICS_RASSOL_DESC
 		}
 
 	}

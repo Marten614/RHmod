@@ -1,19 +1,19 @@
 capital = 374
 
-oob = "TAP_1936"
+oob = "TAP"
 if = {
 	limit = {
 		NOT = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "TAP_1936"
+	set_oob = "TAP"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "TAP_1936_nsb"
+	set_oob = "TAP_nsb"
 }
 starting_train_buffer = 2
 set_fuel_ratio = 0.8
@@ -219,7 +219,7 @@ if = {
 ### AIRFORCE ###
 if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "TAP_1936_air_bba"
+		set_air_oob = "TAP_air_bba"
 		set_technology = {
 			iw_small_airframe = 1
 			iw_medium_airframe = 1
@@ -274,7 +274,7 @@ if = {
 		}
 
 	else = {
-		set_air_oob = "TAP_1936_air_legacy"
+		set_air_oob = "TAP_air_legacy"
 		set_technology = {
 			early_fighter = 1
 			early_bomber = 1
@@ -311,7 +311,7 @@ if = {
 	early_submarine = 1
 	
 	}
-	set_naval_oob = "TAP_1936_naval"
+	set_naval_oob = "TAP_naval"
 }
 
 ### Ship Variants ###
@@ -496,7 +496,7 @@ if = {
 	sonar = 1
 	
 	}
-	set_naval_oob = "TAP_1936_naval_mtg"
+	set_naval_oob = "TAP_naval_mtg"
 }
 
 	if = {
@@ -718,7 +718,7 @@ if = {
 
 	}
 
-recruit_character = TAP_Arkan _ulages
+recruit_character = TAP_Arkan _Gulages
 recruit_character = TAP_Iskariq_Masranzaghib
 recruit_character = TAP_Alidi_Namar
 recruit_character = TAP_Mahim_Imzia
@@ -829,16 +829,17 @@ autarkic_economy
 
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = progressivism
 	last_election = "1931.9.13"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 3
+	liberalism = 3
 	fascism = 15
-	communism = 76
-	neutrality = 6
+	progressivism = 51
+	communist = 25
+	paternalism = 6
 }
 
 

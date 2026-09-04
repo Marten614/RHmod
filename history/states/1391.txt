@@ -2,7 +2,7 @@
 state={
 	id=1391
 	name="STATE_1391"
-	manpower = 5717711
+	manpower = 571771
 	
 	state_category = megalopolis
 	#impassable = yes
@@ -27,9 +27,9 @@ state={
 		owner = BOG
 		buildings = {
 			infrastructure = 4
-			air_base = 1
+			air_base = 0
 			arms_factory = 2
-			industrial_complex = 1
+			industrial_complex = 0
 			dockyard = 1
 			8197 = {
 				naval_base = 1

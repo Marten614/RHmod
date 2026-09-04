@@ -2,7 +2,7 @@
 state={
 	id=198
 	name="STATE_198"
-	manpower = 1245594
+	manpower = 124559
 	
 	state_category = rural
 	#impassable = yes
@@ -23,7 +23,7 @@ state={
 		owner = RYK
 		buildings = {
 			infrastructure = 3
-			air_base = 1
+			air_base = 0
 			arms_factory = 0
 			industrial_complex = 0
 			

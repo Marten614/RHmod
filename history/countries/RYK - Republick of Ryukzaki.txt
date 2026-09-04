@@ -1,19 +1,19 @@
 capital = 368
 
-oob = "RYK_1936"
+oob = "RYK"
 if = {
 	limit = {
 		NOT = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "RYK_1936"
+	set_oob = "RYK"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "RYK_1936_nsb"
+	set_oob = "RYK_nsb"
 }
 starting_train_buffer = 2
 set_fuel_ratio = 0.8
@@ -194,7 +194,7 @@ if = {
 ### AIRFORCE ###
 if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "RYK_1936_air_bba"
+		set_air_oob = "RYK_air_bba"
 		set_technology = {
 			bba_early_transport_plane = 1
 			iw_small_airframe = 1
@@ -247,7 +247,7 @@ if = {
 		}
 
 	else = {
-		set_air_oob = "RYK_1936_air_legacy"
+		set_air_oob = "RYK_air_legacy"
 		set_technology = {
 			early_transport_plane = 1
 			early_fighter = 1
@@ -282,7 +282,7 @@ if = {
 	early_submarine = 1
 	
 	}
-	set_naval_oob = "RYK_1936_naval"
+	set_naval_oob = "RYK_naval"
 }
 
 ### Ship Variants ###
@@ -442,7 +442,7 @@ if = {
 	submarine_mine_laying = 1
 	
 	}
-	set_naval_oob = "RYK_1936_naval_mtg"
+	set_naval_oob = "RYK_naval_mtg"
 }
 
 	if = {
@@ -761,16 +761,16 @@ limited_exports
 	}
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = despotism
 	last_election = "1932.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 3
+	paternalism = 3
 	fascism = 38
-	communism = 6
-	neutrality = 53
+	progressivism = 6
+	despotism = 53
 }
 
 

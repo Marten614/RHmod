@@ -2,7 +2,7 @@
 state={
 	id=1080
 	name="STATE_1080"
-	manpower = 387440
+	manpower = 38744
 	
 	state_category = pastoral
 	#impassable = yes
@@ -22,7 +22,7 @@ state={
 		owner = STL
 		buildings = {
 			infrastructure = 3
-			air_base = 1
+			air_base = 0
 			arms_factory = 0
 			industrial_complex = 0
 			

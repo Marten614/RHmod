@@ -1,19 +1,19 @@
 capital = 1391
 
-oob = "BOG_1936"
+oob = "BOG"
 if = {
 	limit = {
 		NOT = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "BOG_1936"
+	set_oob = "BOG"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "BOG_1936_nsb"
+	set_oob = "BOG_nsb"
 }
 starting_train_buffer = 2
 set_fuel_ratio = 0.8
@@ -210,7 +210,7 @@ if = {
 ### AIRFORCE ###
 if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "BOG_1936_air_bba"
+		set_air_oob = "BOG_air_bba"
 		set_technology = {
 			bba_early_transport_plane = 1
 			iw_small_airframe = 1
@@ -268,7 +268,7 @@ if = {
 		}
 
 	else = {
-		set_air_oob = "BOG_1936_air_legacy"
+		set_air_oob = "BOG_air_legacy"
 		set_technology = {
 			early_transport_plane = 1
 			early_fighter = 1
@@ -302,7 +302,7 @@ if = {
 	early_submarine = 1
 	
 	}
-	set_naval_oob = "BOG_1936_naval"
+	set_naval_oob = "BOG_naval"
 }
 
 ### Ship Variants ###
@@ -445,7 +445,7 @@ if = {
 	submarine_mine_laying = 1
 	
 	}
-	set_naval_oob = "BOG_1936_naval_mtg"
+	set_naval_oob = "BOG_naval_mtg"
 }
 
 	if = {
@@ -611,7 +611,6 @@ if = {
 	}
 
 recruit_character = BOG_Bogdan_Salyoniy
-recruit_character = BOG_Abdullah_Bahel
 recruit_character = BOG_Samar_Shira
 recruit_character = BOG_Ahmariq_Saada
 recruit_character = BOG_Tarid_Hijrasrah
@@ -674,7 +673,6 @@ recruit_character = BOG_Karid_Mustar
 recruit_character = BOG_Yahmoud_Turah
 recruit_character = BOG_Anwar_Haba
 recruit_character = BOG_Abdullah_Nahra
-recruit_character = BOG_Jami_Taykh
 recruit_character = BOG_Ahmoud_Salb
 recruit_character = BOG_Tarid_Shamt
 recruit_character = BOG_Mohamir_Turahalifa
@@ -721,15 +719,15 @@ closed_economy
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = socialist
 	last_election = "1899.1.13"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 95
+	socialist = 95
 	fascism = 1
-	communism = 1
-	neutrality = 3
+	communist = 1
+	paternalism = 3
 }
 

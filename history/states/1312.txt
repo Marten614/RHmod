@@ -2,7 +2,7 @@
 state={
 	id=1312
 	name="STATE_1312"
-	manpower = 1369351
+	manpower = 136935
 	
 	state_category = rural
 	#impassable = yes
@@ -23,8 +23,8 @@ state={
 		owner = ETL
 		buildings = {
 			infrastructure = 3
-			air_base = 1
-			arms_factory = 1
+			air_base = 0
+			arms_factory = 0
 			industrial_complex = 0
 			
 			

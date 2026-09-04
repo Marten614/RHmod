@@ -2,7 +2,7 @@
 state={
 	id=184
 	name="STATE_184"
-	manpower = 713243
+	manpower = 71324
 	
 	state_category = pastoral
 	#impassable = yes
@@ -21,7 +21,7 @@ state={
 		owner = GYP
 		buildings = {
 			infrastructure = 2
-			air_base = 1
+			air_base = 0
 			arms_factory = 0
 			industrial_complex = 0
 			

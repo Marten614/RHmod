@@ -2,7 +2,7 @@
 state={
 	id=581
 	name="STATE_581"
-	manpower = 3633181
+	manpower = 363318
 	
 	state_category = large_city
 	#impassable = yes
@@ -24,13 +24,16 @@ state={
 		owner = TAP
 		buildings = {
 			infrastructure = 4
-			air_base = 1
+			air_base = 0
 			arms_factory = 0
 			industrial_complex = 2
 			
 			
 		}
 		add_core_of = TAP
+		add_claim_by = RYK
+
+		set_demilitarized_zone = yes
 	}
 
 	provinces={

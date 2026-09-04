@@ -523,12 +523,12 @@ characters = {
 
 
 	}
-	TAP_Yusuf_Imzia={
-		name="Yusuf Imzia"
+	TAP_Arkan _Gulages={
+		name="Arkan Gulages"
 
 		
 		country_leader={
-			ideology=marxism
+			ideology=progressivism_popular_front_subtype
 			traits = { patriotic_socialist  }
 			expire="1965.1.1.1"
 			id=-1

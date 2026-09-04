@@ -1,15 +1,18 @@
 characters = {
-	EXP_Fajari_Gerang={
-		name="Fajari Gerang"
+	EXP_General_Staff_of_the_Coalition={
+		name="General Staff of the Coalition"
 
 		
 		country_leader={
-			ideology=despotism
-			traits = { veteran_anti_bolshevik  }
+			ideology=paternalism_provisional_government_subtype
 			expire="1965.1.1.1"
 			id=-1
 		}
-
+		portraits = {
+			civilian = {
+				large = GFX_portrait_General_Staff_of_the_Coalition
+			}
+		}
 	}
 	EXP_Arjuna_Alamahayarem={
 		name="Arjuna Alamahayarem"

@@ -1,0 +1,739 @@
+
+music_station = "cttwost"
+
+music = {
+	song = "aarktica_you_have_cured_a_million_ghosts_from_roaming_in_my_head"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "adaptacia_ya_ybivay_seba"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "amelia_frank_ostansa"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "ave_plague_king_plague"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "benny_benassi_i_love_my_sex"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "boombapoldschool_type_instrumental_2020_redzed"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "boyarsky_yedy"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "chi_li_serdce"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "daytov_odinohestvo"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorbez_better_off_alone_hardstyle_remix"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorbez_muzika_dlya_veherinki"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorbez_non_stop_house_phonk"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorbez_vso_sloshno"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_10"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_12"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_2"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_5"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_65"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_8"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_9"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_do_tla"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_goni"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_gryst"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_hhh"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_intro"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_mdm"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_rape_me"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_sick_brains"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_symrak"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_vethaya_vesna_grob_cover"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_vethnya_pethal"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_vintovka"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorgez_za_dedov"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "free_redzed_x_terror_reid_x_ramirez_type_beat_venom_boombap_oldschool_instru"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "hanna_agyzarova_otel"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "egorbez_kah"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "idm_ego"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "idm_ylici"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "kino_nam_s_toboy"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "kino_skazka"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "kino_sledi_za_soboi"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "kryg"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "kult_odinocestva_smert"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "kult_odinocestva_teni"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mirash_gde_ya"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_13"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_14"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_alienation"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_daydreaming"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_elevator"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_feeling_tired"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_hour_of_sunshine"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_post_anxiety"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_purple_clouds"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_rewind_and_go"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_serenity"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_the_life_beyond"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_tommorow"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "mizzery_yet_another_day"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "nekuda_disquiet"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "nekuda_intro"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "nekuda_juvelines_kissing"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "nekuda_stolen_harmony"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "ostrova"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "otmena_vsego_horoshego"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "otravlenna_gorod"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "peremotka_vo_sne"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "permsky_kray_hudshii_den"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "permsky_kray_liza"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "permsky_kray_sdelano_v_rossii"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "polytence_acedia"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "postgoth_sad"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "post_punk_x_new_wave_type_instrumental_nihilism_prod_rolvnd"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "real_cr1me_barir"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "redzed_am_i_not_a_man_instrumental"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "romantik_m_spasatelnyi_krug_igor_talkov_cover"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "sektor_gaza_punk"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "sewerslvt_the_last_thing_she_sent_me"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "shoegazer_flight"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "timo_maas_first_day"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "towa_new_city"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "triangle_la_valse_des_flammes"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "twodaysound_motilek"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "unost_groma_kyry"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "varshavanka"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "vyrval"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "ylica_vostok_nahi_dni"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "zapad81_medal"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "zapad81_tak_i_nado"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "zapad81_v_dab"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "zveri_dlya_tebya"
+	chance = {
+		modifier = {
+			factor = 0.1
+		}		
+	}
+}
+music = {
+	song = "___"
+	chance = {
+		modifier = {
+			factor = 0
+		}		
+	}
+}

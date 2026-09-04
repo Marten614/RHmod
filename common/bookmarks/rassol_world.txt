@@ -1,0 +1,38 @@
+bookmarks = {
+	bookmark = {
+		name = "RASSOL_WORLD_NAME"
+		desc = "RASSOL_WORLD_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "GYP"
+		
+		
+		GYP={
+			history = "gypsy_RASSOL_WORLD_DESC"
+			ideology = neutrality
+			ideas = {
+				gypsy_mobilisation_idea
+			}
+			focuses = {
+			}
+		}
+		
+		RAS={
+			history = "rassol_RASSOL_WORLD_DESC"
+			ideology = fascism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		
+		"---"={
+			history = "OTHER_RASSOL_WORLD_DESC"
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

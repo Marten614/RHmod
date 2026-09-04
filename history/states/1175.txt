@@ -2,7 +2,7 @@
 state={
 	id=1175
 	name="STATE_1175"
-	manpower = 1303219
+	manpower = 130321
 	
 	state_category = town
 	#impassable = yes

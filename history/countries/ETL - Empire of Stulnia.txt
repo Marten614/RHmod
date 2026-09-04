@@ -1,19 +1,19 @@
 capital = 1220
 
-oob = "ETL_1936"
+oob = "ETL"
 if = {
 	limit = {
 		NOT = {
 			has_dlc = "No Step Back"
 		}
 	}
-	set_oob = "ETL_1936"
+	set_oob = "ETL"
 }
 if = {
 	limit = {
 		has_dlc = "No Step Back"
 	}
-	set_oob = "ETL_1936_nsb"
+	set_oob = "ETL_nsb"
 }
 starting_train_buffer = 2
 set_fuel_ratio = 0.8
@@ -218,7 +218,7 @@ if = {
 ### AIRFORCE ###
 if = {
 	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "ETL_1936_air_bba"
+		set_air_oob = "ETL_air_bba"
 		set_technology = {
 			bba_early_transport_plane = 1
 			iw_small_airframe = 1
@@ -305,7 +305,7 @@ if = {
 		}
 
 	else = {
-		set_air_oob = "ETL_1936_air_legacy"
+		set_air_oob = "ETL_air_legacy"
 		set_technology = {
 			early_transport_plane = 1
 			early_fighter = 1
@@ -343,7 +343,7 @@ if = {
 	early_submarine = 1
 	
 	}
-	set_naval_oob = "ETL_1936_naval"
+	set_naval_oob = "ETL_naval"
 }
 
 ### Ship Variants ###
@@ -527,7 +527,7 @@ if = {
 	submarine_mine_laying = 1
 	
 	}
-	set_naval_oob = "ETL_1936_naval_mtg"
+	set_naval_oob = "ETL_naval_mtg"
 }
 
 	if = {
@@ -865,16 +865,17 @@ export_focus
 	}
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = ultranationalism
 	last_election = "1934.2.16"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 8
-	fascism = 89
-	communism = 2
-	neutrality = 1
+	ultranationalism = 59
+	fascism = 8
+	national_socialism = 30
+	communist = 2
+	paternalism = 1
 }
 
 

@@ -1,0 +1,31 @@
+faction_template_gypsy = {
+	name = faction_gypsy
+	manifest = faction_manifest_strength_in_unity
+	can_leader_join_other_factions = yes
+	# color = { 179 183 235 } # this should default to faction leader's color
+	icon = GFX_faction_logo_generic_15
+	visible = {
+		always = no # Fallback template, should not be selectable 
+	}
+	available = {
+		has_government = fascsim
+	}
+
+	goals = {
+		# Short term goals
+		# faction_goal_growing_the_faction
+		# faction_goal_military_infrastructure
+
+		# Medium term goals
+		faction_goal_a_military_base
+
+		# Long terms
+		faction_goal_defeating_our_enemies
+	}
+
+	default_rules = {
+		joining_rule_neighbors_only
+		change_leader_rule_never
+	}
+	
+}

@@ -2,7 +2,7 @@
 state={
 	id=1366
 	name="STATE_1366"
-	manpower = 4202789
+	manpower = 420278
 	
 	state_category = metropolis
 	#impassable = yes
@@ -23,9 +23,9 @@ state={
 		owner = STL
 		buildings = {
 			infrastructure = 4
-			air_base = 1
+			air_base = 0
 			arms_factory = 2
-			industrial_complex = 1
+			industrial_complex = 0
 			
 			8062 = {
 				naval_base = 1

@@ -2,7 +2,7 @@
 state={
 	id=376
 	name="STATE_376"
-	manpower = 163397
+	manpower = 16339
 	
 	state_category = pastoral
 	#impassable = yes
@@ -32,6 +32,10 @@ state={
 			
 		}
 		add_core_of = TAP
+		add_core_of = RYK
+		add_claim_by = RYK
+
+		set_demilitarized_zone = yes
 	}
 
 	provinces={

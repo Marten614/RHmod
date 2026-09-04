@@ -2,7 +2,7 @@
 state={
 	id=880
 	name="STATE_880"
-	manpower = 203738
+	manpower = 20373
 	
 	state_category = pastoral
 	#impassable = yes
@@ -17,7 +17,7 @@ state={
 	}
 
 	history={
-		victory_points = { 5686 1}
+		victory_points = { 5686 2}
 		
 		owner = RAS
 		buildings = {

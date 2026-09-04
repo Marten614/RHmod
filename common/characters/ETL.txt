@@ -261,12 +261,12 @@ characters = {
 
 
 	}
-	ETL_Waya_Hidunung={
-		name="Waya Hidunung"
+	ETL_Valyok_Vsemoguchiy={
+		name="Valyok Vsemoguchiy"
 
 		
 		country_leader={
-			ideology=fascism_ideology
+			ideology=ultranationalism_stratocracy_subtype
 			traits = { autokrator  }
 			expire="1965.1.1.1"
 			id=-1

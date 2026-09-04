@@ -2,7 +2,7 @@
 state={
 	id=526
 	name="STATE_526"
-	manpower = 2319610
+	manpower = 231961
 	
 	state_category = large_town
 	#impassable = yes
@@ -23,8 +23,8 @@ state={
 		owner = GYP
 		buildings = {
 			infrastructure = 4
-			air_base = 1
-			arms_factory = 1
+			air_base = 0
+			arms_factory = 0
 			industrial_complex = 0
 			
 			
